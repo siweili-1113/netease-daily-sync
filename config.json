@@ -1,4 +1,10 @@
 {
-  "playlist_id": "",
-  "_comment_playlist_id": "网易云歌单 ID，用于自动归档日推。在网易云创建一个空歌单，复制歌单链接中的数字 ID 填入此处。留空则不同步到歌单。"
+  "_comment": "netease-daily-sync 配置文件",
+  "sources": [
+    {"key": "daily",        "name": "ClaudeCode_自动加入_每日推荐",    "type": "daily"},
+    {"key": "eu_radio",     "name": "ClaudeCode_自动加入_欧美私人订制", "type": "playlist", "pid": "2829816518"},
+    {"key": "personal",     "name": "ClaudeCode_自动加入_私人雷达",     "type": "playlist", "pid": "3136952023"},
+    {"key": "time_capsule", "name": "ClaudeCode_自动加入_时光雷达",     "type": "playlist", "pid": "5320167908"},
+    {"key": "treasure",     "name": "ClaudeCode_自动加入_宝藏雷达",     "type": "playlist", "pid": "5362359247"}
+  ]
 }

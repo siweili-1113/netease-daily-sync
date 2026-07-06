@@ -1,80 +1,117 @@
 # netease-daily-sync
 
-网易云每日推荐自动归档工具。每天自动拉取网易云日推，去重后归档到 GitHub 仓库，同时生成 LX Music 可导入的歌单文件。
+网易云每日推荐自动归档工具。每天自动拉取 5 个推荐来源，去重后写入对应的网易云歌单，LX Music 打开即听。
 
-## 功能
+## 工作原理
 
-- 用 Python 直接调用网易云 weapi，无需 Node.js
-- 每天自动拉取每日推荐 30 首歌
-- 去重后归档到 `today.md` 和按月归档文件
-- 生成 `today.lxmc` 歌单文件，可直接导入 [LX Music](https://github.com/lyswhut/lx-music-desktop)
-- 可选：在 `today.md` 里标记 `[x]` 喜欢的歌，自动反向同步到网易云红心训练算法
-- GitHub Actions 每天 06:30 自动运行
+```
+GitHub Actions (每天 06:30 云端运行)
+  ├─ 每日推荐 → ClaudeCode_自动加入_每日推荐
+  ├─ 欧美私人订制 → ClaudeCode_自动加入_欧美私人订制
+  ├─ 私人雷达 → ClaudeCode_自动加入_私人雷达
+  ├─ 时光雷达 → ClaudeCode_自动加入_时光雷达
+  └─ 宝藏雷达 → ClaudeCode_自动加入_宝藏雷达
 
-## LX Music 导入
-
-每天同步后，仓库根目录会生成 `today.lxmc` 文件：
-
-1. 下载 `today.lxmc`
-2. 打开 LX Music Desktop → 设置 → 备份与恢复 → 导入
-3. 选择下载的 `.lxmc` 文件即可
-
-> **注意**：LX Music 使用 "wy" 音源播放网易云歌曲，实际能否播放取决于音源可用性。
+你的 LX Music → 网易云歌单 → 直接播放
+不需要电脑开机、不需要 VPN、不需要手动操作
+```
 
 ## 快速开始
 
-### 1. 安装依赖
+### 1. Fork 本仓库
+
+### 2. 安装依赖
 
 ```bash
 pip install cryptography requests
 ```
 
-### 2. 登录网易云
+### 3. 登录网易云
 
 ```bash
-# 发送验证码
-python sync.py login 13800138000
-
-# 用验证码登录
-python sync.py login 13800138000 1234
+python sync.py login 你的手机号
 ```
 
-登录成功后会输出 Cookie 字符串，复制它。
+输入验证码后，脚本会输出 Cookie 字符串。
 
-### 3. 配置 GitHub
+### 4. 配置 GitHub Secrets
 
-1. Fork 本仓库
-2. 进入仓库 Settings → Secrets and variables → Actions
-3. 添加 Secret：`NCM_COOKIE`，值为上一步复制的 Cookie
+1. 打开仓库 Settings → Secrets and variables → Actions
+2. 点击 **New repository secret**
+3. Name：`NCM_COOKIE`
+4. Value：粘贴上一步输出的 Cookie 字符串
+5. 点击 **Add secret**
 
-### 4. 开始使用
+### 5. 手动运行一次
 
-GitHub Actions 每天早上 06:30（北京时间）自动运行，你也可以手动触发。
+打开仓库 Actions → Daily Sync → **Run workflow**
 
-运行后仓库会更新：
-- `today.md` — 今日推荐歌曲列表
-- `today.lxmc` — LX Music 歌单文件
-- `archive/YYYY-MM.md` — 按月归档
-- `data/history.json` — 去重历史
+### 6. 验证
+
+打开网易云 App，搜索 `ClaudeCode_自动加入`，应该能看到 5 个歌单。
+
+---
+
+## Cookie 更新教程
+
+Cookie 有效期约 **14 天**。过期后 GitHub Actions 会失败，你会收到邮件通知。
+
+### 更新步骤（< 2 分钟）
+
+**第 1 步**：打开终端，进入项目目录，重新登录
+
+```bash
+cd netease-daily-sync
+python sync.py login 你的手机号
+# 输入收到的验证码
+```
+
+登录成功后脚本会自动打印新 Cookie 和操作指引。
+
+**第 2 步**：复制打印出的 Cookie 字符串
+
+**第 3 步**：更新 GitHub Secret
+
+打开 https://github.com/<你的用户名>/netease-daily-sync/settings/secrets/actions
+
+找到 `NCM_COOKIE` → 点击编辑（铅笔图标）→ 粘贴新 Cookie → 保存
+
+**第 4 步**：抢救今天的日推
+
+打开 https://github.com/<你的用户名>/netease-daily-sync/actions
+
+点击 **Daily Sync** → **Run workflow** → **Run workflow**
+
+当天日推就会自动补上。
+
+---
 
 ## 命令参考
 
 ```bash
-python sync.py sync              # 拉取日推并归档
-python sync.py sync --dry-run    # 预览模式，不修改任何文件
-python sync.py like              # 反向同步喜欢到网易云
+python sync.py sync              # 拉取全部来源，同步到网易云歌单
+python sync.py sync --dry-run    # 预览模式，不实际写入
+python sync.py like              # 反向同步喜欢到网易云红心
 python sync.py login <手机号>     # 发送验证码
-python sync.py login <手机号> <验证码>  # 登录
+python sync.py login <手机号> <验证码>  # 登录获取 Cookie
 python sync.py check             # 检查登录状态
 ```
 
-## Cookie 过期
+## 订阅来源
 
-网易云 Cookie 通常有效 1-3 个月。过期后 Actions 会失败，届时重新执行 `python sync.py login` 更新 Secret 即可。
+| 网易云歌单 | 来源 | 更新频率 | 数量 |
+|-----------|------|:--:|:--:|
+| ClaudeCode_自动加入_每日推荐 | 每日推荐 | 每天 | ~30 |
+| ClaudeCode_自动加入_欧美私人订制 | 欧美私人订制 | 每天 | ~35 |
+| ClaudeCode_自动加入_私人雷达 | 私人雷达 | 每天 | ~35 |
+| ClaudeCode_自动加入_时光雷达 | 时光雷达 | 每天 | ~30 |
+| ClaudeCode_自动加入_宝藏雷达 | 宝藏雷达 | 每天 | ~30 |
+
+> 自动去重：同一首歌不会重复加入歌单。
 
 ## 依赖
 
 - `cryptography` — weapi 加密
 - `requests` — HTTP 请求
 
-纯 Python 实现，不依赖 Node.js 或 Docker。
+纯 Python，不依赖 Node.js 或 Docker。
