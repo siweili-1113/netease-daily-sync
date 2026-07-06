@@ -9,6 +9,7 @@
 import requests
 import json
 import base64
+import gzip
 import os
 import sys
 import time
@@ -267,6 +268,47 @@ def append_to_archive(songs, date_str):
 
 
 # ═══════════════════════════════════════════════════════
+#  LX Music 导出
+# ═══════════════════════════════════════════════════════
+
+def generate_lxmc(songs, date_str):
+    """生成 LX Music .lxmc 歌单文件（gzip 压缩的 JSON）"""
+    playlist = {
+        "type": "playListPart_v2",
+        "data": {
+            "id": f"netease-daily-{date_str}",
+            "name": f"每日推荐 {date_str}",
+            "list": []
+        }
+    }
+
+    for s in songs:
+        track = {
+            "id": f"wy_{s['id']}",
+            "name": s["name"],
+            "singer": s["artist"],
+            "source": "wy",
+            "interval": s["duration"] if s["duration"] else "00:00",
+            "meta": {
+                "songId": s["id"],
+                "albumName": s["album"],
+                "qualitys": [
+                    {"type": "128k", "size": None},
+                    {"type": "320k", "size": None},
+                ]
+            }
+        }
+        playlist["data"]["list"].append(track)
+
+    json_bytes = json.dumps(playlist, ensure_ascii=False, indent=2).encode('utf-8')
+    path = ROOT / 'today.lxmc'
+    with gzip.open(path, 'wb') as f:
+        f.write(json_bytes)
+
+    return path
+
+
+# ═══════════════════════════════════════════════════════
 #  反向同步：读取 today.md 中标记的喜欢
 # ═══════════════════════════════════════════════════════
 
@@ -323,6 +365,10 @@ def cmd_sync(client, dry_run=False):
     today_md = generate_today_md(new_songs, date_str, total_archived)
     (ROOT / 'today.md').write_text(today_md, encoding='utf-8')
     print(f'[sync] today.md 已更新')
+
+    # 生成 LX Music 歌单
+    lxmc_path = generate_lxmc(new_songs, date_str)
+    print(f'[sync] {lxmc_path.name} 已生成')
 
     # 追加到月度归档
     append_to_archive(new_songs, date_str)
