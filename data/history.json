@@ -2,9 +2,12 @@
   "2026-07-06": {
     "total_new": 163
   },
-  "total_archived": 487,
-  "last_sync": "2026-07-07",
+  "total_archived": 610,
+  "last_sync": "2026-07-08",
   "2026-07-07": {
     "total_new": 163
+  },
+  "2026-07-08": {
+    "total_new": 123
   }
 }
