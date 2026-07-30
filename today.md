@@ -1,107 +1,100 @@
 # 每日归档 2026-07-30
 
-## ClaudeCode_自动加入_每日推荐 — 32 首
+## ClaudeCode_自动加入_每日推荐 — 30 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Album Preview: Who You Are Is Not Enough](https://music.163.com/song?id=32063341) | Athletics | 9:01 |
-| 2 | [Камин](https://music.163.com/song?id=2125528489) | EMIN / JONY | 3:07 |
-| 3 | [KOKORONASHI](https://music.163.com/song?id=1822347515) | Olutorops | 4:32 |
-| 4 | [Creepin`up On You](https://music.163.com/song?id=5109310) | Darren Hayes | 4:53 |
-| 5 | [Fireflies](https://music.163.com/song?id=3404039838) | Martin Garrix / U2 | 4:23 |
-| 6 | [Tear](https://music.163.com/song?id=3389656157) | Rich Brian | 4:09 |
-| 7 | [We Never (若如初见)](https://music.163.com/song?id=3399022306) | YAYI / freezepain | 1:30 |
-| 8 | [SLOW MOTION (CASTLE. Remix)](https://music.163.com/song?id=2674852803) | Jonah Marais / Castle. | 3:06 |
-| 9 | [love again](https://music.163.com/song?id=2082024833) | Ada LeAnn | 3:15 |
-| 10 | [eyes blue or brown, can't remember](https://music.163.com/song?id=1848034770) | untrusted / Pretence / 11:11 Music Group | 3:00 |
-| 11 | [Jet Stream Heart](https://music.163.com/song?id=3344142671) | Temples | 3:39 |
-| 12 | [MONTAGEM REBOLA](https://music.163.com/song?id=2748872281) | Atlxs / DJ FKU | 1:41 |
-| 13 | [haunt u](https://music.163.com/song?id=461811935) | Lil Peep / mysticphonk | 1:57 |
-| 14 | [烟火里的尘埃](https://music.163.com/song?id=29004400) | 华晨宇 | 5:21 |
-| 15 | [chaos.exe](https://music.163.com/song?id=3402236035) | 三Z-STUDIO / HOYO-MiX | 2:42 |
-| 16 | [Notion](https://music.163.com/song?id=1488153681) | The Rare Occasions | 3:15 |
-| 17 | [Hopeless Case](https://music.163.com/song?id=41643739) | Roam | 3:16 |
-| 18 | [幸福](https://music.163.com/song?id=3400724462) | 灯诱LampLure | 4:46 |
-| 19 | [keep asking you why (feat. RJ Pasin)](https://music.163.com/song?id=2166104105) | ptasinski / RJ Pasin / m3gatron | 1:37 |
-| 20 | [Rainy Days](https://music.163.com/song?id=1422787535) | Alf Wardhana | 3:36 |
-| 21 | [Okay Alone](https://music.163.com/song?id=1913115303) | Sineself / Luma | 4:00 |
-| 22 | [Fading Echo](https://music.163.com/song?id=2757745665) | tianyang | 1:41 |
-| 23 | [未完结的夏天](https://music.163.com/song?id=2730205168) | 凌晨一点的莱茵猫 | 2:57 |
-| 24 | [凌月](https://music.163.com/song?id=3409578678) | 丁世光 | 3:37 |
-| 25 | [Chills](https://music.163.com/song?id=2051001436) | Le Youth | 4:19 |
-| 26 | [Void King](https://music.163.com/song?id=3378778211) | NENX / RANGE | 2:04 |
-| 27 | [Full moon](https://music.163.com/song?id=2131623831) | LENmoment | 1:50 |
-| 28 | [存在主义](https://music.163.com/song?id=2705708860) | 浦栗子SpuChestnut | 1:45 |
-| 29 | [glowstone](https://music.163.com/song?id=2719484818) | Nato Kitch | 1:54 |
-| 30 | [Seena](https://music.163.com/song?id=1977991026) | Lunaar | 2:54 |
-| 31 | [Float](https://music.163.com/song?id=2688930656) | Jada Facer | 3:48 |
-| 32 | [I Wanna Be In The Cavalry](https://music.163.com/song?id=1899367900) | Seth Staton Watkins | 2:30 |
+| 1 | [Billie Jean (Extended)](https://music.163.com/song?id=26643898) | Michael Jackson | 6:22 |
+| 2 | [Moving Clocks Run Slow](https://music.163.com/song?id=19774203) | We Were Promised Jetpacks | 4:56 |
+| 3 | [BONITO ROUBO](https://music.163.com/song?id=2680707481) | Scythermane / DJ LYVIXRA / Hugomasked | 1:37 |
+| 4 | [雨夜金菲士](https://music.163.com/song?id=2162980500) | Mozza | 3:28 |
+| 5 | [Call Me Maybe (Radio Edit)](https://music.163.com/song?id=1306719399) | Radio Edit | 3:12 |
+| 6 | [Starry](https://music.163.com/song?id=3391221905) | Himalala | 3:16 |
+| 7 | [putting a spin on payphone](https://music.163.com/song?id=1474420962) | Egg | 4:18 |
+| 8 | [homies](https://music.163.com/song?id=2016979487) | Saint Harison / Tiana Major9 | 3:45 |
+| 9 | [PIMMIE'S DILEMMA](https://music.163.com/song?id=2675114848) | Pimmie / PARTYNEXTDOOR / Drake | 1:58 |
+| 10 | [Rằng Em Mãi Ở Bên (Beat)](https://music.163.com/song?id=537672675) | Bích Phương | 3:42 |
+| 11 | [is it 2 far?](https://music.163.com/song?id=3377891749) | Vincentz | 3:00 |
+| 12 | [evol](https://music.163.com/song?id=2641046433) | Velours | 2:13 |
+| 13 | [Take My Mind](https://music.163.com/song?id=2716289657) | WizTheMC / bees & honey | 2:51 |
+| 14 | [late night lover](https://music.163.com/song?id=3374262801) | 三棱镜 | 2:07 |
+| 15 | [Life on Edge](https://music.163.com/song?id=3375557747) | Lil Tjay | 3:01 |
+| 16 | [Peaches](https://music.163.com/song?id=1907161101) | Justin Bieber / Daniel Caesar / GIVĒON | 3:18 |
+| 17 | [Way Back (Sped Up)](https://music.163.com/song?id=2608374714) | Cozi Zuehlsdorff / Vicetone | 3:11 |
+| 18 | [Beloved cat](https://music.163.com/song?id=2637354182) | EAGLE MOONTAINER | 3:40 |
+| 19 | [Another Drink](https://music.163.com/song?id=3398151041) | Marshmello / Kelsea Ballerini | 2:33 |
+| 20 | [can't say](https://music.163.com/song?id=3359035705) | Jux | 3:04 |
+| 21 | [pretty](https://music.163.com/song?id=2677375026) | JVKE | 2:30 |
+| 22 | [She Said No](https://music.163.com/song?id=1944897331) | BoyWithUke | 2:34 |
+| 23 | [LEVEL UP!](https://music.163.com/song?id=2675874787) | Marxo | 1:31 |
+| 24 | [你是永远的盛夏](https://music.163.com/song?id=3386433252) | Youzee Music | 2:44 |
+| 25 | [im not alright](https://music.163.com/song?id=3347310497) | s0rrow | 1:57 |
+| 26 | [change my mind](https://music.163.com/song?id=3347421250) | Altare | 3:18 |
+| 27 | [new year theme 2025](https://music.163.com/song?id=2661478514) | Corn Wave | 5:16 |
+| 28 | [villain](https://music.163.com/song?id=1976636697) | mj apanay | 2:33 |
+| 29 | [The Summer Ends](https://music.163.com/song?id=16502163) | American Football | 4:46 |
+| 30 | [Heaven Sent](https://music.163.com/song?id=2027095411) | Tevomxntana | 2:30 |
 
 ## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Saturdays](https://music.163.com/song?id=415904458) | Zach Seabaugh | 3:00 |
+| 1 | [Shut up My Moms Calling](https://music.163.com/song?id=2080018629) | Karry_b | 2:15 |
 
-## ClaudeCode_自动加入_私人雷达 — 6 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [飞机场的10:30](https://music.163.com/song?id=150651) | 陶喆 | 4:40 |
-| 2 | [Lonely](https://music.163.com/song?id=21274655) | Nana | 6:21 |
-| 3 | [IF YOU](https://music.163.com/song?id=32922450) | BIGBANG | 4:24 |
-| 4 | [Komorebi](https://music.163.com/song?id=29803287) | 田熊理秀 | 3:32 |
-| 5 | [Where Is Your Love](https://music.163.com/song?id=458725081) | J. Lisk | 2:37 |
-| 6 | [Pneumatic Tokyo](https://music.163.com/song?id=33937527) | EnV | 3:49 |
-
-## ClaudeCode_自动加入_时光雷达 — 18 首
+## ClaudeCode_自动加入_私人雷达 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Animals](https://music.163.com/song?id=28987626) | Maroon 5 | 3:51 |
-| 2 | [The Other](https://music.163.com/song?id=31273503) | LAUV | 3:09 |
-| 3 | [Be What You Wanna Be](https://music.163.com/song?id=1217823) | Darin | 3:30 |
-| 4 | [Home](https://music.163.com/song?id=1886331142) | Zach Sorgen | 3:00 |
-| 5 | [Down the Shore](https://music.163.com/song?id=1436081783) | Work Drugs | 3:23 |
-| 6 | [Now U Do (Edit)](https://music.163.com/song?id=2061697288) | DJ Seinfeld / Confidence Man | 2:38 |
-| 7 | [Alone On D Beach](https://music.163.com/song?id=1325376288) | AYEON | 3:03 |
-| 8 | [King of the Mountain](https://music.163.com/song?id=1311825633) | Louis II | 3:44 |
-| 9 | [Strawberries & Sunsets (feat. Bren Joy)](https://music.163.com/song?id=1943615831) | Fleurie / Bren Joy | 3:17 |
-| 10 | [I'm Not Over](https://music.163.com/song?id=5039526) | Carolina Liar | 3:23 |
-| 11 | [睡莲](https://music.163.com/song?id=27836991) | 唐朝乐队 | 8:16 |
-| 12 | [Broken](https://music.163.com/song?id=5040171) | Mclean | 3:35 |
-| 13 | [Destination](https://music.163.com/song?id=402070048) | LarsM / Pankowski / Michael Zhonga | 4:01 |
-| 14 | [风驶过的声音是](https://music.163.com/song?id=2041974276) | 海洋Bo / 费米Frieme / Zy | 2:27 |
-| 15 | [★kiss me baby☆（吻我，宝）](https://music.163.com/song?id=1835009703) | Victor☆ / 椅子不够酷 | 3:10 |
-| 16 | [大雾](https://music.163.com/song?id=1805088448) | 张一乔 / 未知音素 | 2:14 |
-| 17 | [海底](https://music.163.com/song?id=1426649237) | 一支榴莲 | 1:44 |
-| 18 | [狐狸的童话](https://music.163.com/song?id=1815105886) | Santa_SA / 马也_Crabbit | 2:36 |
+| 1 | [you know 2(Phonk)](https://music.163.com/song?id=3396667536) | Trispect / Kyrex | 2:06 |
+| 2 | [Cold](https://music.163.com/song?id=1353212443) | NEFFEX | 3:06 |
+| 3 | [Yes & No](https://music.163.com/song?id=1370901308) | XYLØ | 2:58 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 19 首
+## ClaudeCode_自动加入_时光雷达 — 13 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Lifetime](https://music.163.com/song?id=1995314970) | SG Lewis | 4:46 |
-| 2 | [Madonna (with Audrey Mika)](https://music.163.com/song?id=1954851313) | Deux Twins / Audrey Mika | 2:42 |
-| 3 | [Feel It Too](https://music.163.com/song?id=1873085953) | Stories / 瞿澄乾 | 3:53 |
-| 4 | [Grid+](https://music.163.com/song?id=511205626) | 冷魚 | 3:14 |
-| 5 | [Disappear (Album Mix)](https://music.163.com/song?id=26373062) | Mango / Andre Frauenstein / Aeron Aether | 7:29 |
-| 6 | [Opie Taylor](https://music.163.com/song?id=1396151936) | Yelawolf | 3:53 |
-| 7 | [Toni](https://music.163.com/song?id=26452513) | HVOB | 4:17 |
-| 8 | [Remember](https://music.163.com/song?id=401249907) | Svante G | 4:28 |
-| 9 | [Doomsday](https://music.163.com/song?id=543798136) | KILLY | 3:04 |
-| 10 | [水乡](https://music.163.com/song?id=508681350) | ∀ | 3:45 |
-| 11 | [THE WALLS!](https://music.163.com/song?id=557583189) | RUSSELL! | 3:15 |
-| 12 | [New Love](https://music.163.com/song?id=1838640420) | Gabriela Bee | 2:24 |
-| 13 | [哼凯星](https://music.163.com/song?id=1311829723) | 轻墨安源 | 1:34 |
-| 14 | [It's Alright](https://music.163.com/song?id=28267006) | Charity Vance | 3:09 |
-| 15 | [Dancing Clouds](https://music.163.com/song?id=431357587) | Gemini | 3:41 |
-| 16 | [i miss you](https://music.163.com/song?id=471968801) | bb | 2:16 |
-| 17 | [One Heart](https://music.163.com/song?id=33020535) | Martin Mittone | 4:49 |
-| 18 | [Big Tipper (feat. Melii, Lil Wayne)](https://music.163.com/song?id=1817620413) | Tory Lanez / Melii / Lil Wayne | 3:21 |
-| 19 | [那些话](https://music.163.com/song?id=1445836784) | ㅤ | 1:59 |
+| 1 | [Head Above Water](https://music.163.com/song?id=1310906383) | Avril Lavigne | 3:40 |
+| 2 | [Prologue](https://music.163.com/song?id=1486430) | John Williams | 2:12 |
+| 3 | [You Don't Know Me](https://music.163.com/song?id=399354184) | Ofenbach | 2:27 |
+| 4 | [Iron Sky](https://music.163.com/song?id=2030655586) | Tonebox / Rogue VHS | 4:41 |
+| 5 | [Rises The Moon](https://music.163.com/song?id=2052487021) | liana flores | 2:41 |
+| 6 | [Antidote (What Do You Want)](https://music.163.com/song?id=17298166) | Di Johnston | 3:11 |
+| 7 | [Delicate](https://music.163.com/song?id=1215679) | Damien Rice | 5:10 |
+| 8 | [SGL](https://music.163.com/song?id=477992258) | Now, Now | 3:14 |
+| 9 | [All Night](https://music.163.com/song?id=536623833) | Vexento | 3:41 |
+| 10 | [如果当时2020](https://music.163.com/song?id=1488737309) | 许嵩 / 朱婷婷 | 5:06 |
+| 11 | [moonlight](https://music.163.com/song?id=1336866526) | mich | 2:26 |
+| 12 | [Over The Hill - Acoustic Version](https://music.163.com/song?id=1927364560) | The fin. | 2:37 |
+| 13 | [Reassure](https://music.163.com/song?id=2590929) | flica | 3:27 |
 
-> 今日共新增 76 首
+## ClaudeCode_自动加入_宝藏雷达 — 22 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Panic](https://music.163.com/song?id=2635691903) | elzio | 2:27 |
+| 2 | [More Than OK](https://music.163.com/song?id=1454630299) | R3HAB / Clara Mae / Frank Walker | 2:36 |
+| 3 | [Forever](https://music.163.com/song?id=1928106519) | MarsReverb | 3:09 |
+| 4 | [When I Know](https://music.163.com/song?id=1831873399) | Ethan Dufault | 3:03 |
+| 5 | [Make U Mine (Cytus II)](https://music.163.com/song?id=1405096322) | James Landino / Jenny | 2:32 |
+| 6 | [Pulsar](https://music.163.com/song?id=540762718) | Volterix | 3:25 |
+| 7 | [Bridged By A Lightwave](https://music.163.com/song?id=1806909021) | deadmau5 / Kiesza | 9:22 |
+| 8 | [民生](https://music.163.com/song?id=64207) | 成龙 / 豆豆 / 刘媛媛 | 4:34 |
+| 9 | [Into The Horizon](https://music.163.com/song?id=1429478564) | Navion / Oryon / Dirty Workz | 2:35 |
+| 10 | [从冬天等到夏天](https://music.163.com/song?id=2699630273) | 灰白 | 3:32 |
+| 11 | [Endless Summer](https://music.163.com/song?id=27519073) | Oceana | 3:29 |
+| 12 | [无名歌](https://music.163.com/song?id=1839995032) | 转转 / 余半声 / 予安 | 3:56 |
+| 13 | [生來精彩](https://music.163.com/song?id=3404983444) | 李姸勋（RIIANA） | 3:11 |
+| 14 | [寻诀 (Guided by Echoes)](https://music.163.com/song?id=3406727231) | 铁痕电台-MSR / 钱润玉 / Khoori | 3:29 |
+| 15 | [别走拜托](https://music.163.com/song?id=3409634466) | 罗森涛 | 2:57 |
+| 16 | [Runway](https://music.163.com/song?id=3408049330) | ROJO. | 2:02 |
+| 17 | [港](https://music.163.com/song?id=3407057564) | 柠安 | 3:56 |
+| 18 | [Tear](https://music.163.com/song?id=3389656157) | Rich Brian | 4:09 |
+| 19 | [Great Expectation](https://music.163.com/song?id=3400868815) | SIENNA SPIRO | 2:53 |
+| 20 | [我以为](https://music.163.com/song?id=3402233913) | 郭静 | 3:19 |
+| 21 | [show you me](https://music.163.com/song?id=3406368631) | Steve Lacy | 3:23 |
+| 22 | [人间](https://music.163.com/song?id=3404060188) | Taco | 2:15 |
+
+> 今日共新增 69 首
 
 ---
-自动生成于 2026-07-30 02:46 · netease-daily-sync
+自动生成于 2026-07-30 23:30 · netease-daily-sync
