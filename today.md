@@ -1,110 +1,97 @@
-# 每日归档 2026-08-08
+# 每日归档 2026-08-09
 
-## ClaudeCode_自动加入_每日推荐 — 31 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [truth](https://music.163.com/song?id=3375695393) | mixed matches | 2:17 |
-| 2 | [Camera](https://music.163.com/song?id=3410063350) | Charli xcx | 2:31 |
-| 3 | [is it cool?](https://music.163.com/song?id=3406367773) | Steve Lacy / SZA | 2:54 |
-| 4 | [Chicago](https://music.163.com/song?id=28524017) | Michael Jackson | 4:05 |
-| 5 | [this is what space feels like](https://music.163.com/song?id=2084320592) | JVKE | 3:03 |
-| 6 | [Falling into you （Sped up）](https://music.163.com/song?id=3390946519) | TIC / Paperman | 2:48 |
-| 7 | [夏日呓语](https://music.163.com/song?id=3390715515) | 银河小鱼 | 2:24 |
-| 8 | [safe again](https://music.163.com/song?id=2103937564) | Lmnl | 2:22 |
-| 9 | [废柴](https://music.163.com/song?id=3406260106) | 邓典果DDG / 马思唯 | 2:57 |
-| 10 | [World Is Mine](https://music.163.com/song?id=3372228538) | Lane 8 / Kasbo / BJOERN | 4:46 |
-| 11 | [公式化](https://music.163.com/song?id=3415041969) | MOCKER44. / 洛天依 | 2:12 |
-| 12 | [symptom](https://music.163.com/song?id=2692444028) | key vs. locket | 3:53 |
-| 13 | [would u love me?](https://music.163.com/song?id=3369230850) | s0rrow | 2:22 |
-| 14 | [anyone but you](https://music.163.com/song?id=2149366786) | twikipedia | 3:18 |
-| 15 | [DOWNTOWN BOSS](https://music.163.com/song?id=3397056929) | ICE杨长青 / GALI | 2:51 |
-| 16 | [Beautiful Crime](https://music.163.com/song?id=3416169760) | Kira / Nox | 3:44 |
-| 17 | [Another Round of Radical 'Ritas, Please (feat. Tades Sanville // Hot Mulligan)](https://music.163.com/song?id=3376410632) | Riley! / Tades Sanville / Hot Mulligan | 3:42 |
-| 18 | [Devil on my Shoulder](https://music.163.com/song?id=2662169179) | Hayd | 3:37 |
-| 19 | [Cheeni](https://music.163.com/song?id=3389253323) | Skrillex / Naisha | 3:05 |
-| 20 | [浙江 (Original Mix)](https://music.163.com/song?id=572316247) | Keridy | 3:43 |
-| 21 | [uncle sam](https://music.163.com/song?id=3389651212) | overtonight | 2:20 |
-| 22 | [偶尔](https://music.163.com/song?id=3412524548) | 加木 | 2:54 |
-| 23 | [Miss Calculation](https://music.163.com/song?id=28465225) | Elina Born | 3:28 |
-| 24 | [Somewhere I Belong - Unshatter Film Soundtrack (Live in São Paulo)](https://music.163.com/song?id=3415098315) | Linkin Park | 3:25 |
-| 25 | [I Knew It, I Knew You](https://music.163.com/song?id=3392904353) | Taylor Swift | 2:58 |
-| 26 | [Glimmer (William Black Remix)](https://music.163.com/song?id=1305724125) | LIONE / Heather Sommer | 3:46 |
-| 27 | [Capsized](https://music.163.com/song?id=1410566383) | James Carter / nourii / SRTW | 2:58 |
-| 28 | [累，疲惫](https://music.163.com/song?id=3417286177) | 亞細亞曠世奇才 / Spawner刷怪笼 | 3:35 |
-| 29 | [Don't Give Up](https://music.163.com/song?id=1916030565) | J-Anubis | 2:57 |
-| 30 | [A Thousand Years (Cinematic Version) (Sped Up)](https://music.163.com/song?id=3380532127) | John Michael Howell / JVKE / ZVC | 2:26 |
-| 31 | [Not Like Us](https://music.163.com/song?id=2152805690) | Kendrick Lamar | 4:34 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 4 首
+## ClaudeCode_自动加入_每日推荐 — 30 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Im Sorry Mom](https://music.163.com/song?id=3387337974) | Marino | 1:47 |
-| 2 | [Seek Bromance](https://music.163.com/song?id=28937968) | Avicii | 3:22 |
-| 3 | [AFT3RGL0W](https://music.163.com/song?id=3351000617) | V!crø | 2:46 |
-| 4 | [Blazin'](https://music.163.com/song?id=28525816) | Tom & Jame / JAGGS | 5:26 |
+| 1 | [Stuck in Me](https://music.163.com/song?id=3410044918) | Sean Ven | 3:30 |
+| 2 | [逃向春天](https://music.163.com/song?id=2682678391) | 凌晨一点的莱茵猫 / 洛米Gemini | 3:37 |
+| 3 | [来年见](https://music.163.com/song?id=3416499437) | 在虚无中永存 | 1:38 |
+| 4 | [Toosie Slide](https://music.163.com/song?id=1437204419) | Drake | 4:07 |
+| 5 | [夜中舞者](https://music.163.com/song?id=3392166807) | UR | 1:48 |
+| 6 | [summer love](https://music.163.com/song?id=3417335972) | 三棱镜 | 2:05 |
+| 7 | [it’s like i’m not even here](https://music.163.com/song?id=3386438558) | Mthu | 1:37 |
+| 8 | [Keep Moving On(Phonk)](https://music.163.com/song?id=3394548990) | Trispect / zl_lan | 1:59 |
+| 9 | [fractured](https://music.163.com/song?id=2652575752) | Rexlity | 1:50 |
+| 10 | [恢弘的大梦](https://music.163.com/song?id=1422994414) | 鲸鱼马戏团 | 2:34 |
+| 11 | [Neptulon](https://music.163.com/song?id=2680807151) | Calmere | 1:56 |
+| 12 | [retrieval](https://music.163.com/song?id=2604979817) | Aurenth | 2:30 |
+| 13 | [See You Later](https://music.163.com/song?id=2101634343) | Graham | 1:51 |
+| 14 | [The Invisible One](https://music.163.com/song?id=3366837366) | EREAL | 3:21 |
+| 15 | [和更好的自己见面](https://music.163.com/song?id=2694810851) | Siren | 2:34 |
+| 16 | [Killswitch Lullaby](https://music.163.com/song?id=2087776231) | flawed mangoes | 2:27 |
+| 17 | [Signals](https://music.163.com/song?id=2141578399) | Lazer Boomerang | 4:26 |
+| 18 | [Monsters In The Dark](https://music.163.com/song?id=509530165) | MyKey | 3:15 |
+| 19 | [greek sculptures](https://music.163.com/song?id=1473274367) | Corn Wave | 4:02 |
+| 20 | [Happy birthday](https://music.163.com/song?id=3407057174) | T-Chenxi / BallyCash | 2:53 |
+| 21 | [我讨厌一个入pt.2](https://music.163.com/song?id=3338888539) | 4444 | 2:21 |
+| 22 | [Locked Out](https://music.163.com/song?id=2032433226) | Japanese Football | 4:55 |
+| 23 | [F(O_O)CUS](https://music.163.com/song?id=3416339805) | Stephanie Poetri / SuperA邓艺菲 / Versutus | 2:30 |
+| 24 | [YOU](https://music.163.com/song?id=3394265876) | Appleby | 3:10 |
+| 25 | [心安之地](https://music.163.com/song?id=3394312558) | 许嵩 | 4:22 |
+| 26 | [OBH Combi Sachet](https://music.163.com/song?id=3400305120) | Cameron Boyce | 1:36 |
+| 27 | [Radio Ga Ga (Live in Budapest)](https://music.163.com/song?id=3411354664) | Queen | 6:11 |
+| 28 | [八月适合所有浪漫](https://music.163.com/song?id=3418643341) | 藤竹京 / DY / 鯨 | 1:34 |
+| 29 | [Wolf Like Me](https://music.163.com/song?id=19447673) | TV On The Radio | 4:47 |
+| 30 | [been loving](https://music.163.com/song?id=1890385695) | Mayten | 3:28 |
 
-## ClaudeCode_自动加入_私人雷达 — 9 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Beauty And A Beat](https://music.163.com/song?id=18637990) | Justin Bieber / Nicki Minaj | 3:47 |
-| 2 | [Still](https://music.163.com/song?id=3417782581) | KAROL G / Bruno Mars | 3:40 |
-| 3 | [Nothin' on Me](https://music.163.com/song?id=2051548110) | Leah Marie Perez | 3:37 |
-| 4 | [找自己](https://music.163.com/song?id=150617) | 陶喆 | 5:04 |
-| 5 | [Can You Hear Me](https://music.163.com/song?id=1329940346) | Dion Timmer / Azuria Sky | 3:37 |
-| 6 | [春风吹](https://music.163.com/song?id=82486) | 方大同 | 3:20 |
-| 7 | [沦陷](https://music.163.com/song?id=2161222939) | 贾格JuggShots | 3:03 |
-| 8 | [Geisha](https://music.163.com/song?id=407007703) | Dino Sor | 6:33 |
-| 9 | [麦恩莉](https://music.163.com/song?id=25648006) | 方大同 | 4:48 |
-
-## ClaudeCode_自动加入_时光雷达 — 12 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Why](https://music.163.com/song?id=489041829) | Sabrina Carpenter | 2:51 |
-| 2 | [失恋阵线联盟](https://music.163.com/song?id=349892) | 草蜢 | 2:53 |
-| 3 | [全是爱](https://music.163.com/song?id=354741) | 凤凰传奇 | 4:14 |
-| 4 | [Colorado](https://music.163.com/song?id=1997473993) | Reneé Rapp | 2:52 |
-| 5 | [Have Yourself a Merry Little Christmas (feat. j'san)](https://music.163.com/song?id=529823794) | Rook1e / J'san | 1:55 |
-| 6 | [Dream](https://music.163.com/song?id=503699834) | Dio Deer / Evanti3s | 3:00 |
-| 7 | [wish upon a star](https://music.163.com/song?id=1317420565) | Medda | 2:20 |
-| 8 | [♡](https://music.163.com/song?id=1388015540) | BlueLee | 1:53 |
-| 9 | [浣花溪](https://music.163.com/song?id=544914961) | 闫东炜 | 4:57 |
-| 10 | [Own Tonight](https://music.163.com/song?id=1305833194) | Craig Reever / Frigga | 3:26 |
-| 11 | [It's Alright](https://music.163.com/song?id=28267006) | Charity Vance | 3:09 |
-| 12 | [Please](https://music.163.com/song?id=480395079) | Mounika. | 2:50 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 23 首
+## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [白桦林](https://music.163.com/song?id=5269086) | 朴树 | 3:47 |
-| 2 | [Riddle](https://music.163.com/song?id=1440250320) | Bad Computer | 3:48 |
-| 3 | [All That We Had Is Lost](https://music.163.com/song?id=535467904) | Postiljonen | 3:56 |
-| 4 | [未来战士凯特琳-Pulsefire Caitlyn](https://music.163.com/song?id=527772061) | 英雄联盟 | 3:20 |
-| 5 | [Something Real (Acoustic Version)](https://music.163.com/song?id=1454248376) | Armin van Buuren / Avian Grays / Jordan Shaw | 3:29 |
-| 6 | [High](https://music.163.com/song?id=37206380) | Vanic / Zella Day | 3:43 |
-| 7 | [多瑙河之波](https://music.163.com/song?id=5273443) | 群星 | 4:32 |
-| 8 | [To The Limit](https://music.163.com/song?id=2141854818) | 战双帕弥什 / Vanguard Sound / GhostFinal | 5:38 |
-| 9 | [八路军军歌](https://music.163.com/song?id=1895377429) | 中国人民解放军总政歌舞团合唱队 | 1:40 |
-| 10 | [连烦恼也融入天空](https://music.163.com/song?id=3413072224) | 塞壬唱片-MSR / F.L.O.A.T (白羽） / 张晶 | 2:49 |
-| 11 | [坠星的摇篮 Fallen Star's Cradle](https://music.163.com/song?id=3409349902) | HOYO-MiX | 2:27 |
-| 12 | [灿烂](https://music.163.com/song?id=3409325540) | SHarK | 3:13 |
-| 13 | [You Don't Feel The Way I Do](https://music.163.com/song?id=3383522224) | Chris James | 2:42 |
-| 14 | [lighter (feat. rubenmccarter)](https://music.163.com/song?id=3415841377) | Yaka / rubenmccarter | 3:13 |
-| 15 | [Montagem Boomerang](https://music.163.com/song?id=3403973446) | Lunak | 2:07 |
-| 16 | [レム](https://music.163.com/song?id=3413325269) | 世界补充计划 / 天马咲希、青柳冬弥、神代类、晓山瑞希、KAITO | 2:41 |
-| 17 | [溺水木屋](https://music.163.com/song?id=3407979579) | 于梓贝 | 3:55 |
-| 18 | [Poured](https://music.163.com/song?id=3414880917) | Lil Uzi Vert | 3:00 |
-| 19 | [幻夜狂想](https://music.163.com/song?id=3413215789) | 无期迷途 | 3:47 |
-| 20 | [新荣记（feat.GALI）](https://music.163.com/song?id=3410061687) | BrAnTB白景屹 / GALI | 3:29 |
-| 21 | [Daughter from Hell](https://music.163.com/song?id=3407733420) | Gracie Abrams | 4:04 |
-| 22 | [223](https://music.163.com/song?id=3414880918) | Lil Uzi Vert | 2:30 |
-| 23 | [To the V-Max (from "Spider-Man](https://music.163.com/song?id=3412170486) | Michael Giacchino | 2:09 |
+| 1 | [New Soul](https://music.163.com/song?id=3852042) | Yael Naim | 3:45 |
 
-> 今日共新增 79 首
+## ClaudeCode_自动加入_私人雷达 — 12 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [The truth that you leave](https://music.163.com/song?id=139774) | Pianoboy高至豪 | 3:43 |
+| 2 | [当你](https://music.163.com/song?id=108251) | 林俊杰 | 4:11 |
+| 3 | [Revive Me](https://music.163.com/song?id=3410972997) | 江雨 | 3:54 |
+| 4 | [坠落](https://music.163.com/song?id=27747329) | 蔡健雅 | 4:10 |
+| 5 | [I'll Be Gone (feat. Katie McConnell)](https://music.163.com/song?id=1398909708) | Axero / Katie McConnell | 3:24 |
+| 6 | [喜欢](https://music.163.com/song?id=526464145) | 阿肆 | 4:10 |
+| 7 | [Walk Thru Fire](https://music.163.com/song?id=1297498908) | Vicetone / Meron Ryan | 3:14 |
+| 8 | [Visions](https://music.163.com/song?id=34040716) | Acreix | 3:18 |
+| 9 | [春风十里报新年](https://music.163.com/song?id=1413464902) | 接个吻，开一枪 / 火鸡 / 吕口口 | 3:29 |
+| 10 | [Soul Below](https://music.163.com/song?id=1694104) | LJones | 3:14 |
+| 11 | [希望的新一天 A New Day with Hope](https://music.163.com/song?id=1481390662) | 陈致逸 / HOYO-MiX | 1:43 |
+| 12 | [Copines](https://music.163.com/song?id=1321708996) | Aya Nakamura | 2:51 |
+
+## ClaudeCode_自动加入_时光雷达 — 10 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [七夕](https://music.163.com/song?id=28953350) | 许嵩 | 3:53 |
+| 2 | [庐州月](https://music.163.com/song?id=167850) | 许嵩 | 4:15 |
+| 3 | [Reprieve](https://music.163.com/song?id=30569879) | Vallis Alps | 4:14 |
+| 4 | [Sweetly](https://music.163.com/song?id=1445545567) | Lord Kael | 2:15 |
+| 5 | [不再年轻的村庄(轻策夜间) The Fading Stories (Qingce Night](https://music.163.com/song?id=1492276660) | 陈致逸 / HOYO-MiX | 2:09 |
+| 6 | [Street Hawk](https://music.163.com/song?id=1381368579) | Neon Nox | 4:07 |
+| 7 | [绵远的诀别 A Distant Farewell](https://music.163.com/song?id=2635292789) | HOYO-MiX | 1:51 |
+| 8 | [Belong (Axwell & Years Remode Edit)](https://music.163.com/song?id=424342163) | Axwell / Shapov / Years | 3:37 |
+| 9 | [Nobody's Truth](https://music.163.com/song?id=31997130) | Pompeya | 3:34 |
+| 10 | [Turn The World Into A Dancefloor (ASOT 1000 Anthem)](https://music.163.com/song?id=1813200064) | Armin van Buuren | 3:34 |
+
+## ClaudeCode_自动加入_宝藏雷达 — 13 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [East Star](https://music.163.com/song?id=28535095) | Silent Code | 5:00 |
+| 2 | [Where You Are (Extended Mix)](https://music.163.com/song?id=399341249) | John Dahlbäck / Lovestarrs | 5:23 |
+| 3 | [Drowning (Extended Mix)](https://music.163.com/song?id=422790116) | Justin Prime / We Are Loud | 4:11 |
+| 4 | [Don't You Dare (Original Mix)](https://music.163.com/song?id=399555399) | LA Riots / Lee Anna James | 5:19 |
+| 5 | [How To Kill Pou](https://music.163.com/song?id=29383435) | EH!DE / Funk4Mation | 4:05 |
+| 6 | [Everything Is AWESOME!!! (feat. The Lonely Island)](https://music.163.com/song?id=28256419) | Tegan and Sara / The Lonely Island | 2:43 |
+| 7 | [迈惊](https://music.163.com/song?id=3410225086) | Yellllow阿喽 | 3:05 |
+| 8 | [我不认识你](https://music.163.com/song?id=3414032804) | 杨丞琳 | 3:29 |
+| 9 | [Minibar](https://music.163.com/song?id=3407733424) | Gracie Abrams | 2:00 |
+| 10 | [Alone](https://music.163.com/song?id=3407211462) | 段宜恩 | 3:36 |
+| 11 | [shadow of a doubt](https://music.163.com/song?id=3375694294) | mixed matches | 3:21 |
+| 12 | [是我的问题](https://music.163.com/song?id=3415868059) | 王子明 / WYAN王毓千 | 3:23 |
+| 13 | [nothing](https://music.163.com/song?id=3406367777) | Steve Lacy | 2:29 |
+
+> 今日共新增 66 首
 
 ---
-自动生成于 2026-08-08 22:55 · netease-daily-sync
+自动生成于 2026-08-09 22:58 · netease-daily-sync
