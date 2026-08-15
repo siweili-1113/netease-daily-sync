@@ -1,59 +1,72 @@
 # 每日归档 2026-08-15
 
-## ClaudeCode_自动加入_每日推荐 — 4 首
+## ClaudeCode_自动加入_每日推荐 — 6 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [盛夏共振](https://music.163.com/song?id=3395311006) | Hea2t | 2:20 |
-| 2 | [初夏物语](https://music.163.com/song?id=2700983792) | Soulloom苏洛牧 | 2:38 |
-| 3 | [Heartbeat(break)](https://music.163.com/song?id=2150327650) | delphia! | 2:49 |
-| 4 | [木兰(Mulan)](https://music.163.com/song?id=1430252886) | RADI8 / 贾格JuggShots / Reggie Yang | 4:24 |
+| 1 | [绿色的梦](https://music.163.com/song?id=3410031967) | CMJ | 2:29 |
+| 2 | [･ᴗ･](https://music.163.com/song?id=1419278979) | Lv9 | 2:24 |
+| 3 | [逃跑路线](https://music.163.com/song?id=3420367588) | 老番茄 | 3:47 |
+| 4 | [Got It 3（PHONK）](https://music.163.com/song?id=3381891591) | MKMS | 1:53 |
+| 5 | [南浔古镇](https://music.163.com/song?id=3419599101) | 罗孝璋 | 3:15 |
+| 6 | [波西米亚狂想抽（Feat.LTDZ）](https://music.163.com/song?id=2614222287) | 思年朗风 | 6:02 |
+
+## ClaudeCode_自动加入_欧美私人订制 — 1 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Nope your too late i already died](https://music.163.com/song?id=2638616976) | wifiskeleton / i wanna be a jack-o-lantern | 1:30 |
 
 ## ClaudeCode_自动加入_私人雷达 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [double take](https://music.163.com/song?id=1369602061) | Dhruv | 2:51 |
-| 2 | [In The End (Mellen Gi Remix)](https://music.163.com/song?id=1316375729) | Mellen Gi / Tommee Profitt / Fleurie | 3:38 |
-| 3 | [I'm Poppy](https://music.163.com/song?id=469104842) | Poppy | 3:06 |
+| 1 | [知我](https://music.163.com/song?id=1394167216) | 国风堂 / 哦漏 | 4:37 |
+| 2 | [sheluvme](https://music.163.com/song?id=1976472967) | Tai Verdes | 2:30 |
+| 3 | [新宝島](https://music.163.com/song?id=1372726248) | サカナクション | 5:05 |
 
-## ClaudeCode_自动加入_时光雷达 — 7 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [The Best Of Me](https://music.163.com/song?id=1329938686) | Dion Timmer / The Arcturians | 4:33 |
-| 2 | [青丝](https://music.163.com/song?id=1412672813) | 邓寓君（等什么君） | 4:30 |
-| 3 | [起风了](https://music.163.com/song?id=1330348068) | 冯沁苑(买辣椒也用券) | 5:25 |
-| 4 | [吹灭小山河](https://music.163.com/song?id=1412559986) | 国风堂 / 司南 | 3:06 |
-| 5 | [辞.九门回忆](https://music.163.com/song?id=1347524822) | 解忧草 / 冰幽 | 4:01 |
-| 6 | [盗将行](https://music.163.com/song?id=574566207) | 花粥 / 马雨阳 | 3:18 |
-| 7 | [On My Way](https://music.163.com/song?id=480583470) | anders | 2:34 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 19 首
+## ClaudeCode_自动加入_时光雷达 — 14 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [百年之后请与我在宇宙相见](https://music.163.com/song?id=2715823888) | (。ì _ í。) | 2:54 |
-| 2 | [never see me again.](https://music.163.com/song?id=3390824889) | Jux | 2:31 |
-| 3 | [I'm Fine](https://music.163.com/song?id=1835902336) | Ashe | 2:16 |
-| 4 | [Shattered Memories](https://music.163.com/song?id=444269604) | Resonance | 3:25 |
-| 5 | [Duli](https://music.163.com/song?id=2007326283) | TalanT | 2:13 |
-| 6 | [Loved By You](https://music.163.com/song?id=485612127) | Melih Aydogan / Ria | 3:06 |
-| 7 | [Forgiveness](https://music.163.com/song?id=28103389) | Avens / Thomas Prime | 4:11 |
-| 8 | [Boombox](https://music.163.com/song?id=28174851) | Throttle | 4:10 |
-| 9 | [He Was the One](https://music.163.com/song?id=4164346) | Lovestoned | 3:52 |
-| 10 | [Careless Whisper](https://music.163.com/song?id=1490218137) | Delvon Lamarr Organ Trio | 5:34 |
-| 11 | [Euphoria](https://music.163.com/song?id=526470726) | AK | 3:43 |
-| 12 | [潜意识冲动](https://music.163.com/song?id=1381794293) | 李子酱 | 3:40 |
-| 13 | [平凡的人](https://music.163.com/song?id=2005557034) | 小时姑娘 | 4:18 |
-| 14 | [Meeting Kitty](https://music.163.com/song?id=2063107664) | Ludwig Göransson | 5:47 |
-| 15 | [Get to Me](https://music.163.com/song?id=1394739746) | Jauz | 4:16 |
-| 16 | [Future Self (Original Mix)](https://music.163.com/song?id=421563275) | Boehm / Melody Noel | 3:21 |
-| 17 | [Frozen](https://music.163.com/song?id=426852210) | Frank Pierce / Emily Bonabon | 3:27 |
-| 18 | [100](https://music.163.com/song?id=1920843271) | Nieman / Jesse Barrera | 2:43 |
-| 19 | [Summer Sickness](https://music.163.com/song?id=1494139650) | Jack Stauber | 3:38 |
+| 1 | [空山•野马](https://music.163.com/song?id=2629771656) | Bethybai / 岸炘 | 3:32 |
+| 2 | [Because of You](https://music.163.com/song?id=29460778) | The Piano Guys | 4:04 |
+| 3 | [convolk - gone（纯音乐)](https://music.163.com/song?id=2019035410) | ZsFlovexl / Jcy East / LightG | 2:46 |
+| 4 | [Toca Toca (Radio Edit)](https://music.163.com/song?id=28796621) | Fly Project | 2:45 |
+| 5 | [The Real Hero](https://music.163.com/song?id=1361335320) | Alan Silvestri | 5:54 |
+| 6 | [Where Is Your Love](https://music.163.com/song?id=458725081) | J. Lisk | 2:37 |
+| 7 | [In the Dark](https://music.163.com/song?id=28188173) | Charlie Puth | 3:20 |
+| 8 | [TWFNO](https://music.163.com/song?id=1433561390) | Tiffany Day | 2:48 |
+| 9 | [Melt](https://music.163.com/song?id=1428890751) | Azura | 3:04 |
+| 10 | [Full of It](https://music.163.com/song?id=28188177) | Charlie Puth | 3:19 |
+| 11 | [Fading Wind](https://music.163.com/song?id=1845904638) | Feint | 4:55 |
+| 12 | [Lunchbox Friends](https://music.163.com/song?id=1482044883) | Melanie Martinez | 2:49 |
+| 13 | [泸州](https://music.163.com/song?id=1315517039) | 贾格JuggShots | 3:32 |
+| 14 | [Love Is All (Tez Cadey Edit)](https://music.163.com/song?id=35307829) | Tez Cadey | 4:38 |
 
-> 今日共新增 33 首
+## ClaudeCode_自动加入_宝藏雷达 — 17 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Comfort Zone](https://music.163.com/song?id=1826060831) | Masetti / Yrbk | 3:32 |
+| 2 | [Brighter Side](https://music.163.com/song?id=1809889987) | Hoaprox / Haneri | 2:43 |
+| 3 | [Run On Sentence (Acoustic)](https://music.163.com/song?id=2121673695) | flawed mangoes | 4:18 |
+| 4 | [Leave It](https://music.163.com/song?id=2608342868) | Sophie Shaw / Oscar Yuan | 2:28 |
+| 5 | [Into The Wild](https://music.163.com/song?id=2010107846) | Yao Chen | 3:11 |
+| 6 | [Forest Whitaker](https://music.163.com/song?id=566649954) | Bad Books | 3:43 |
+| 7 | [Found You (Make Me Yours)](https://music.163.com/song?id=475264039) | Throttle | 3:26 |
+| 8 | [Atlas](https://music.163.com/song?id=520460605) | Lane 8 | 5:50 |
+| 9 | [Just For Me (Space Jam: A New Legacy)](https://music.163.com/song?id=1852227308) | SAINt JHN / SZA | 3:37 |
+| 10 | [No 1 But U](https://music.163.com/song?id=411907104) | Crystal Knives / RCKT PWR | 3:05 |
+| 11 | [First Kiss](https://music.163.com/song?id=519315658) | Marcus & Martinus | 3:09 |
+| 12 | [Siren (塞壬)](https://music.163.com/song?id=1406491038) | Gary Hudson | 3:31 |
+| 13 | [灯暗下来 (ENJOY THE SHOW)](https://music.163.com/song?id=3406607496) | HENRY刘宪华 | 3:52 |
+| 14 | [休止符](https://music.163.com/song?id=3410919178) | Seto | 2:20 |
+| 15 | [ASTRIVAGANT](https://music.163.com/song?id=3407447481) | 塞壬唱片-MSR / Crywolf / Tal Richards | 5:13 |
+| 16 | [nice shoes / in your world](https://music.163.com/song?id=3406368633) | Steve Lacy | 9:03 |
+| 17 | [lovesexdrugbomb](https://music.163.com/song?id=3406368632) | Steve Lacy / Cecile Believe | 3:56 |
+
+> 今日共新增 41 首
 
 ---
-自动生成于 2026-08-15 04:50 · netease-daily-sync
+自动生成于 2026-08-15 22:45 · netease-daily-sync
