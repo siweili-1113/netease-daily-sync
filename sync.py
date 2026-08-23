@@ -147,9 +147,16 @@ class NeteaseClient:
         if not track_ids:
             return []
         all_ids = [t['id'] for t in track_ids]
-        c = json.dumps([{"id": str(x)} for x in all_ids])
-        song_result = self._post('/v3/song/detail', {'c': c})
-        return song_result.get('songs', []) if song_result.get('code') == 200 else []
+        # song/detail 一次最多 ~500 个 id，超过会返回 400 参数错误，必须分批
+        songs = []
+        for i in range(0, len(all_ids), 500):
+            batch = all_ids[i:i + 500]
+            c = json.dumps([{"id": str(x)} for x in batch])
+            song_result = self._post('/v3/song/detail', {'c': c})
+            if song_result.get('code') == 200:
+                songs.extend(song_result.get('songs', []))
+            time.sleep(0.3)
+        return songs
 
     # ── 歌单操作 ──
 

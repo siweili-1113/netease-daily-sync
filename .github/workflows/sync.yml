@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write             # 允许 push 回仓库
 
+concurrency:
+  group: daily-sync
+  cancel-in-progress: false    # 防止并发 run 同时跑，排队等待
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -36,5 +40,6 @@ jobs:
           git add today.md today.lxmc data/state.json data/history.json
           git diff --staged --quiet || (
             git commit -m "Daily sync $(date +%Y-%m-%d)" &&
+            git pull --rebase origin main &&   # 同步远程最新，避免 push 冲突
             git push
           )
