@@ -15,7 +15,7 @@ import gzip
 import os
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
@@ -321,6 +321,39 @@ def get_playlist_existing_ids(client, playlist_id):
     return {t.get('id') for t in tracks if t.get('id')}
 
 
+def get_today_added(client, state, date_str):
+    """统计每个歌单当天(北京时间0点起)实际新增的歌曲，用于生成准确的每日归档。
+
+    基于 trackIds 的 at 时间戳，而非"本次运行新增量"——
+    避免同一天多次运行 sync 时，后一次用 0 覆盖掉当天的记录。
+    """
+    tz = timezone(timedelta(hours=8))
+    today_midnight = datetime.now(tz).replace(hour=0, minute=0, second=0, microsecond=0)
+    ts = int(today_midnight.timestamp() * 1000)
+
+    results = []
+    for src in SOURCES:
+        pid = state.get(src['key'])
+        if not pid:
+            results.append({'name': src['name'], 'songs': [], 'new_count': 0, 'added': 0})
+            continue
+        detail = client._post('/v6/playlist/detail', {'id': pid, 'n': 1, 's': 0})
+        if detail.get('code') != 200:
+            results.append({'name': src['name'], 'songs': [], 'new_count': 0, 'added': 0})
+            continue
+        tids = detail.get('playlist', {}).get('trackIds', [])
+        today_ids = [t['id'] for t in tids if t.get('at', 0) >= ts]
+        songs = []
+        for i in range(0, len(today_ids), 100):
+            batch = today_ids[i:i + 100]
+            c = json.dumps([{"id": str(x)} for x in batch])
+            r = client._post('/v3/song/detail', {'c': c})
+            if r.get('code') == 200:
+                songs.extend(parse_song(s) for s in r.get('songs', []))
+        results.append({'name': src['name'], 'songs': songs, 'new_count': len(songs), 'added': len(songs)})
+    return results
+
+
 # ═══════════════════════════════════════════════════════
 #  输出生成
 # ═══════════════════════════════════════════════════════
@@ -472,31 +505,35 @@ def cmd_sync(client, dry_run=False):
         })
         all_new_songs.extend(new_songs)
 
-    # 更新历史记录
+    # 统计当天歌单实际新增（基于 at 时间戳），生成准确的每日归档
+    today_results = get_today_added(client, state, date_str)
+    today_total = sum(r['new_count'] for r in today_results)
+
+    # 更新历史记录：total_new 用当天实际新增，避免多次运行互相覆盖
     history = load_history()
     today_key = date_str
-    if today_key not in history:
-        history[today_key] = {'total_new': 0}
-    history[today_key]['total_new'] = len(all_new_songs)
+    prev_new = history.get(today_key, {}).get('total_new', 0)
+    history[today_key] = {'total_new': today_total}
     history.setdefault('total_archived', 0)
-    history['total_archived'] += len(all_new_songs)
+    # total_archived 只累加本次新增与已记录新增的差值，防止重复计数
+    history['total_archived'] += max(0, today_total - prev_new)
     history['last_sync'] = date_str
     save_history(history)
 
-    # 生成 Markdown
-    today_md = generate_today_md(results, date_str)
+    # 生成 Markdown（基于歌单实际当天新增）
+    today_md = generate_today_md(today_results, date_str)
     (ROOT / 'today.md').write_text(today_md, encoding='utf-8')
 
-    # 生成 LX Music 歌单
-    if all_new_songs:
-        generate_lxmc(all_new_songs, date_str)
+    # 生成 LX Music 歌单（当天实际新增的全部歌曲）
+    all_today = [s for r in today_results for s in r['songs']]
+    if all_today:
+        generate_lxmc(all_today, date_str)
 
     # 汇总
     print()
     print(f'{"="*50}')
-    total_new = sum(r['new_count'] for r in results)
-    print(f'📊 今日共新增 {total_new} 首')
-    for r in results:
+    print(f'📊 今日共新增 {today_total} 首')
+    for r in today_results:
         if r['new_count'] > 0:
             print(f'   {r["name"]}: +{r["new_count"]} 首')
     print(f'{"="*50}')
