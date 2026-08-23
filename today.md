@@ -4,87 +4,84 @@
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [your imagination](https://music.163.com/song?id=534542015) | Essence | 1:30 |
-| 2 | [I Wanna Get High on You](https://music.163.com/song?id=1849234710) | ELWIN | 3:48 |
-| 3 | [Shortcut To Heaven](https://music.163.com/song?id=1983697828) | lullaboy | 3:04 |
-| 4 | [Never Meant](https://music.163.com/song?id=16502162) | American Football | 4:28 |
-| 5 | [Shine a Light (Flight Facilities Remix)](https://music.163.com/song?id=25676117) | The C90s | 5:49 |
-| 6 | [Destination](https://music.163.com/song?id=1980200276) | Crash Adams | 2:43 |
-| 7 | [rain](https://music.163.com/song?id=2628322165) | mxmtoon | 4:14 |
-| 8 | [陪你度过漫长岁月](https://music.163.com/song?id=35403523) | 陈奕迅 | 4:02 |
-| 9 | [The Ramblin' Rover](https://music.163.com/song?id=1956244688) | Seth Staton Watkins / Cullen Vance | 2:58 |
-| 10 | [Suit](https://music.163.com/song?id=1940757803) | Nic D | 2:43 |
-| 11 | [Catch My Breath](https://music.163.com/song?id=26286214) | Kelly Clarkson | 4:11 |
-| 12 | [谁 (Live版)](https://music.163.com/song?id=566436427) | 廖俊涛 | 4:14 |
-| 13 | [七月流火](https://music.163.com/song?id=3412398766) | Youzee Music | 2:46 |
-| 14 | [Hey It's Me](https://music.163.com/song?id=1857349522) | Chris James | 2:30 |
-| 15 | [Start Again](https://music.163.com/song?id=1956990495) | Connor Price / Chloe Sagum | 2:32 |
-| 16 | [Good Side](https://music.163.com/song?id=1929243177) | Rachel Grae | 2:38 |
-| 17 | [Dontmakemefallinlove](https://music.163.com/song?id=530995066) | Cuco | 3:27 |
-| 18 | [My Name (Haozi Mix)](https://music.163.com/song?id=2081902069) | Haozi | 4:09 |
-| 19 | [Vacation](https://music.163.com/song?id=498880433) | Dirty Heads | 3:29 |
-| 20 | [Misty Memory (Night Version)](https://music.163.com/song?id=2070351310) | 塞壬唱片-MSR / Elvin Shen / ZT | 4:02 |
-| 21 | [明天过后](https://music.163.com/song?id=191248) | 张杰 | 3:57 |
-| 22 | [泪蛋蛋掉在酒杯杯里](https://music.163.com/song?id=3423032422) | DJ大大怪 / DVA | 1:39 |
-| 23 | [7 Years](https://music.163.com/song?id=1406191769) | Lukas Graham | 3:57 |
-| 24 | [Yumeji's Theme](https://music.163.com/song?id=4878282) | 梅林茂 | 2:29 |
-| 25 | [The Beginning](https://music.163.com/song?id=2091823800) | flawed mangoes | 2:55 |
-| 26 | [周旋(艾热AIR)(Live)](https://music.163.com/song?id=3422302492) | 艾热 AIR | 2:05 |
-| 27 | [东方巴黎](https://music.163.com/song?id=3423801793) | 卦者灵风 | 3:27 |
-| 28 | [荒原](https://music.163.com/song?id=3406892564) | 在虚无中永存 | 2:26 |
-| 29 | [Cựcựhyyyyy](https://music.163.com/song?id=1494527798) | DJMuchY | 2:44 |
-| 30 | [好景不长](https://music.163.com/song?id=3368926074) | Ww脑子近视了 | 2:39 |
+| 1 | [Imagination](https://music.163.com/song?id=1327447266) | timmies / Shiloh Dynasty | 2:22 |
+| 2 | [写给我第一个喜欢的女孩的歌](https://music.163.com/song?id=3392500306) | ilem / 洛天依Official | 3:01 |
+| 3 | [A Rusty Dream (from Cyberpunk: Edgerunners 2)](https://music.163.com/song?id=3422762511) | DOUDOU | 5:01 |
+| 4 | [made for me](https://music.163.com/song?id=3386491316) | JVKE / ZVC | 3:19 |
+| 5 | [08](https://music.163.com/song?id=1804346563) | A$AP Ferg | 2:53 |
+| 6 | [Judas](https://music.163.com/song?id=3375714094) | Visual Effect | 3:09 |
+| 7 | [all I want is you](https://music.163.com/song?id=1826100277) | Rebzyyx / hoshie star | 2:31 |
+| 8 | [Thriller (Louis La Roche Dub Mix)](https://music.163.com/song?id=480769025) | Louis La Roche / Michael Jackson | 4:15 |
+| 9 | [My Ex B***h Hates Me](https://music.163.com/song?id=1480871455) | NobleHassan | 2:59 |
+| 10 | [Billie Jean](https://music.163.com/song?id=27043643) | Michael Jackson | 5:03 |
+| 11 | [Smooth Killer](https://music.163.com/song?id=2664457974) | Brian Cheng | 4:23 |
+| 12 | [听](https://music.163.com/song?id=32683748) | 方大同 | 3:32 |
+| 13 | [Calling My Phone](https://music.163.com/song?id=1829501602) | Lil Tjay / Kid Kaleb | 3:58 |
+| 14 | [缄花未没](https://music.163.com/song?id=3423114665) | 雪剑SnowSaber / 胡思乱想P / 青栀_wave | 2:16 |
+| 15 | [Honkai：Star Rail Robin](https://music.163.com/song?id=3423315649) | HOYO-MiX音乐团队 / 知更鸟 / Caoztolc_小芙草 | 3:27 |
+| 16 | [假小孩](https://music.163.com/song?id=3385899618) | M3mo | 2:04 |
+| 17 | [妄想症](https://music.163.com/song?id=3385905816) | 庸医 | 2:00 |
+| 18 | [Stitches](https://music.163.com/song?id=1853809171) | Shawn Mendes | 3:26 |
+| 19 | [I Thought I Saw Your Face Today](https://music.163.com/song?id=19194800) | She & Him | 2:52 |
+| 20 | [HYPNOTIC](https://music.163.com/song?id=2660953047) | Atlxs | 1:39 |
+| 21 | [Im Sorry Mom (Remix)](https://music.163.com/song?id=3423271593) | Marino / Luminati Suns | 1:50 |
+| 22 | [Airplane Mode](https://music.163.com/song?id=1844050601) | Limbo | 2:44 |
+| 23 | [Thank You](https://music.163.com/song?id=28952141) | Dido | 3:38 |
+| 24 | [SAD!](https://music.163.com/song?id=1869083792) | XXXTENTACION | 2:46 |
+| 25 | [Old Town Road](https://music.163.com/song?id=1351219081) | Lil Nas X | 1:53 |
+| 26 | [Luv (Sic)](https://music.163.com/song?id=26082940) | Shing02 | 4:48 |
+| 27 | [Hit The Road Jack](https://music.163.com/song?id=26827718) | Ray Charles | 1:59 |
+| 28 | [Treasure](https://music.163.com/song?id=27962678) | Bruno Mars | 2:58 |
+| 29 | [Here With You](https://music.163.com/song?id=3330705324) | Jux | 3:19 |
+| 30 | [New Soul](https://music.163.com/song?id=33307286) | Yael Naim | 3:45 |
 
 ## ClaudeCode_自动加入_私人雷达 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Ephemeral Memories](https://music.163.com/song?id=554308724) | MoreanP | 3:55 |
-| 2 | [scarlet](https://music.163.com/song?id=2675501152) | L1VET.. | 3:12 |
-| 3 | [零距离的思念](https://music.163.com/song?id=2673175226) | TINY7 | 3:06 |
+| 1 | [Red Moon (2024 Edit)](https://music.163.com/song?id=2147494805) | sledg3r | 2:45 |
+| 2 | [好景不长](https://music.163.com/song?id=3368926074) | Ww脑子近视了 | 2:39 |
+| 3 | [Danceteria](https://music.163.com/song?id=3400465184) | Madonna | 3:55 |
 
-## ClaudeCode_自动加入_时光雷达 — 13 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Remember Our Autumn](https://music.163.com/song?id=2655474278) | FrogMonster 蛙蛙 | 3:08 |
-| 2 | [my lovin'](https://music.163.com/song?id=25255810) | Patrick Marsh vs. Michael Steep | 6:54 |
-| 3 | [Face of Danger](https://music.163.com/song?id=27753125) | Morcheeba | 3:56 |
-| 4 | [Hold On To Me](https://music.163.com/song?id=16388483) | Armin van Buuren / Audrey Gallagher | 7:16 |
-| 5 | [Lose It All](https://music.163.com/song?id=1450061151) | Brennan Heart / Jake Reese | 3:28 |
-| 6 | [We Run the Night](https://music.163.com/song?id=27836493) | Havana Brown / Pitbull | 3:37 |
-| 7 | [Dive into the Deep Blue Sea](https://music.163.com/song?id=441835609) | Bang Gang / Esther Talia | 3:48 |
-| 8 | [Sinners](https://music.163.com/song?id=503853423) | Tommy Trash / Daisy Guttridge | 3:39 |
-| 9 | [Believe](https://music.163.com/song?id=2066771649) | Iwamoto / Wood Cherry / Donna Tella | 3:55 |
-| 10 | [Drama](https://music.163.com/song?id=487454613) | AJR | 3:24 |
-| 11 | [Turnin'](https://music.163.com/song?id=28859948) | Young Rising Sons | 3:29 |
-| 12 | [Landslide](https://music.163.com/song?id=460112965) | Headhunterz | 3:42 |
-| 13 | [Out Of The Rain](https://music.163.com/song?id=2027301089) | TheFatRat / Shiah Maisel | 3:13 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 18 首
+## ClaudeCode_自动加入_时光雷达 — 8 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Berlin Opening Music — Worlds 2015](https://music.163.com/song?id=422463528) | 英雄联盟 | 6:41 |
-| 2 | [Morning Flow](https://music.163.com/song?id=1950987) | Malik Alary / Jenia Lubich | 4:02 |
-| 3 | [Pull Me Closer](https://music.163.com/song?id=1823085725) | Dimitri Vegas | 2:44 |
-| 4 | [Curative](https://music.163.com/song?id=1378999559) | 封墨 | 3:20 |
-| 5 | [Old Pirate](https://music.163.com/song?id=32752161) | Sub Pub Music | 1:52 |
-| 6 | [Chắc Ai Đó Sẽ Về](https://music.163.com/song?id=35528076) | Sơn Tùng M-TP | 4:44 |
-| 7 | [12 Concerti Grossi Op. 3, 'L'estro armonico', No. 8 for 2 violins in A minor RV522:I. Allegro](https://music.163.com/song?id=22314096) | Various Artists | 3:23 |
-| 8 | [Feels Like This](https://music.163.com/song?id=33710178) | Lexer | 6:03 |
-| 9 | [Year 3000](https://music.163.com/song?id=27804330) | The Vamps | 3:20 |
-| 10 | [飞天不遁地-香肠派对SS2赛季大厅背景音乐](https://music.163.com/song?id=1889726593) | AD_Write | 2:24 |
-| 11 | [Mi-E Dor](https://music.163.com/song?id=572821900) | Blaxy Girls | 3:09 |
-| 12 | [Escape The Darkness](https://music.163.com/song?id=1411424842) | The Redd One | 2:06 |
-| 13 | [胡闹三国-香肠派对S7大厅背景音乐](https://music.163.com/song?id=1803577477) | AD_Write | 2:32 |
-| 14 | [Satori](https://music.163.com/song?id=1418514131) | Glacier | 4:06 |
-| 15 | [that kindled look in her eyes](https://music.163.com/song?id=485612147) | killedmyself | 4:52 |
-| 16 | [Words](https://music.163.com/song?id=447281031) | Feint / Laura Brehm | 4:36 |
-| 17 | [横店](https://music.163.com/song?id=1454056644) | 白昼星BZX | 4:07 |
-| 18 | [Legacy](https://music.163.com/song?id=1894221990) | Dirty Palm / Benix | 2:39 |
+| 1 | [You](https://music.163.com/song?id=32320487) | Anton Borin | 3:49 |
+| 2 | [Little Too Much](https://music.163.com/song?id=461347704) | Emma Lauran | 3:27 |
+| 3 | [Everything's Nice](https://music.163.com/song?id=484732054) | 3TOS / keaLKO | 3:34 |
+| 4 | [Little Light](https://music.163.com/song?id=1439177900) | Spada / Aurya | 2:42 |
+| 5 | [Better With You](https://music.163.com/song?id=1348939361) | 3LAU / Justin Caruso / Iselin | 3:12 |
+| 6 | [Bedroom](https://music.163.com/song?id=482999247) | Litany | 3:06 |
+| 7 | [Love You Three 3000](https://music.163.com/song?id=1393834238) | MushrooM『蘑菇兄弟』 / TANG唐 REMIX | 3:04 |
+| 8 | [Help Arrives](https://music.163.com/song?id=555951498) | Alan Silvestri | 4:21 |
 
-> 今日共新增 64 首
+## ClaudeCode_自动加入_宝藏雷达 — 20 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [云华歌行](https://music.163.com/song?id=3421433357) | 洛天依 / 言和 / 网易阴阳师手游 | 3:43 |
+| 2 | [Try and Fail](https://music.163.com/song?id=3421138463) | slayr / SoFaygo | 2:33 |
+| 3 | [真真假假](https://music.163.com/song?id=3417896672) | 谢天笑 | 4:09 |
+| 4 | [truth](https://music.163.com/song?id=3375695393) | mixed matches | 2:17 |
+| 5 | [月出](https://music.163.com/song?id=3409325542) | SHarK | 2:49 |
+| 6 | [JJK](https://music.163.com/song?id=3412492666) | mgk / 千葉雄喜 | 2:29 |
+| 7 | [野草甜花](https://music.163.com/song?id=2709993542) | 耀乐团YAOBAND | 3:13 |
+| 8 | [和你](https://music.163.com/song?id=1366844494) | 李宗鹏 | 3:09 |
+| 9 | [Be More Barrio](https://music.163.com/song?id=412175446) | Vazquez Sounds | 3:25 |
+| 10 | [Checking For You](https://music.163.com/song?id=34852339) | R. City | 3:34 |
+| 11 | [Lost In Sound](https://music.163.com/song?id=1419365316) | ROY KNOX / Dub King | 2:37 |
+| 12 | [Time Goes By](https://music.163.com/song?id=566443467) | Nitro Fun | 3:26 |
+| 13 | [Gone And Found](https://music.163.com/song?id=28287983) | MØ | 4:56 |
+| 14 | [限定浪漫](https://music.163.com/song?id=1977929275) | 马也_Crabbit / WYAN王毓千 | 3:17 |
+| 15 | [Wanderlust](https://music.163.com/song?id=1396568200) | Nomyn | 3:50 |
+| 16 | [Let's Stay Together](https://music.163.com/song?id=1518740) | Jim Adkins | 4:24 |
+| 17 | [Forever](https://music.163.com/song?id=3349827237) | Pig Stinki | 3:17 |
+| 18 | [Rebirth](https://music.163.com/song?id=3381959977) | Forza Horizon / SHIMA | 3:25 |
+| 19 | [Got Me Good](https://music.163.com/song?id=1962263631) | DNCE | 2:45 |
+| 20 | [Morning Peppermint](https://music.163.com/song?id=1956278629) | Oneul | 1:55 |
+
+> 今日共新增 61 首
 
 ---
-自动生成于 2026-08-23 07:59 · netease-daily-sync
+自动生成于 2026-08-23 22:45 · netease-daily-sync
