@@ -1,93 +1,84 @@
-# 每日归档 2026-08-25
+# 每日归档 2026-08-27
 
-## ClaudeCode_自动加入_每日推荐 — 30 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [去时风](https://music.163.com/song?id=2699649656) | 聲無哀樂SWAL | 6:28 |
-| 2 | [I Miss The Happy Times We Had As I Walked Alone On The Shoreline](https://music.163.com/song?id=1056180) | Armand Tanzarian | 8:58 |
-| 3 | [STRANGE TIMES](https://music.163.com/song?id=2101952406) | Niko Moon | 3:29 |
-| 4 | [no signal](https://music.163.com/song?id=2712082398) | juggsi / kyra | 2:27 |
-| 5 | [泪是模糊像素](https://music.163.com/song?id=2162022880) | 侯天乐 | 1:45 |
-| 6 | [French Fues](https://music.163.com/song?id=3416741707) | 漂移的人（Drifting Man） | 2:38 |
-| 7 | [Chai and Sunshine](https://music.163.com/song?id=2166260700) | Anjulie / Yanchan Produced | 2:25 |
-| 8 | [No Time To Stress](https://music.163.com/song?id=1823465979) | Embody / Iggi Kelly / Louis III | 3:32 |
-| 9 | [Soul Below（8D极致沉浸）](https://music.163.com/song?id=2661892307) | Blackly | 3:57 |
-| 10 | [Live Your Beautiful Life](https://music.163.com/song?id=545063507) | Lights Follow | 3:14 |
-| 11 | [Hold On](https://music.163.com/song?id=3369785805) | MerrinZephyr | 2:39 |
-| 12 | [WAITING](https://music.163.com/song?id=1296583206) | TRA$H | 2:03 |
-| 13 | [Like 1999](https://music.163.com/song?id=1882960715) | Valley | 2:24 |
-| 14 | [It's Not So Bad](https://music.163.com/song?id=2038282755) | Dybbukk / Sabrina Gomes / Dybbukk Covers | 2:20 |
-| 15 | [fuzzy wuzzy](https://music.163.com/song?id=2009660470) | Versutus | 2:37 |
-| 16 | [Second Guess](https://music.163.com/song?id=446874530) | Ashworth | 3:27 |
-| 17 | [stay with me (feat. moxi)](https://music.163.com/song?id=1822887674) | Moxi Lee / Moxi | 1:43 |
-| 18 | [Brave](https://music.163.com/song?id=28612913) | Action Item | 3:29 |
-| 19 | [Payphone](https://music.163.com/song?id=1852227004) | Maroon 5 | 3:42 |
-| 20 | [エルフの湖の不思議な宝](https://music.163.com/song?id=1449614339) | Neko on'Nanoko*emoji / Mirolke / HJLL | 3:15 |
-| 21 | [Good Time [2012]](https://music.163.com/song?id=26254408) | Owl City / Carly Rae Jepsen | 3:25 |
-| 22 | [Everything Sucks](https://music.163.com/song?id=1840861415) | vaultboy | 1:55 |
-| 23 | [白日梦想家](https://music.163.com/song?id=2630781888) | River | 2:41 |
-| 24 | [Numb Little Bug (Piano Version)](https://music.163.com/song?id=1951112876) | Em Beihold | 2:45 |
-| 25 | [海屿你](https://music.163.com/song?id=3322383475) | 小奥奥 | 4:56 |
-| 26 | [Give Me Everything](https://music.163.com/song?id=503425280) | MiracleK-9 / Stories | 3:03 |
-| 27 | [POLSKA JUMPSTYLE](https://music.163.com/song?id=2070201013) | Mr. Polska / Natte Visstick / Vieze Asbak | 2:20 |
-| 28 | [特别旧的时光（Lofi/Jazz Hiphop Type Beat）](https://music.163.com/song?id=2675059504) | Gr33nart Beats | 2:45 |
-| 29 | [memories](https://music.163.com/song?id=2076070078) | G Sounds | 1:30 |
-| 30 | [Timber](https://music.163.com/song?id=27951016) | Pitbull / Kesha | 3:24 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 2 首
+## ClaudeCode_自动加入_每日推荐 — 29 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Don't You Wanna Know 2017 (Club Mix)](https://music.163.com/song?id=511238960) | DJ Fait | 4:29 |
-| 2 | [Sad Nibba Hours](https://music.163.com/song?id=1365677786) | Papithbk | 2:31 |
+| 1 | [野草](https://music.163.com/song?id=2054517809) | 椿乐队 | 4:31 |
+| 2 | [Where Is My Mind](https://music.163.com/song?id=27070579) | Pixies | 3:53 |
+| 3 | [Never Go Wrong](https://music.163.com/song?id=1924462595) | Nicky Youre / david hugo | 2:36 |
+| 4 | [Got It 21 (Phonk)](https://music.163.com/song?id=3346869348) | YaKio / Wehti / Trispect | 2:14 |
+| 5 | [Waiting On August](https://music.163.com/song?id=3414401284) | Jake Miller | 2:50 |
+| 6 | [My Medicine](https://music.163.com/song?id=2660722704) | Graham | 2:00 |
+| 7 | [冬与春与我（纯享）](https://music.163.com/song?id=3336500196) | 向小羊 | 4:24 |
+| 8 | [Reckless](https://music.163.com/song?id=3401437254) | chandol | 3:34 |
+| 9 | [madhouse](https://music.163.com/song?id=1468381661) | Matt Maltese | 3:31 |
+| 10 | [Cupid Hates My Guts](https://music.163.com/song?id=2674307648) | John Michael Howell | 2:16 |
+| 11 | [Ghost On The Radio](https://music.163.com/song?id=2723462631) | elijah woods | 2:32 |
+| 12 | [春游之](https://music.163.com/song?id=3369817702) | 邹念慈 | 2:53 |
+| 13 | [Skyscraping](https://music.163.com/song?id=1888187763) | Fred V | 4:11 |
+| 14 | [The Skinwalker](https://music.163.com/song?id=3387198561) | Noah Floersch | 3:34 |
+| 15 | [Low Key Gliding](https://music.163.com/song?id=1458447084) | Hal Walker | 4:58 |
+| 16 | [Under The Starlight (feat. Adam Christopher)](https://music.163.com/song?id=1958436618) | Axero / Adam Christopher | 2:51 |
+| 17 | [弦外知音](https://music.163.com/song?id=1456238192) | 鬼卞 / 银临 | 4:39 |
+| 18 | [Last Train Home](https://music.163.com/song?id=2754946680) | DJ_NEOHHY | 3:22 |
+| 19 | [坠入星河的帷幕](https://music.163.com/song?id=3351212823) | Warsic / 壹勺籽糖 | 3:40 |
+| 20 | [Be alone](https://music.163.com/song?id=2728912439) | BigDog Oof | 2:55 |
+| 21 | [gone instrumental prod.skress（Inst.）](https://music.163.com/song?id=2038522619) | ZsFlovexl | 1:41 |
+| 22 | [Just Begun](https://music.163.com/song?id=1314778565) | WILD | 3:00 |
+| 23 | [好运磁场](https://music.163.com/song?id=3371238883) | Auren蜜蜂 | 2:02 |
+| 24 | [Whispered Corners](https://music.163.com/song?id=3349915170) | 罗诗粟 | 5:28 |
+| 25 | [痴人说梦](https://music.163.com/song?id=3357230091) | HOYO-MiX | 1:55 |
+| 26 | [Running Up That Hill - Epic Version (from "Stranger Things)](https://music.163.com/song?id=1960124475) | Samuel Kim | 2:18 |
+| 27 | [passion](https://music.163.com/song?id=2635437250) | silent anthem / heart embrace | 2:12 |
+| 28 | [Swimming](https://music.163.com/song?id=2112191310) | flawed mangoes | 3:08 |
+| 29 | [Jealousy (Extended Version)](https://music.163.com/song?id=22831721) | DJMAX | 2:35 |
 
-## ClaudeCode_自动加入_私人雷达 — 1 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Killswitch Lullaby](https://music.163.com/song?id=2087776231) | flawed mangoes | 2:27 |
+| 1 | [The Beginning](https://music.163.com/song?id=2091823800) | flawed mangoes | 2:55 |
+| 2 | [Bästa som hänt](https://music.163.com/song?id=1836013628) | BUNT. / HON | 3:52 |
 
-## ClaudeCode_自动加入_时光雷达 — 13 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [たとえば唄えなくなったら](https://music.163.com/song?id=25867346) | ステレオポニー | 5:00 |
-| 2 | [Soviet Connection — The Theme from Grand Theft Auto IV](https://music.163.com/song?id=5040401) | Michael Hunter | 2:51 |
-| 3 | [Who I Want to Be](https://music.163.com/song?id=451991531) | David Arnold / Michael Price | 2:42 |
-| 4 | [Beautiful](https://music.163.com/song?id=26396379) | Merge of Equals / Alexandra Hampton | 4:25 |
-| 5 | [Stanley](https://music.163.com/song?id=422419953) | Jerry Folk / WoodzSTHLM / Tommellie | 3:23 |
-| 6 | [Funky Mabel](https://music.163.com/song?id=18750496) | John Lee Hooker | 3:56 |
-| 7 | [The Vale](https://music.163.com/song?id=399552068) | Trivecta / Miyoki | 4:42 |
-| 8 | [Freeze Time (Radio Edit)](https://music.163.com/song?id=862977924) | Manse / Alice Berg | 3:15 |
-| 9 | [Say It Right](https://music.163.com/song?id=3163880) | Jayco / Nelly Furtado | 3:44 |
-| 10 | [Pussyfooting](https://music.163.com/song?id=17852511) | Fujiya & Miyagi | 3:56 |
-| 11 | [Words](https://music.163.com/song?id=437292621) | Feint / Laura Brehm | 4:36 |
-| 12 | [Rush](https://music.163.com/song?id=1900153864) | Steerner / Dayce Williams | 2:35 |
-| 13 | [Drinkin About You](https://music.163.com/song?id=543987545) | Jake Miller | 3:40 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 16 首
+## ClaudeCode_自动加入_时光雷达 — 6 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Cum Ne Noi](https://music.163.com/song?id=32924839) | Carla's Dreams / Delia | 4:06 |
-| 2 | [Rave After Rave](https://music.163.com/song?id=535548503) | W&W | 2:41 |
-| 3 | [Let It Roll](https://music.163.com/song?id=4037287) | Divide The Day | 3:13 |
-| 4 | [TNT](https://music.163.com/song?id=36578914) | TroyBoi / Tincup | 3:09 |
-| 5 | [Re-Birth　](https://music.163.com/song?id=33394777) | Aubrey Ashburn | 3:59 |
-| 6 | [Enigma (Extended Mix)](https://music.163.com/song?id=420500248) | Pep & Rash / Lucas & Steve | 3:54 |
-| 7 | [Let Love Go (Original Mix)](https://music.163.com/song?id=29743782) | Jochen Miller | 5:29 |
-| 8 | [Skyline](https://music.163.com/song?id=1851474292) | Ream雨舒 / KOSHM / Aine S | 3:18 |
-| 9 | [Return Of The Heroes](https://music.163.com/song?id=479219181) | Vexento | 3:09 |
-| 10 | [I can see for miles](https://music.163.com/song?id=1302090325) | Surfing The Apocalypse | 2:37 |
-| 11 | [Lost In The Rain](https://music.163.com/song?id=2122620801) | EREAL / Victorm | 4:25 |
-| 12 | [Hey](https://music.163.com/song?id=21138819) | Matthew Morrison | 3:19 |
-| 13 | [Bundle of Joy](https://music.163.com/song?id=34228673) | MOCCA | 2:27 |
-| 14 | [Gold Jacket](https://music.163.com/song?id=1391216242) | Sam Tsui | 4:26 |
-| 15 | [I Don't Wanna Let You Go](https://music.163.com/song?id=28406674) | Stefanie Scott | 3:42 |
-| 16 | [in your head](https://music.163.com/song?id=1336871216) | Christian Kuria | 3:28 |
+| 1 | [New Horizon](https://music.163.com/song?id=1361209511) | JPB / Deverano | 2:33 |
+| 2 | [Maldives](https://music.163.com/song?id=436305197) | Jebase | 3:03 |
+| 3 | [Build a Fire](https://music.163.com/song?id=526754065) | Young Ejecta / Napolian / Ellie Herring | 3:48 |
+| 4 | [Dark](https://music.163.com/song?id=1407789513) | mixed matches | 2:46 |
+| 5 | [Turn Back Time](https://music.163.com/song?id=1331800077) | Rich Edwards / Emelie | 3:09 |
+| 6 | [Stray.wav](https://music.163.com/song?id=2655211636) | $uNDOWN | 1:42 |
 
-> 今日共新增 62 首
+## ClaudeCode_自动加入_宝藏雷达 — 21 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [尘外客](https://music.163.com/song?id=3423055223) | 鸣潮先约电台 / 蔡明希（不才） / 宫阁 | 4:16 |
+| 2 | [三根一起点燃](https://music.163.com/song?id=3421414093) | Buzzy / 谟西Mercy / 三火flame | 3:20 |
+| 3 | [爱你3000遍](https://music.163.com/song?id=3424281359) | 三官庙红白事之王 | 2:21 |
+| 4 | [死在你眼中 (为何拥抱我 推开我)](https://music.163.com/song?id=3419922423) | 庄淇玟(29#) | 3:38 |
+| 5 | [绝弦](https://music.163.com/song?id=3423465540) | 无期迷途 | 1:41 |
+| 6 | [Don’t Trust](https://music.163.com/song?id=3424073658) | King Von / Jay Louie V | 2:38 |
+| 7 | [那我们现在 是什么关系](https://music.163.com/song?id=3424171468) | 4444 | 2:15 |
+| 8 | [人类爱情学](https://music.163.com/song?id=3421794451) | 陈蕾 | 3:25 |
+| 9 | [Lost Weekend](https://music.163.com/song?id=3420244043) | Phoebe Bridgers | 3:38 |
+| 10 | [summer love](https://music.163.com/song?id=3417335972) | 三棱镜 | 2:05 |
+| 11 | [Still](https://music.163.com/song?id=3417782581) | KAROL G / Bruno Mars | 3:40 |
+| 12 | [我们现在什么关系](https://music.163.com/song?id=3416270927) | 伍六七 | 2:39 |
+| 13 | [I Dunno (feat. Dutchavelli & Stormzy)](https://music.163.com/song?id=1451122328) | Tion Wayne / Dutchavelli / Stormzy | 2:58 |
+| 14 | [inca rose](https://music.163.com/song?id=592076) | 貝田由里子 | 4:32 |
+| 15 | [farewell](https://music.163.com/song?id=573583590) | Demxntia / pageant queen | 1:33 |
+| 16 | [Wait For You](https://music.163.com/song?id=1448265458) | Herrin / Vaance / Luma | 3:12 |
+| 17 | [Crazy](https://music.163.com/song?id=1394746780) | Lost Frequencies / Zonderling | 2:33 |
+| 18 | [Slow Motion (feat. Rikki)](https://music.163.com/song?id=1982913848) | Far Out / RIKKI | 3:56 |
+| 19 | [Why Do You Run](https://music.163.com/song?id=548098889) | Omnia / Jonny Rose | 3:52 |
+| 20 | [Tokyo Rain](https://music.163.com/song?id=3319072602) | Yavomag / Rubikdice / Chilx | 2:22 |
+| 21 | [Wake Up](https://music.163.com/song?id=1849807289) | Kowloon | 3:59 |
+
+> 今日共新增 58 首
 
 ---
-自动生成于 2026-08-25 22:53 · netease-daily-sync
+自动生成于 2026-08-27 03:25 · netease-daily-sync
