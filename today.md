@@ -1,81 +1,75 @@
-# 每日归档 2026-08-28
+# 每日归档 2026-08-29
 
-## ClaudeCode_自动加入_每日推荐 — 29 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Lowlife (Acoustic)](https://music.163.com/song?id=1844091695) | Neck Deep | 3:08 |
-| 2 | [Let Me Down](https://music.163.com/song?id=1435295608) | Oliver Tree | 1:51 |
-| 3 | [The Big Goodbye](https://music.163.com/song?id=2722320071) | AJR | 5:02 |
-| 4 | [All I Need](https://music.163.com/song?id=1815902459) | verzache | 3:23 |
-| 5 | [DOPAMINE HIT](https://music.163.com/song?id=2676582373) | ALRT / Liam Elliott | 2:54 |
-| 6 | [Lost, but I Love U](https://music.163.com/song?id=2154894510) | GX.MARK | 2:39 |
-| 7 | [Out of Time (feat. Pyxis & Jay Diggs)](https://music.163.com/song?id=1380905152) | Kalax / Pyxis / Jay Diggs | 4:55 |
-| 8 | [Paris to the Moon](https://music.163.com/song?id=1300965563) | Video Age | 2:31 |
-| 9 | [Let It Bloom](https://music.163.com/song?id=2058400360) | Grabbitz | 4:00 |
-| 10 | [IIIusion Dream](https://music.163.com/song?id=2646984488) | RYKU808 | 1:47 |
-| 11 | [i know you so well](https://music.163.com/song?id=489998870) | xfruge / Shiloh Dynasty | 1:45 |
-| 12 | [Don't Care Crown](https://music.163.com/song?id=1470690413) | Fox Stevenson | 3:08 |
-| 13 | [Indigo](https://music.163.com/song?id=1340307840) | Magnolian | 4:39 |
-| 14 | [the world could be ours](https://music.163.com/song?id=1469188717) | Double E The God | 3:05 |
-| 15 | [Say Something (Sebastien Remix)](https://music.163.com/song?id=35617718) | Sebastien / A Great Big World / Christina Aguilera | 5:55 |
-| 16 | [Missing](https://music.163.com/song?id=2690279508) | Gloomjoy / CASTLEBEAT | 3:01 |
-| 17 | [CHINA-小院](https://music.163.com/song?id=3383601679) | 徐梦圆 | 2:51 |
-| 18 | [IV (Find Yourself)](https://music.163.com/song?id=31370539) | Athletics | 6:00 |
-| 19 | [safe space (feat. RJ Pasin)](https://music.163.com/song?id=2118612076) | ptasinski / m3gatron / RJ Pasin | 1:31 |
-| 20 | [Fluxxwave x lay With Me Slowed](https://music.163.com/song?id=2135685374) | zyhackx | 1:38 |
-| 21 | [Glowing rose](https://music.163.com/song?id=3346947844) | -EYKKBY- | 2:26 |
-| 22 | [Sayin'](https://music.163.com/song?id=2689315186) | Jux | 2:17 |
-| 23 | [荒诞人生](https://music.163.com/song?id=3339839029) | M3mo | 2:03 |
-| 24 | [Best One feat.墨橙](https://music.163.com/song?id=1455828857) | 小野道ono / 墨橙 | 3:42 |
-| 25 | [arne](https://music.163.com/song?id=22701041) | Haruka Nakamura | 3:37 |
-| 26 | [Hear My Call (feat. Tyler Graves)](https://music.163.com/song?id=1862507836) | Trivecta / Gem & Tauri / Tyler Graves | 3:08 |
-| 27 | [直到大地变成一颗酸橙](https://music.163.com/song?id=3413072220) | 塞壬唱片-MSR / 平林佑人 / 星熊南巫 | 4:00 |
-| 28 | [MY WAY (三个太阳 Remix)](https://music.163.com/song?id=1501468224) | Veysigz | 3:01 |
-| 29 | [Usagi Flap](https://music.163.com/song?id=2059973927) | Nor | 2:08 |
-
-## ClaudeCode_自动加入_私人雷达 — 5 首
+## ClaudeCode_自动加入_每日推荐 — 8 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Afterlife](https://music.163.com/song?id=465921745) | Hex Cougar / Jarell Perry | 3:38 |
-| 2 | [城南花已开](https://music.163.com/song?id=468176711) | 三亩地 | 4:31 |
-| 3 | [“diary”（RnB type beat）](https://music.163.com/song?id=1367900235) | 李思齐Lee47 | 3:02 |
-| 4 | [Can't Hide](https://music.163.com/song?id=425295146) | Whethan / Ashe | 3:04 |
-| 5 | [Grace](https://music.163.com/song?id=528423473) | Jannik | 4:59 |
+| 1 | [山海皆可平](https://music.163.com/song?id=2140725670) | 龙颜 / 龙颜音乐 / 抓不住旳青春 | 2:14 |
+| 2 | [abandoning the core](https://music.163.com/song?id=3423865525) | 无氧气囊AnoxicAir-Sac | 4:48 |
+| 3 | [hate my boss, love my friends.](https://music.163.com/song?id=3424210510) | DLSS | 2:05 |
+| 4 | [荒唐谣](https://music.163.com/song?id=3368793123) | DOUDOU | 4:11 |
+| 5 | [宿伞之魂的南台雨](https://music.163.com/song?id=3422976516) | 第五人格 / 白翎 | 2:06 |
+| 6 | [倘若相拥于月](https://music.163.com/song?id=3392222651) | 鸣潮先约电台 / Gokou / Sammy Clifford | 3:07 |
+| 7 | [失熵症 Entropy Loss](https://music.163.com/song?id=2139146710) | MOCKER44. / Ari鸦不齐 | 3:01 |
+| 8 | [❀](https://music.163.com/song?id=521935820) | nevva | 2:15 |
 
-## ClaudeCode_自动加入_时光雷达 — 4 首
+## ClaudeCode_自动加入_欧美私人订制 — 5 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Bridged By A Lightwave](https://music.163.com/song?id=1806909021) | deadmau5 / Kiesza | 9:22 |
-| 2 | [Apollo](https://music.163.com/song?id=32683853) | Hardwell / Amba Shepherd | 3:25 |
-| 3 | [Made It](https://music.163.com/song?id=2040991459) | Martin Icarus | 2:30 |
-| 4 | [Dirty Desire](https://music.163.com/song?id=2106189170) | Vicetone | 2:51 |
+| 1 | [Mama (Perfect Timing)](https://music.163.com/song?id=3387007752) | Young Roddo | 1:53 |
+| 2 | [Set for Life](https://music.163.com/song?id=1296302555) | Trent Dabbs | 4:22 |
+| 3 | [Let Me Down](https://music.163.com/song?id=1435295608) | Oliver Tree | 1:51 |
+| 4 | [Flags](https://music.163.com/song?id=507794648) | Shoffy / Yuna | 3:28 |
+| 5 | [Whoa](https://music.163.com/song?id=1415369073) | XXXTENTACION | 2:37 |
+
+## ClaudeCode_自动加入_私人雷达 — 6 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Letting Go](https://music.163.com/song?id=208891) | 蔡健雅 | 4:23 |
+| 2 | [顺其自然 (Been Through)](https://music.163.com/song?id=526081121) | EXO | 3:38 |
+| 3 | [Bones](https://music.163.com/song?id=1927389937) | Imagine Dragons | 2:45 |
+| 4 | [Once Upon a Time](https://music.163.com/song?id=1299570939) | Max Oazo / Moonessa | 3:26 |
+| 5 | [心如止水](https://music.163.com/song?id=1349292048) | Ice Paper | 3:05 |
+| 6 | [Baby, Don't Cry (인어의 눈물)](https://music.163.com/song?id=26428002) | EXO | 3:55 |
+
+## ClaudeCode_自动加入_时光雷达 — 8 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Waves](https://music.163.com/song?id=1362503380) | Funk LeBlanc | 5:13 |
+| 2 | [Love Like Ghosts](https://music.163.com/song?id=31352411) | Lord Huron | 3:44 |
+| 3 | [Disappear (Album Mix)](https://music.163.com/song?id=26373062) | Mango / Andre Frauenstein / Aeron Aether | 7:29 |
+| 4 | [I Never Cared About You](https://music.163.com/song?id=1447227746) | mixed matches | 3:00 |
+| 5 | [♡B l u e ℉](https://music.163.com/song?id=1373776041) | BlueLee | 3:14 |
+| 6 | [Collarbone](https://music.163.com/song?id=4068368) | Fujiya & Miyagi | 4:04 |
+| 7 | [Rita](https://music.163.com/song?id=1319253062) | Akcent | 2:52 |
+| 8 | [AGUDO MAGKLCO (GHETTO HOUSE)](https://music.163.com/song?id=3406299590) | FinalSay | 1:36 |
 
 ## ClaudeCode_自动加入_宝藏雷达 — 17 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Abhyasa](https://music.163.com/song?id=31986141) | Menno de Jong | 6:39 |
-| 2 | [Drive](https://music.163.com/song?id=518092379) | WRLD | 3:51 |
-| 3 | [In Us I Believe](https://music.163.com/song?id=1329756526) | Clean Bandit / ALMA | 3:27 |
-| 4 | [Breaking Now](https://music.163.com/song?id=441577395) | From Ashes To New | 3:30 |
-| 5 | [I Want My Tears Back](https://music.163.com/song?id=1429731759) | Nightwish | 5:07 |
-| 6 | [Pohodlne](https://music.163.com/song?id=1459871177) | 林星驰Lstar | 1:36 |
-| 7 | [Year Of Summer](https://music.163.com/song?id=29572198) | Wildstylez | 2:54 |
-| 8 | [Get Us Out Of Here](https://music.163.com/song?id=524191672) | Johan Soderqvist / Patrik Andrén | 2:56 |
-| 9 | [ทำอะไรสักอย่าง : นครินทร์ กิ่งศักดิ์](https://music.163.com/song?id=4473093) | Pang Nakarin / นครินทร์ กิ่งศักดิ์ | 3:39 |
-| 10 | [二十岁的自己](https://music.163.com/song?id=1375156596) | 礼昂Leon | 4:02 |
-| 11 | [Paradise Awaits](https://music.163.com/song?id=28436981) | ZHU | 3:33 |
-| 12 | [Leave This Place](https://music.163.com/song?id=545736612) | LIONE | 4:10 |
-| 13 | [时空旅行舱](https://music.163.com/song?id=2722095454) | 时空储蓄罐 | 2:45 |
-| 14 | [Come Around Again](https://music.163.com/song?id=1934852280) | Armin van Buuren / Billen Ted / JC Stewart | 2:49 |
-| 15 | [清风入浅夏](https://music.163.com/song?id=3380475462) | 凤凰院零零 | 2:56 |
-| 16 | [So Into You](https://music.163.com/song?id=1357816082) | My Buddy Mike / Love Alexa | 3:02 |
-| 17 | [next to you (Sped Up)](https://music.163.com/song?id=2080658634) | Øneheart | 1:50 |
+| 1 | [花环与桂冠](https://music.163.com/song?id=3424358513) | 洛天依Official / JUSF周存 | 5:20 |
+| 2 | [青春微恋](https://music.163.com/song?id=3416012062) | 宋子西 | 2:53 |
+| 3 | [魔丸日记](https://music.163.com/song?id=3425066817) | 董小尼 | 2:01 |
+| 4 | [Madama Butterfly:Act II Part 1: Un bel dì vedremo (Butterfly)](https://music.163.com/song?id=464740784) | Herbert von Karajan / Maria Callas / Nicolai Gedda | 4:37 |
+| 5 | [Like Rose](https://music.163.com/song?id=1476162572) | JoZ | 3:57 |
+| 6 | [Naughty Girl](https://music.163.com/song?id=1837868828) | Qveen Herby | 3:09 |
+| 7 | [Battlefield 6 Main Theme](https://music.163.com/song?id=2731173292) | Boris Harizanov | 3:13 |
+| 8 | [Circle](https://music.163.com/song?id=17116713) | Cult of Luna | 8:11 |
+| 9 | [Reach Up](https://music.163.com/song?id=1360293670) | Eternal N / Amazors音乐社 | 4:13 |
+| 10 | [When Things Go Wrong...](https://music.163.com/song?id=1053905) | Airwave | 6:58 |
+| 11 | [Get You Mad](https://music.163.com/song?id=1300291) | Eminem / DJ Revolution | 4:22 |
+| 12 | [PDA](https://music.163.com/song?id=1368293573) | Emily Burns | 3:28 |
+| 13 | [Pixel Cat](https://music.163.com/song?id=1901382466) | Di Young | 2:54 |
+| 14 | [Fantasy (Original Mix)](https://music.163.com/song?id=36586871) | Del | 3:50 |
+| 15 | [Last Day](https://music.163.com/song?id=1811557220) | Two Friends / Josie Dunne | 3:40 |
+| 16 | [Come 2gether](https://music.163.com/song?id=1417711636) | Ooyy | 3:26 |
+| 17 | [Serenade in Blue](https://music.163.com/song?id=1116723) | Bucky Pizzarelli | 3:27 |
 
-> 今日共新增 55 首
+> 今日共新增 44 首
 
 ---
-自动生成于 2026-08-28 06:13 · netease-daily-sync
+自动生成于 2026-08-29 03:47 · netease-daily-sync
