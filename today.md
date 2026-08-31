@@ -1,83 +1,69 @@
-# 每日归档 2026-08-30
+# 每日归档 2026-08-31
 
-## ClaudeCode_自动加入_每日推荐 — 7 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [心似烟火](https://music.163.com/song?id=1399112638) | 陈壹千 | 4:31 |
-| 2 | [越权访问-崩坏：星穹铁道](https://music.163.com/song?id=1953104779) | Hanser | 3:05 |
-| 3 | [狗女孩](https://music.163.com/song?id=28819357) | 梅卡德尔 | 4:35 |
-| 4 | [哀人i (Live)](https://music.163.com/song?id=3424357533) | 余文乐 / 艾热 AIR / 王以太 | 4:12 |
-| 5 | [一点](https://music.163.com/song?id=3416355967) | 雷米克斯 | 4:39 |
-| 6 | [童话镇](https://music.163.com/song?id=413829859) | 暗杠 | 4:10 |
-| 7 | [Letter That Writing In the Wind（写在风中的信）](https://music.163.com/song?id=2687604168) | Blackly | 3:05 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 7 首
+## ClaudeCode_自动加入_每日推荐 — 6 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Animal](https://music.163.com/song?id=3410454149) | KATSEYE | 2:38 |
-| 2 | [My Oh My](https://music.163.com/song?id=1965041585) | Aqua | 3:24 |
-| 3 | [oh well](https://music.163.com/song?id=3414273115) | Ariana Grande | 3:16 |
-| 4 | [fav drug <3](https://music.163.com/song?id=3360778205) | $uNDOWN | 2:01 |
-| 5 | [oh yeah?](https://music.163.com/song?id=3406368630) | Steve Lacy | 2:50 |
-| 6 | [Odds Are Good](https://music.163.com/song?id=418550260) | Anoraak | 4:04 |
-| 7 | [If It Makes You Happy](https://music.163.com/song?id=439121528) | Eli Way / cehryl | 3:48 |
+| 1 | [酒鬼的歌](https://music.163.com/song?id=3386259187) | 普阿山 / MoonJellies | 2:49 |
+| 2 | [Gap in Shanghai Rainy Days](https://music.163.com/song?id=3401123804) | 王耳文 | 1:50 |
+| 3 | [Plug Me In](https://music.163.com/song?id=3346561109) | METAMOON / PINKPINK | 1:54 |
+| 4 | [Money Much（钞级夏天）](https://music.163.com/song?id=3389795346) | 王有有 | 2:52 |
+| 5 | [Letter](https://music.163.com/song?id=1853549512) | iris | 3:38 |
+| 6 | [Read My Silence 2.0](https://music.163.com/song?id=3371364899) | Kira | 3:40 |
 
-## ClaudeCode_自动加入_私人雷达 — 7 首
+## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Young Hearts](https://music.163.com/song?id=423997500) | BUNT. / BEGINNERS | 3:16 |
-| 2 | [Forget Me Nots](https://music.163.com/song?id=27756753) | Patrice Rushen | 4:01 |
-| 3 | [花绽放](https://music.163.com/song?id=523696075) | smile丶轩 | 3:14 |
-| 4 | [海滨小城 Seaside Town](https://music.163.com/song?id=3409350839) | HOYO-MiX | 1:56 |
-| 5 | [confused future](https://music.163.com/song?id=2758900848) | ATOM | 3:22 |
-| 6 | [云中加冕The Crown In The Clouds](https://music.163.com/song?id=2084376965) | 江上青山JasonYama | 2:18 |
-| 7 | [Pay That Toll](https://music.163.com/song?id=3427383631) | OneRepublic | 2:47 |
+| 1 | [Loyal Dick](https://music.163.com/song?id=1902362304) | Rubi Rose | 2:31 |
+
+## ClaudeCode_自动加入_私人雷达 — 4 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [神女劈观·唤情 Devastation and Redemption](https://music.163.com/song?id=1910911958) | HOYO-MiX | 2:40 |
+| 2 | [Swimming](https://music.163.com/song?id=2112191310) | flawed mangoes | 3:08 |
+| 3 | [Last Reunion: Epicmusicvn Series](https://music.163.com/song?id=32102855) | Peter Roe | 4:35 |
+| 4 | [Ethereal](https://music.163.com/song?id=1447846126) | RuKoops | 3:11 |
 
 ## ClaudeCode_自动加入_时光雷达 — 12 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [I Need A Friend Tonght](https://music.163.com/song?id=16954391) | Charlie Simpson | 3:38 |
-| 2 | [Lament of Valkyrie](https://music.163.com/song?id=402070052) | Peter Roe | 3:05 |
-| 3 | [voices in my head](https://music.163.com/song?id=1310004964) | San Holo / The Nicholas | 4:52 |
-| 4 | [Caldera](https://music.163.com/song?id=31010889) | Recondite | 8:53 |
-| 5 | [Lost](https://music.163.com/song?id=514761669) | Lost Sky | 2:37 |
-| 6 | [Never Enough](https://music.163.com/song?id=2013092456) | AViVA | 2:32 |
-| 7 | [ULTRAVIOLENT Pt. II (Levit∆te Reimagination)](https://music.163.com/song?id=1375612206) | Crywolf / LEViT∆TE | 5:55 |
-| 8 | [i keep losing my tabi](https://music.163.com/song?id=526468312) | bucket 桶 | 1:36 |
-| 9 | [Mile Marker](https://music.163.com/song?id=2181596) | Amy Seeley | 3:30 |
-| 10 | [Stars](https://music.163.com/song?id=458333550) | Childsion | 3:15 |
-| 11 | [Stereo Love(Radio Edit)](https://music.163.com/song?id=1341764) | Edward Maya | 3:04 |
-| 12 | [New Age (Original mix)](https://music.163.com/song?id=433107873) | Elecprok | 3:52 |
+| 1 | [Fly or Die](https://music.163.com/song?id=18810689) | Rock Mafia | 3:30 |
+| 2 | [If It's Silent](https://music.163.com/song?id=1405068427) | GLowBrain | 4:00 |
+| 3 | [What's On Your Mind (Instrumental)](https://music.163.com/song?id=26166151) | Eric B. & Rakim | 5:30 |
+| 4 | [sweet home](https://music.163.com/song?id=1406244940) | Christian French | 2:46 |
+| 5 | [blueberry brows](https://music.163.com/song?id=1374964765) | Isaac Dunbar | 4:06 |
+| 6 | [Gucci Gucci (Milkdrop Rmx)](https://music.163.com/song?id=399410472) | Kreayshawn / MilkDrop | 2:54 |
+| 7 | [Flags](https://music.163.com/song?id=507794648) | Shoffy / Yuna | 3:28 |
+| 8 | [Trenches](https://music.163.com/song?id=26364611) | Pop Evil | 3:38 |
+| 9 | [No More](https://music.163.com/song?id=551340045) | Olivera | 3:03 |
+| 10 | [Libertines Jacket](https://music.163.com/song?id=1401383581) | Violet Days | 2:22 |
+| 11 | [Headphones](https://music.163.com/song?id=512489445) | Walk The Moon | 3:04 |
+| 12 | [Fortify](https://music.163.com/song?id=29393335) | Kate Miller-Heidke | 3:36 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 19 首
+## ClaudeCode_自动加入_宝藏雷达 — 15 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [瞬息甜味（Sugar Time）](https://music.163.com/song?id=3421317297) | 战双帕弥什 / Linda Ke | 3:06 |
-| 2 | [FOGGY](https://music.163.com/song?id=3424256415) | DEN | 4:32 |
-| 3 | [凄美地](https://music.163.com/song?id=3414038714) | 郭顶 | 4:10 |
-| 4 | [36岁小学生初投稿原创摇滚暂别作](https://music.163.com/song?id=3423630509) | 阿良良木健 / 洛天依 | 2:55 |
-| 5 | [You're My Angel (Midnight Mix)](https://music.163.com/song?id=26765909) | Styles / breeze | 4:37 |
-| 6 | [deth bed](https://music.163.com/song?id=1460751127) | vvciaga / wyt | 1:38 |
-| 7 | [Leaving The Lights](https://music.163.com/song?id=409647339) | K-391 | 3:27 |
-| 8 | [No More](https://music.163.com/song?id=551340045) | Olivera | 3:03 |
-| 9 | [LEFTY](https://music.163.com/song?id=1471942759) | XYLØ | 3:54 |
-| 10 | [Sticks & Stones](https://music.163.com/song?id=1415932752) | Sound Rush | 3:15 |
-| 11 | [Mind Control](https://music.163.com/song?id=1407247123) | NWYR | 3:34 |
-| 12 | [therapist](https://music.163.com/song?id=1856211129) | Cat & Calmell | 3:11 |
-| 13 | [Wolv (Original Mix)](https://music.163.com/song?id=28923396) | Dyro | 4:05 |
-| 14 | [Am I Wrong - Karaoke In The Style Of Nico & Vinz](https://music.163.com/song?id=535534654) | Fresh Karaoke | 4:05 |
-| 15 | [Way Back](https://music.163.com/song?id=18576763) | Jazzamor | 4:32 |
-| 16 | [Far From Home](https://music.163.com/song?id=411349611) | Gareth Emery / Gavrielle | 3:50 |
-| 17 | [Nothing Else](https://music.163.com/song?id=34169377) | Kyross / Auram | 4:22 |
-| 18 | [Grandpa Song](https://music.163.com/song?id=1536572) | Jake Nauta | 3:00 |
-| 19 | [Captivate](https://music.163.com/song?id=1956785888) | Jane & The Boy | 2:19 |
+| 1 | [Bye Bye .](https://music.163.com/song?id=3424136097) | fakemink | 2:46 |
+| 2 | [忘情马健涛](https://music.163.com/song?id=3419947239) | 马健涛 | 3:09 |
+| 3 | [Can't Keep Waiting](https://music.163.com/song?id=27716917) | Autumn Hill | 3:10 |
+| 4 | [Memories](https://music.163.com/song?id=414586013) | Various Artists | 3:50 |
+| 5 | [Feel Love (feat. Rosie Doonan)](https://music.163.com/song?id=1338922959) | Feed Me / Rosie Doonan | 5:36 |
+| 6 | [CIAO](https://music.163.com/song?id=429261149) | Merk & Kremont | 4:18 |
+| 7 | [Right Here Waiting](https://music.163.com/song?id=3565249) | Tynisha Keli | 4:22 |
+| 8 | [Taking Over](https://music.163.com/song?id=28160135) | 7Lions | 3:42 |
+| 9 | [leave the light on](https://music.163.com/song?id=1964233218) | Johnny Orlando | 2:55 |
+| 10 | [Anything but wet](https://music.163.com/song?id=1998870308) | i_o / Lights | 5:56 |
+| 11 | [Detached](https://music.163.com/song?id=1359451499) | KTRL | 3:05 |
+| 12 | [Like Gold](https://music.163.com/song?id=1490543721) | Loud Luxury / Frank Walker / Stephen Puth | 2:56 |
+| 13 | [Ash](https://music.163.com/song?id=1907498364) | Kirara Magic | 3:16 |
+| 14 | [La Gloria](https://music.163.com/song?id=18067315) | Gotan Project | 3:47 |
+| 15 | [in a different light (feat. TRØVES)](https://music.163.com/song?id=1431915032) | Tim Schaufert / TRØVES | 2:53 |
 
-> 今日共新增 52 首
+> 今日共新增 38 首
 
 ---
-自动生成于 2026-08-30 00:30 · netease-daily-sync
+自动生成于 2026-08-31 01:45 · netease-daily-sync
