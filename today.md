@@ -1,112 +1,127 @@
-# 每日归档 2026-09-08
+# 每日归档 2026-09-09
 
 ## ClaudeCode_自动加入_每日推荐 — 28 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Falling Asleep With You In My Arm](https://music.163.com/song?id=493042795) | cleararmor | 3:05 |
-| 2 | [Eyes Up](https://music.163.com/song?id=2162715344) | Bumpÿ / JB RICKY / Maria Niklasson | 3:41 |
-| 3 | [Pluto](https://music.163.com/song?id=28013092) | Sleeping at Last | 3:49 |
-| 4 | [In love with the foolish liar](https://music.163.com/song?id=1919253116) | Vieeee | 3:38 |
-| 5 | [Getaway](https://music.163.com/song?id=1321916480) | Syn Cole | 3:14 |
-| 6 | [Burning](https://music.163.com/song?id=2154924631) | FrogMonster 蛙蛙 | 3:19 |
-| 7 | [东方大院](https://music.163.com/song?id=2619410976) | DJ-AYU | 6:03 |
-| 8 | [Last Night On Earth](https://music.163.com/song?id=18127622) | Green Day | 3:56 |
-| 9 | [One More Shot](https://music.163.com/song?id=2043335952) | Sainte Barbe / Shiloh Dynasty | 3:08 |
-| 10 | [China-H](https://music.163.com/song?id=1949737847) | 仁辰 / 南有乔木 | 3:30 |
-| 11 | [Altitude](https://music.163.com/song?id=407679741) | James Woods | 5:43 |
-| 12 | [Right Here Waiting（Deep House）](https://music.163.com/song?id=3393822597) | isoo | 2:33 |
-| 13 | [always by myself](https://music.163.com/song?id=3340482533) | s0rrow | 1:30 |
-| 14 | [Channel 43 (Radio Edit)](https://music.163.com/song?id=1803510182) | deadmau5 / Wolfgang Gartner | 3:04 |
-| 15 | [The Other Shore](https://music.163.com/song?id=29474172) | Aly & Fila / ARUNA | 3:23 |
-| 16 | [Acceptance](https://music.163.com/song?id=1948607755) | YCK | 3:30 |
-| 17 | [Married With Children](https://music.163.com/song?id=17822795) | Oasis | 3:12 |
-| 18 | [赫兹海的夜晚](https://music.163.com/song?id=3387144894) | 奎萨 | 4:03 |
-| 19 | [MAGICO(Slap House)](https://music.163.com/song?id=3410139314) | GTR7 | 2:30 |
-| 20 | [Ode to the Eternal Night](https://music.163.com/song?id=3312607153) | 第五人格 / Joker Studio / Jay Alan | 1:33 |
-| 21 | [NEIGHBORHOODS](https://music.163.com/song?id=450224649) | Bri Tolani / Wiles | 4:03 |
-| 22 | [白日梦The Daydream（Feat.初音ミク,重音テト,音街ウナ）](https://music.163.com/song?id=2756383935) | PoppoOVO / 初音ミク / 重音テト | 2:49 |
-| 23 | [From Nowhere (Baardsen Remix)](https://music.163.com/song?id=27770773) | Dan Croll | 4:27 |
-| 24 | [Grateful](https://music.163.com/song?id=1966066355) | callmestevieray / Connor Price | 2:57 |
-| 25 | [盛京（Extended Mix）](https://music.163.com/song?id=1302879034) | EM-MUMU | 4:23 |
-| 26 | [Woo Baby Pop Smoke (Instrumental)](https://music.163.com/song?id=1871883965) | S17AG | 2:40 |
-| 27 | [Tell Me Why I'm Waiting (Original Mix)](https://music.163.com/song?id=518896491) | timmies / Shiloh Dynasty | 2:03 |
-| 28 | [Who? (feat. Shiloh Dynasty)](https://music.163.com/song?id=515816220) | TSUKI | 2:37 |
+| 1 | [SALESMAN SLAPHOUSE](https://music.163.com/song?id=3398692624) | MerrinZephyr | 2:08 |
+| 2 | [so long so how long](https://music.163.com/song?id=2664447445) | 颜煦伦Jeremy | 3:15 |
+| 3 | [Hollow Eyes (feat. EKE)](https://music.163.com/song?id=1887182749) | Synymata / KLAXX / EKE | 3:51 |
+| 4 | [Against The Grain](https://music.163.com/song?id=1891369271) | Rameses B / Veela | 3:58 |
+| 5 | [i can't describe this feeling](https://music.163.com/song?id=1398295334) | nekoi | 3:40 |
+| 6 | [Higher Ground (Flight Facilities Remix)](https://music.163.com/song?id=548823763) | ODESZA / Flight Facilities / Naomi Wild | 3:40 |
+| 7 | [When U Move On (feat. Shiloh)](https://music.163.com/song?id=548815317) | X.X / Shiloh | 3:55 |
+| 8 | [竟陵](https://music.163.com/song?id=1366100459) | ASAMU | 3:20 |
+| 9 | [Used To Love](https://music.163.com/song?id=1861224068) | MEDZ / She Is Jules / Aaron Shirk | 4:14 |
+| 10 | [I Hate Math](https://music.163.com/song?id=3394007369) | 董宇尘 | 1:31 |
+| 11 | [All We Get](https://music.163.com/song?id=2621139597) | Elephante / yetep / Daye | 4:08 |
+| 12 | [The Last Ones Standing](https://music.163.com/song?id=31997922) | Tep No | 3:28 |
+| 13 | [What's the Rush?](https://music.163.com/song?id=3391569344) | chandol | 3:10 |
+| 14 | [bad thing (bunny hop)](https://music.163.com/song?id=3414272568) | Ariana Grande | 3:28 |
+| 15 | [Be My Valentine! (Anti-crisis Girl) (Ukraine)](https://music.163.com/song?id=24907093) | Loboda | 3:00 |
+| 16 | [Break My Rules](https://music.163.com/song?id=2152611479) | Graham | 1:57 |
+| 17 | [Magic (Original Mix)](https://music.163.com/song?id=27723940) | FM Attack | 4:35 |
+| 18 | [Leave it all behind](https://music.163.com/song?id=3395022282) | Project XI | 3:58 |
+| 19 | [玄翎谣](https://music.163.com/song?id=3405072664) | 鸣潮先约电台 / jkinss / 薄荷Miint | 4:38 |
+| 20 | [Frozen Flame（冰火永烬）](https://music.163.com/song?id=2745125988) | Edda Hayes / Suprhot / 2WEI | 4:11 |
+| 21 | [Back To Me](https://music.163.com/song?id=2156075915) | MVSE / shXdow. / Donna Tella | 3:48 |
+| 22 | [Morning Mist](https://music.163.com/song?id=21383528) | Paronator | 6:40 |
+| 23 | [二泉](https://music.163.com/song?id=3426536875) | 加木 | 2:58 |
+| 24 | [巫堵](https://music.163.com/song?id=483378330) | deca joins | 3:30 |
+| 25 | [maggots for brains](https://music.163.com/song?id=3392743806) | Olivia Rodrigo | 4:00 |
+| 26 | [Another Day Of Sun (From "La La Land" Soundtrack)](https://music.163.com/song?id=445867332) | La La Land Cast | 3:48 |
+| 27 | [AGUDO MÁGICO 3 FUNK](https://music.163.com/song?id=3364962811) | Mercury Ghost | 2:07 |
+| 28 | [行而思雨](https://music.163.com/song?id=1346573431) | 夜雨寻风 | 4:27 |
 
 ## ClaudeCode_自动加入_欧美私人订制 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Shut up My Moms Calling](https://music.163.com/song?id=1980855568) | Hotel Ugly | 2:44 |
-| 2 | [My jealousy (Original ver.)](https://music.163.com/song?id=22831636) | DJMAX | 2:32 |
+| 1 | [too weak](https://music.163.com/song?id=1413074750) | hannah hausman / RYANVIII / fortune | 3:17 |
+| 2 | [won't you, please?](https://music.163.com/song?id=530986142) | arnd & arnd / Shiloh / dyvn. | 3:24 |
 
-## ClaudeCode_自动加入_私人雷达 — 20 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [竹庭](https://music.163.com/song?id=1399165011) | 觅青森 | 4:23 |
-| 2 | [Agony](https://music.163.com/song?id=3397786326) | Agony / overtonight | 2:17 |
-| 3 | [YMCA (Original Version 1978)](https://music.163.com/song?id=3796935) | Village People | 4:46 |
-| 4 | [La rédaction](https://music.163.com/song?id=29142151) | Philippe Rombi | 4:03 |
-| 5 | [Before You Break My Heart](https://music.163.com/song?id=1940312) | Stevie Hoang | 3:45 |
-| 6 | [Camera](https://music.163.com/song?id=3410063350) | Charli xcx | 2:31 |
-| 7 | [Reckless](https://music.163.com/song?id=3401437254) | chandol | 3:34 |
-| 8 | [Washington Square](https://music.163.com/song?id=29043722) | The Village Stompers | 2:42 |
-| 9 | [Fool For You](https://music.163.com/song?id=1897685644) | KASTRA | 3:27 |
-| 10 | [girl i knew](https://music.163.com/song?id=3394916643) | promisfun / overtonight | 2:35 |
-| 11 | [Grateful](https://music.163.com/song?id=1966066355) | callmestevieray / Connor Price | 2:57 |
-| 12 | [Gap in Shanghai Rainy Days](https://music.163.com/song?id=3401123804) | 王耳文 | 1:50 |
-| 13 | [Im Sorry Mom](https://music.163.com/song?id=3387337974) | Marino | 1:47 |
-| 14 | [遥远小镇的我](https://music.163.com/song?id=2705018667) | 洛天依 / flybanana | 3:15 |
-| 15 | [又活了一天](https://music.163.com/song?id=2117545694) | 庄东茹（豆芽鱼） | 2:34 |
-| 16 | [nevermind](https://music.163.com/song?id=1803517026) | Valley | 2:56 |
-| 17 | [You Don't Feel The Way I Do](https://music.163.com/song?id=3383522224) | Chris James | 2:42 |
-| 18 | [NUNA 2.0](https://music.163.com/song?id=1979731860) | 队长 / 叶琼琳 | 3:43 |
-| 19 | [不说 (原来是不说)](https://music.163.com/song?id=1436117704) | 周公 | 3:38 |
-| 20 | [故里逢春](https://music.163.com/song?id=1457113272) | 阿YueYue | 3:38 |
-
-## ClaudeCode_自动加入_时光雷达 — 17 首
+## ClaudeCode_自动加入_私人雷达 — 24 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Jets](https://music.163.com/song?id=26159284) | Bonobo | 4:34 |
-| 2 | [幕后生活](https://music.163.com/song?id=2103368325) | 海洋Bo | 3:40 |
-| 3 | [Queen Vibes](https://music.163.com/song?id=1427879695) | Vedo | 2:52 |
-| 4 | [Rock To The Rhythm](https://music.163.com/song?id=1323821920) | Firebeatz / Yozo | 2:56 |
-| 5 | [Everybody](https://music.163.com/song?id=29220985) | Bodhi Jones | 3:51 |
-| 6 | [Divinity](https://music.163.com/song?id=445144596) | Marcus Mouya | 3:09 |
-| 7 | [Blood Sugar](https://music.163.com/song?id=26635001) | Pendulum | 5:13 |
-| 8 | [Jammu (DRMLND Tropical Edit)](https://music.163.com/song?id=441120707) | DRMLND / KSHMR | 4:10 |
-| 9 | [Easy For You To Say](https://music.163.com/song?id=1941542623) | 5 Seconds of Summer | 4:00 |
-| 10 | [XL](https://music.163.com/song?id=479219420) | Fly By Midnight | 3:12 |
-| 11 | [Cool Girl (feat. BAER)](https://music.163.com/song?id=525239772) | BEAUZ / Subfer / BAER | 2:43 |
-| 12 | [Dominoes](https://music.163.com/song?id=1887203174) | Anson Seabra | 3:43 |
-| 13 | [我看了56次日落](https://music.163.com/song?id=1930608504) | ET / 邹念慈 | 2:33 |
-| 14 | [普通人生](https://music.163.com/song?id=2041799838) | 海洋Bo | 3:22 |
-| 15 | [梦醒](https://music.163.com/song?id=1395222212) | handsome lau / HYPEEZY / 冯泳 | 3:29 |
-| 16 | [鱼](https://music.163.com/song?id=1436575829) | 冯政FireDrippin / 李铭辰 / FAKE持续输出 | 2:37 |
-| 17 | [红](https://music.163.com/song?id=1918576268) | 罗言 | 2:41 |
+| 1 | [Preson2](https://music.163.com/song?id=3342380294) | GOLD999 | 2:20 |
+| 2 | [can't say(不说)](https://music.163.com/song?id=3359035705) | Jux | 3:04 |
+| 3 | [Bulletproof](https://music.163.com/song?id=457761714) | Griffin Oskar | 3:30 |
+| 4 | [Break My Face](https://music.163.com/song?id=1361129266) | AJR | 3:46 |
+| 5 | [Signals](https://music.163.com/song?id=2141578399) | Lazer Boomerang | 4:26 |
+| 6 | [Unbelievable](https://music.163.com/song?id=32835004) | Owl City / Hanson | 3:13 |
+| 7 | [Breaking My Heart](https://music.163.com/song?id=36103847) | Lana Del Rey | 2:58 |
+| 8 | [fake ur face](https://music.163.com/song?id=3340568843) | s0rrow | 1:54 |
+| 9 | [Soft Skin (Original Mix)](https://music.163.com/song?id=518894488) | timmies / Shiloh Dynasty | 1:57 |
+| 10 | [Les rues de Paris](https://music.163.com/song?id=573870212) | Nicolas Godin | 2:29 |
+| 11 | [stupid song](https://music.163.com/song?id=3392742809) | Olivia Rodrigo | 3:29 |
+| 12 | [bad thing (bunny hop)](https://music.163.com/song?id=3414272568) | Ariana Grande | 3:28 |
+| 13 | [Against The World](https://music.163.com/song?id=433018112) | Must Save Jane! | 2:01 |
+| 14 | [SHUT UP](https://music.163.com/song?id=3409043194) | overtonight | 1:40 |
+| 15 | [游牧之歌](https://music.163.com/song?id=2650385695) | Landon | 2:35 |
+| 16 | [Écoute Chérie](https://music.163.com/song?id=1313778543) | Vendredi sur mer | 3:44 |
+| 17 | [Walk Thru Fire](https://music.163.com/song?id=2150087691) | Vicetone | 3:14 |
+| 18 | [maggots for brains](https://music.163.com/song?id=3392743806) | Olivia Rodrigo | 4:00 |
+| 19 | [What's the Rush?](https://music.163.com/song?id=3391569344) | chandol | 3:10 |
+| 20 | [Crazy Bird](https://music.163.com/song?id=27845535) | Wild Child | 4:01 |
+| 21 | [Window Shopping(逛街)](https://music.163.com/song?id=1847912611) | Yorke | 3:15 |
+| 22 | [Home（心灵归宿）](https://music.163.com/song?id=3431894570) | Project XI / YZJ | 3:15 |
+| 23 | [YOU](https://music.163.com/song?id=3394265876) | Appleby | 3:10 |
+| 24 | [Underwater](https://music.163.com/song?id=421160207) | Ana Zimmer | 3:05 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 14 首
+## ClaudeCode_自动加入_时光雷达 — 21 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [清仙谣](https://music.163.com/song?id=3423471848) | 鸣潮先约电台 / win7mus / 玄觞 | 4:01 |
-| 2 | [聆雾杏](https://music.163.com/song?id=3423898013) | 加木 | 2:24 |
-| 3 | [歌里](https://music.163.com/song?id=1825012817) | Ivan | 3:38 |
-| 4 | [Labyrinth](https://music.163.com/song?id=1418507200) | Direct / Essenger | 3:52 |
-| 5 | [God-ish (German Ver.)](https://music.163.com/song?id=2133855712) | Jinja | 3:22 |
-| 6 | [Carry Me Away](https://music.163.com/song?id=476323322) | JES / Game Chasers | 3:41 |
-| 7 | [Waiting For You (DLDK Amsterdam 2017 Anthem)](https://music.163.com/song?id=535674750) | Sem Vox | 2:33 |
-| 8 | [The Last Sunset](https://music.163.com/song?id=427373795) | Savva Dudin | 3:19 |
-| 9 | [Hurt Me](https://music.163.com/song?id=400690384) | Låpsley | 3:58 |
-| 10 | [Ladies Don't Play Guitar](https://music.163.com/song?id=424474760) | Tennis | 3:44 |
-| 11 | [We Will Win](https://music.163.com/song?id=5057218) | Reba West | 4:02 |
-| 12 | [Still Time](https://music.163.com/song?id=486188608) | Michel Barengo | 2:16 |
-| 13 | [How To Forgive](https://music.163.com/song?id=1417711624) | Tennis | 3:36 |
-| 14 | [Caballero](https://music.163.com/song?id=1810483737) | Hectorino Martinez | 2:29 |
+| 1 | [My Way (Original Mix)](https://music.163.com/song?id=529824282) | Dropgun / Asketa / Jessame | 2:55 |
+| 2 | [Blitzkrieg](https://music.163.com/song?id=26574873) | Cris Velasco | 2:59 |
+| 3 | [Can't Find You](https://music.163.com/song?id=449578789) | CRED1X | 3:55 |
+| 4 | [I Know Nothing](https://music.163.com/song?id=4164326) | Lovestoned | 3:34 |
+| 5 | [LEFTY](https://music.163.com/song?id=1471942759) | XYLØ | 3:54 |
+| 6 | [therapist](https://music.163.com/song?id=1856211129) | Cat & Calmell | 3:11 |
+| 7 | [Fantasy (Original Mix)](https://music.163.com/song?id=36586871) | Del | 3:50 |
+| 8 | [WaVeZ](https://music.163.com/song?id=39324378) | Marshmello | 3:43 |
+| 9 | [Theme (From "Hawaii Five-0")](https://music.163.com/song?id=517695041) | The Royal Philharmonic Concert Orchestra | 3:22 |
+| 10 | [Volevo Un Gatto Nero](https://music.163.com/song?id=1873726) | Richard Clayderman | 2:16 |
+| 11 | [Whiskey Hotel - Green Flares](https://music.163.com/song?id=28920125) | Hans Zimmer / Lorne Balfe | 7:51 |
+| 12 | [Ambition](https://music.163.com/song?id=1996686509) | JordanBeats | 3:32 |
+| 13 | [Temptation](https://music.163.com/song?id=1376653712) | Jillian Rae | 4:56 |
+| 14 | [Unleashed](https://music.163.com/song?id=17680181) | Evil Needle | 3:02 |
+| 15 | [One of Us](https://music.163.com/song?id=476324052) | slenderbodies | 2:19 |
+| 16 | [Shape of My Heart](https://music.163.com/song?id=1225885) | Dominic Miller | 5:21 |
+| 17 | [Miss U Now](https://music.163.com/song?id=2069468648) | Ball VRP / Triangle Alliance / ENMAN | 3:24 |
+| 18 | [Effort](https://music.163.com/song?id=1423347122) | Ayelle | 2:45 |
+| 19 | [广东](https://music.163.com/song?id=1882488569) | 白昼星BZX | 3:23 |
+| 20 | [Rush E (Playable Version)](https://music.163.com/song?id=1807741823) | Sheet Music Boss | 2:19 |
+| 21 | [Hide Away](https://music.163.com/song?id=32341840) | Daya | 3:09 |
 
-> 今日共新增 81 首
+## ClaudeCode_自动加入_宝藏雷达 — 21 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [世界先爱我 (Save Me)](https://music.163.com/song?id=3431155369) | Schoolgirl byebye | 2:48 |
+| 2 | [I Can’t Wait](https://music.163.com/song?id=3420242236) | Phoebe Bridgers | 3:37 |
+| 3 | [SLEEP](https://music.163.com/song?id=3427575256) | The Kid LAROI | 2:31 |
+| 4 | [羽歌](https://music.163.com/song?id=3428308768) | 世界补充计划 / Vivid BAD SQUAD × KAITO | 2:52 |
+| 5 | [Telepathic Twin Flame](https://music.163.com/song?id=3376195933) | Ivoris | 2:41 |
+| 6 | [高空坠物](https://music.163.com/song?id=3419505137) | 刘思鉴 | 3:37 |
+| 7 | [恨海情天](https://music.163.com/song?id=3420800155) | 无害 / 漫雪冬 / 阴雨天 | 2:51 |
+| 8 | [VAI DESCENDO](https://music.163.com/song?id=3420542294) | bxkq / AVARU | 1:47 |
+| 9 | [yvngvmp](https://music.163.com/song?id=3426977459) | Ken Carson | 3:00 |
+| 10 | [我们不散](https://music.163.com/song?id=3430390693) | 周深 | 4:01 |
+| 11 | [White Horse](https://music.163.com/song?id=3422143267) | Lucy Bedroque | 3:02 |
+| 12 | [Secrets (ARMNHMR & DATHAN Festival Edit)](https://music.163.com/song?id=33789343) | ARMNHMR / Tiësto / KSHMR | 4:34 |
+| 13 | [Yin Yang](https://music.163.com/song?id=28396230) | USS | 3:10 |
+| 14 | [Harmony (Radio Edit)](https://music.163.com/song?id=39443553) | Nicky Romero / Stadiumx | 3:33 |
+| 15 | [Pick Up](https://music.163.com/song?id=524271204) | PLAZA | 3:18 |
+| 16 | [Concerto pour une Voix](https://music.163.com/song?id=1048566) | André Rieu / Saint-Preux | 3:34 |
+| 17 | [Tomboy](https://music.163.com/song?id=432486091) | Princess Nokia | 3:37 |
+| 18 | [Born To Raise Hell](https://music.163.com/song?id=28669247) | Graham Colton | 3:10 |
+| 19 | [Friend Zone](https://music.163.com/song?id=27984781) | Lilygreen & Maguire | 2:31 |
+| 20 | [It's Over Now](https://music.163.com/song?id=1789200) | Natasha Thomas | 3:37 |
+| 21 | [New Soul](https://music.163.com/song?id=469065956) | Yael Naim | 3:45 |
+
+> 今日共新增 96 首
 
 ---
-自动生成于 2026-09-08 10:13 · netease-daily-sync
+自动生成于 2026-09-09 00:24 · netease-daily-sync
