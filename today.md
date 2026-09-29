@@ -1,73 +1,84 @@
-# 每日归档 2026-09-28
+# 每日归档 2026-09-29
 
-## ClaudeCode_自动加入_每日推荐 — 24 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Color Your Night](https://music.163.com/song?id=2123807718) | Lotus Juice / 高橋あず美 / アトラスサウンドチーム | 3:47 |
-| 2 | [普通女孩](https://music.163.com/song?id=2617646167) | 沙一汀EL | 2:24 |
-| 3 | [Waiting](https://music.163.com/song?id=557583772) | Ship Wrek / The Highrollers | 2:50 |
-| 4 | [水影](https://music.163.com/song?id=3361458898) | 枯萎的清景 | 2:10 |
-| 5 | [500个冬天](https://music.163.com/song?id=3349256909) | Lil Wukong | 2:48 |
-| 6 | [预言 Prophecy](https://music.163.com/song?id=3402223603) | 三Z-STUDIO / HOYO-MiX / Gin Wigmore | 4:14 |
-| 7 | [Toy Boat](https://music.163.com/song?id=3438072529) | LÜCY / Ollie | 2:57 |
-| 8 | [Marry](https://music.163.com/song?id=2154520553) | Top Barry / INDEcompany | 3:03 |
-| 9 | [Never Fade Away (Vicetone Remix)](https://music.163.com/song?id=2081214284) | Vicetone | 3:11 |
-| 10 | [Crystals](https://music.163.com/song?id=2626719702) | Isolate.exe | 2:19 |
-| 11 | [Fabulous](https://music.163.com/song?id=2066710146) | BLU-SWING | 4:11 |
-| 12 | [im so blue for you](https://music.163.com/song?id=3323811961) | zombiwebz | 2:13 |
-| 13 | [TSUNAMI](https://music.163.com/song?id=3440716816) | SOFI TUKKER / OneRepublic | 2:36 |
-| 14 | [空山野马（宿命感）](https://music.163.com/song?id=3404435435) | 小年 | 2:15 |
-| 15 | [Dragon Force but is it okay if it's lofi?](https://music.163.com/song?id=1823359915) | Kijugo | 3:38 |
-| 16 | [Shine](https://music.163.com/song?id=2728237835) | Donel / bees & honey | 2:45 |
-| 17 | [着魔](https://music.163.com/song?id=3439814519) | 永劫无间 / 捏蓝蓝 | 3:34 |
-| 18 | [乐极生悲](https://music.163.com/song?id=3430477361) | 小想 | 2:06 |
-| 19 | [再见，55号BUG人](https://music.163.com/song?id=1484104814) | 我好困 | 1:47 |
-| 20 | [You Love Me(Phonk)](https://music.163.com/song?id=3361174071) | Trispect / zl_lan | 2:15 |
-| 21 | [Falling Again](https://music.163.com/song?id=565841089) | NURKO / Roniit | 4:28 |
-| 22 | [小河淌水（2026雷击顿）](https://music.163.com/song?id=3398369607) | YKKKK马丹阳 / 白族之子 | 2:34 |
-| 23 | [Close Eyes](https://music.163.com/song?id=1847721719) | DVRST | 2:12 |
-| 24 | [Changes](https://music.163.com/song?id=451113381) | No Hopes / Kinspin | 3:21 |
-
-## ClaudeCode_自动加入_私人雷达 — 1 首
+## ClaudeCode_自动加入_每日推荐 — 22 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Danceteria Afterhours](https://music.163.com/song?id=3439656393) | Madonna / Charli xcx | 3:50 |
+| 1 | [STRUCT](https://music.163.com/song?id=2686252181) | UdieNnx | 1:47 |
+| 2 | [I Need](https://music.163.com/song?id=3423716351) | Seven Lions / Kill The Noise | 3:09 |
+| 3 | [慢舞Slow Jams](https://music.163.com/song?id=3437771500) | Fabo Tony / Tray Sean徐志恆 | 2:33 |
+| 4 | [Lost in the Moment](https://music.163.com/song?id=513356788) | Darius / Wayne Snow | 4:24 |
+| 5 | [清醒梦](https://music.163.com/song?id=3434438663) | KotoVai / 洛天依 | 3:48 |
+| 6 | [永远都是你](https://music.163.com/song?id=3439437430) | 芊芊龍 | 3:42 |
+| 7 | [Walls](https://music.163.com/song?id=1333359608) | Slushii | 2:33 |
+| 8 | ["雪" - Richnomadic Type Beat](https://music.163.com/song?id=2742773183) | YKFireVibes | 2:27 |
+| 9 | [Rainy Day](https://music.163.com/song?id=1941460165) | Ra Costelloe | 3:30 |
+| 10 | [Jellyfish (feat. Michael Seyer)](https://music.163.com/song?id=1967753523) | 落日飞车 / Michael Seyer | 3:41 |
+| 11 | [Look forward to the future](https://music.163.com/song?id=2656602900) | EREAL | 3:06 |
+| 12 | [【售断】"及 时 行 乐" - Moombahton Future Type Beat](https://music.163.com/song?id=1446882802) | BECU BEATZ | 3:08 |
+| 13 | [Happy face](https://music.163.com/song?id=3414459524) | Mingai | 3:10 |
+| 14 | [Laboon 2](https://music.163.com/song?id=2082502461) | G Sounds | 1:44 |
+| 15 | [Palette](https://music.163.com/song?id=1988848396) | Kirara Magic | 2:47 |
+| 16 | [Birds](https://music.163.com/song?id=474484015) | wünsche | 2:13 |
+| 17 | [Lujon](https://music.163.com/song?id=5024917) | Henry Mancini | 2:40 |
+| 18 | [till the end](https://music.163.com/song?id=3365974458) | Virtual Riot / Seelie | 4:19 |
+| 19 | [Unstable](https://music.163.com/song?id=2078842510) | Tom Frane / RJ Pasin | 2:37 |
+| 20 | [self doubt (Prod.Robin Cause)](https://music.163.com/song?id=3434600677) | Venoflame | 2:05 |
+| 21 | [Perfect Version of Me (Acoustic Version)](https://music.163.com/song?id=3437222784) | Vicky宣宣 | 4:11 |
+| 22 | [Can't Give Up](https://music.163.com/song?id=3428984991) | Lunak | 2:27 |
 
-## ClaudeCode_自动加入_时光雷达 — 4 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Stars In The Sky](https://music.163.com/song?id=2154299171) | SunsetStation / AWM61066 | 3:12 |
-| 2 | [wrong](https://music.163.com/song?id=2074166294) | siick | 2:05 |
-| 3 | [Lost Song](https://music.163.com/song?id=479423003) | Roald Velden | 8:08 |
-| 4 | [Woo Baby Pop Smoke (Instrumental)](https://music.163.com/song?id=1871883965) | S17AG | 2:40 |
+| 1 | [Whoa](https://music.163.com/song?id=1415369073) | XXXTENTACION | 2:37 |
+| 2 | [New Memories](https://music.163.com/song?id=3406901871) | Director / Jasr | 1:46 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 18 首
+## ClaudeCode_自动加入_时光雷达 — 14 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [琉璃](https://music.163.com/song?id=3430437609) | Brian Cheng | 4:05 |
-| 2 | [一针一线](https://music.163.com/song?id=3431659858) | 贾格JuggShots / Pank | 2:38 |
-| 3 | [Function](https://music.163.com/song?id=3428057213) | Young Stoner Life / Young Thug / Lil Unky | 2:44 |
-| 4 | [The Brightest Light (Give up)](https://music.163.com/song?id=3434960806) | CVRCH | 2:36 |
-| 5 | [So Good](https://music.163.com/song?id=3435030577) | Jhené Aiko / Kendrick Lamar | 3:57 |
-| 6 | [红色蓝色药丸](https://music.163.com/song?id=3427741322) | TOYOKI | 1:47 |
-| 7 | [ED 记忆管理局2026](https://music.163.com/song?id=3428531701) | StJimmyL / Ray1-睿壹 / 小欣Xier | 1:31 |
-| 8 | [The Whisper](https://music.163.com/song?id=2090888521) | Beícoli | 3:08 |
-| 9 | [Stuck in Between](https://music.163.com/song?id=3399345980) | Rebecca Armstrong | 3:20 |
-| 10 | [I'm From Holland](https://music.163.com/song?id=2629114492) | Maddix | 3:51 |
-| 11 | [Hearten](https://music.163.com/song?id=567473012) | Hea2t | 2:59 |
-| 12 | [Halloween](https://music.163.com/song?id=1452554138) | Novo Amor | 2:34 |
-| 13 | [ride for me](https://music.163.com/song?id=1890470822) | thủy / John Concepcion | 2:58 |
-| 14 | [Edge Of Your Heart](https://music.163.com/song?id=2146308787) | Au5 / TruFeelz | 3:37 |
-| 15 | [Hollow Life](https://music.163.com/song?id=1405639135) | Ratfoot / Tritan | 3:59 |
-| 16 | [Oceanic Glow](https://music.163.com/song?id=28855563) | Obfusc | 4:55 |
-| 17 | [Stay With Me（留在我身边）](https://music.163.com/song?id=3336069735) | Clear Sky | 2:54 |
-| 18 | [China-华灯初上](https://music.163.com/song?id=1363517498) | Sand | 3:00 |
+| 1 | [Wedding Dance](https://music.163.com/song?id=1480337) | I Salonisti / Paul Lincke | 2:30 |
+| 2 | [Heart Of Wax (Heart Of Crystal Mix)](https://music.163.com/song?id=1096733) | Blank & Jones | 6:24 |
+| 3 | [Never](https://music.163.com/song?id=5202461) | Nacho Sotomayor | 4:47 |
+| 4 | [Wavy](https://music.163.com/song?id=412187648) | Døn Jøh | 2:01 |
+| 5 | [Mama's Got Her Gun](https://music.163.com/song?id=5183846) | Kentucky Thunder | 4:06 |
+| 6 | [Of No Other](https://music.163.com/song?id=1367375461) | Goldmund | 2:46 |
+| 7 | [Used To Be](https://music.163.com/song?id=1357520577) | Anna of the North | 3:48 |
+| 8 | [We Move Lightly](https://music.163.com/song?id=1221349) | Dustin O'Halloran | 3:10 |
+| 9 | [Heartbreaker, Pt. 1](https://music.163.com/song?id=3862704) | Zapp & Roger | 4:15 |
+| 10 | [Beautiful Heartbeat (Radio Edit)](https://music.163.com/song?id=400689095) | MORTEN / Frida Sundemo | 3:21 |
+| 11 | [Set Fire To The Rain](https://music.163.com/song?id=27145334) | Adele | 4:02 |
+| 12 | [Don't Leave Now](https://music.163.com/song?id=34770411) | Dan Phillipson | 3:06 |
+| 13 | [雪落无痕 Traceless Drift](https://music.163.com/song?id=2045807078) | HOYO-MiX | 2:04 |
+| 14 | [水母之歌 Melody of Jellyfish](https://music.163.com/song?id=1861403396) | 陈致逸 / HOYO-MiX | 2:16 |
 
-> 今日共新增 47 首
+## ClaudeCode_自动加入_宝藏雷达 — 20 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [FALA SÉRIO（inst）](https://music.163.com/song?id=3437783847) | Vico8 / GOLD999 | 2:37 |
+| 2 | [Too Easy](https://music.163.com/song?id=3439683489) | Tinashe | 1:53 |
+| 3 | [1993 (Remake)](https://music.163.com/song?id=3437948527) | 辉子 / KKECHO | 4:10 |
+| 4 | [Essa Ta Quente (feat. Skrillex)](https://music.163.com/song?id=3432581761) | Chase & Status / Skrillex | 2:46 |
+| 5 | [This Is the Last Song About You](https://music.163.com/song?id=3421609025) | Anson Seabra / Loote | 2:06 |
+| 6 | [人](https://music.163.com/song?id=3438028973) | 至岁 / Spawner刷怪笼 | 3:08 |
+| 7 | [拳皇迷幻节奏咚咚咚Vol.11](https://music.163.com/song?id=3430258048) | DJ阿智 | 1:52 |
+| 8 | [No mo xanny](https://music.163.com/song?id=3440218629) | APMOZART | 2:20 |
+| 9 | [Truth](https://music.163.com/song?id=445845597) | Submerse | 2:45 |
+| 10 | [Queen of the Ocean](https://music.163.com/song?id=37211433) | Peter Roe | 4:47 |
+| 11 | [The Best](https://music.163.com/song?id=1356074356) | Future Royalty | 3:46 |
+| 12 | [Keep Calm](https://music.163.com/song?id=565833779) | Dino Sor | 4:15 |
+| 13 | [To Build a Home](https://music.163.com/song?id=28910367) | The Cinematic Orchestra | 5:21 |
+| 14 | [B*tches Drop (Original Mix)](https://music.163.com/song?id=551667324) | AlexGoto | 4:33 |
+| 15 | [Saviour](https://music.163.com/song?id=1846186948) | Hoaprox / 徐梦圆 / Haneri | 2:52 |
+| 16 | [Limits of Desire](https://music.163.com/song?id=26312891) | Small Black | 3:55 |
+| 17 | [Across The Ocean](https://music.163.com/song?id=515803144) | Vexento | 3:55 |
+| 18 | [Sevcon](https://music.163.com/song?id=28260319) | Big Giant Circles | 4:34 |
+| 19 | [Outlaw](https://music.163.com/song?id=1389855604) | Creo | 5:03 |
+| 20 | [Moonwake](https://music.163.com/song?id=531051228) | Rameses B | 3:39 |
+
+> 今日共新增 58 首
 
 ---
-自动生成于 2026-09-28 00:59 · netease-daily-sync
+自动生成于 2026-09-29 02:08 · netease-daily-sync
