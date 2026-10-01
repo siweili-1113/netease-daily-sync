@@ -1,80 +1,72 @@
-# 每日归档 2026-09-30
+# 每日归档 2026-10-01
 
-## ClaudeCode_自动加入_每日推荐 — 17 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Save Your Tears](https://music.163.com/song?id=1432456852) | The Weeknd | 3:35 |
-| 2 | [Yosemite](https://music.163.com/song?id=3338973296) | Pudding_PD / 无人区 | 3:15 |
-| 3 | [this is what falling out of love feels like](https://music.163.com/song?id=1984537510) | JVKE | 2:21 |
-| 4 | [Are We Still Young](https://music.163.com/song?id=480426316) | Grant / Juneau | 3:36 |
-| 5 | [Rust](https://music.163.com/song?id=2617156768) | Ben Böhmer | 4:35 |
-| 6 | [My Pictures Beat](https://music.163.com/song?id=3370479122) | SMYE | 2:06 |
-| 7 | [TWO DIFFERENT WORLD PHONK×两重天](https://music.163.com/song?id=3428469104) | makabaka / Joke / Beccno | 2:23 |
-| 8 | [Begin](https://music.163.com/song?id=469699866) | Shallou / Wales | 4:02 |
-| 9 | [混形](https://music.163.com/song?id=169096) | 西皮士 | 4:00 |
-| 10 | [偏见 Bias](https://music.163.com/song?id=3372991085) | Tesor / 苏打显碱性 | 2:30 |
-| 11 | [We Can Be Together(Remix)](https://music.163.com/song?id=1403125671) | 者思范 | 4:11 |
-| 12 | [两仪](https://music.163.com/song?id=2758561038) | Grrreta | 2:06 |
-| 13 | ["Dream Lover"Gunna/Udigg Type Beat](https://music.163.com/song?id=1977467044) | BoxerEven | 2:50 |
-| 14 | [In Love](https://music.163.com/song?id=3439396881) | Galdive | 2:43 |
-| 15 | [Last Thing You Need (from GTAVI: The Album)](https://music.163.com/song?id=3437602759) | Morgan Wallen / Grand Theft Auto VI | 3:16 |
-| 16 | [skype calls](https://music.163.com/song?id=1473273504) | Corn Wave | 3:14 |
-| 17 | [Mr.“Broken Heart” (Instrumental)](https://music.163.com/song?id=568207328) | 松下優也 | 3:37 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 3 首
+## ClaudeCode_自动加入_每日推荐 — 6 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)](https://music.163.com/song?id=3437356861) | VALORANT / Grabbitz / Oli Sykes | 3:46 |
-| 2 | [The Fall](https://music.163.com/song?id=1478543015) | Sam Tsui / India Carney | 3:46 |
-| 3 | [I Love You So - Sped Up](https://music.163.com/song?id=2080448723) | Tidiet | 2:26 |
+| 1 | [take a ride](https://music.163.com/song?id=2730275843) | MRZ | 2:50 |
+| 2 | [bang bang bnag](https://music.163.com/song?id=3387112570) | 茸茸 | 1:44 |
+| 3 | [Town/Blunt](https://music.163.com/song?id=3340993829) | delphia! | 2:03 |
+| 4 | [The End Life (Stutter House)](https://music.163.com/song?id=2705389881) | Lyan / YaKio / Wehti | 2:49 |
+| 5 | [切](https://music.163.com/song?id=2150015302) | Seto | 2:48 |
+| 6 | [Good Luck (PHONK)](https://music.163.com/song?id=3374258512) | veks / My Car / GuTs | 2:04 |
 
-## ClaudeCode_自动加入_私人雷达 — 4 首
+## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Internationale](https://music.163.com/song?id=494611357) | Kim Larsen, Kjukken / Kjukken / Kim Larsen | 2:25 |
-| 2 | [Invisible](https://music.163.com/song?id=1320446769) | Zeus X Crona / Julius Dreisig | 3:21 |
-| 3 | [Whats Wrong With U](https://music.163.com/song?id=2754675673) | Sorisa | 2:57 |
-| 4 | [Never Mind](https://music.163.com/song?id=3407449374) | Nalasay / orangc | 2:11 |
+| 1 | [1 0 0 . m i l ‘](https://music.163.com/song?id=1844671641) | J. Cole | 2:43 |
+
+## ClaudeCode_自动加入_私人雷达 — 3 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [XXXTENTACION - whoa (mind in awe) (Instrumental)](https://music.163.com/song?id=1373444265) | Beats helper / XXXTENTACION | 2:41 |
+| 2 | [Scandalous](https://music.163.com/song?id=2073653157) | AXLEH / Shiloh Dynasty | 2:34 |
+| 3 | [Out Of Depth](https://music.163.com/song?id=3432393342) | 江雨 | 3:51 |
 
 ## ClaudeCode_自动加入_时光雷达 — 10 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Six Degrees Of Separation [Explicit]](https://music.163.com/song?id=26624721) | The Script | 3:50 |
-| 2 | [Shade Of Love](https://music.163.com/song?id=1978622310) | 猫之城 / 圈9 | 4:51 |
-| 3 | [It's You](https://music.163.com/song?id=1475791044) | Ali Gatie | 3:32 |
-| 4 | [Real Love](https://music.163.com/song?id=28923113) | Rootkit / Danyka Nadeau | 4:35 |
-| 5 | [Hail Chime On](https://music.163.com/song?id=19032267) | Kate Rusby | 4:15 |
-| 6 | [最终观测](https://music.163.com/song?id=2093895545) | DOUDOU | 5:30 |
-| 7 | [Let Go (feat. Fiora) (Festival Mix)](https://music.163.com/song?id=1372505547) | Seven Lions / Fiora | 4:37 |
-| 8 | [Time's Up](https://music.163.com/song?id=403710366) | Space Race | 3:24 |
-| 9 | [NOTHING](https://music.163.com/song?id=1296539282) | TRA$H | 2:13 |
-| 10 | [Nocturne](https://music.163.com/song?id=28598145) | Keeno | 5:37 |
+| 1 | [Beds Are Burning](https://music.163.com/song?id=27445264) | Midnight Oil | 4:15 |
+| 2 | [Loved By You](https://music.163.com/song?id=485612127) | Melih Aydogan / Ria | 3:06 |
+| 3 | [Nobody But You](https://music.163.com/song?id=1480243047) | CMC$ / Asher Angel | 3:20 |
+| 4 | [Drowning](https://music.163.com/song?id=2017125621) | Heleen / ARMNHMR | 3:49 |
+| 5 | [The Moment (Radio Edit)](https://music.163.com/song?id=1423643938) | Sid Cisse | 2:11 |
+| 6 | [Memories (Someone We'll Never Know)](https://music.163.com/song?id=1149837) | Clint Mansell | 4:52 |
+| 7 | [Until The Stars Collide](https://music.163.com/song?id=33248341) | Tiscore | 3:00 |
+| 8 | [Heavy](https://music.163.com/song?id=1434474141) | Haux | 3:01 |
+| 9 | [Without You](https://music.163.com/song?id=1367191062) | Yung Divide | 2:39 |
+| 10 | [Vanille fraise](https://music.163.com/song?id=1427460634) | L'Impératrice | 3:58 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 15 首
+## ClaudeCode_自动加入_宝藏雷达 — 21 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [果](https://music.163.com/song?id=3439441353) | 田馥甄 | 3:54 |
-| 2 | [Celebration](https://music.163.com/song?id=3439416993) | TOMORA / AURORA / Tom Rowlands | 4:21 |
-| 3 | [干净的房间](https://music.163.com/song?id=3439441346) | 田馥甄 | 3:56 |
-| 4 | [疯人院](https://music.163.com/song?id=3433941406) | 林子 / 袁顶顶 | 4:04 |
-| 5 | [坍塌](https://music.163.com/song?id=3439441351) | 田馥甄 | 3:33 |
-| 6 | [酷多罗](https://music.163.com/song?id=37202033) | 群星 | 3:14 |
-| 7 | [Astronomy (Original Mix)](https://music.163.com/song?id=408277417) | Bryan Milton | 7:40 |
-| 8 | [The Awakening - ONLAP](https://music.163.com/song?id=29485826) | One Standing | 3:58 |
-| 9 | [Better Days](https://music.163.com/song?id=1873089344) | OneRepublic | 2:24 |
-| 10 | [Voiceless](https://music.163.com/song?id=528272375) | Polarr / Resonance | 3:33 |
-| 11 | [Broken Love](https://music.163.com/song?id=1481297609) | Adventure Club | 3:39 |
-| 12 | [Run Away](https://music.163.com/song?id=533455573) | SAM F / Sophie Rose | 2:26 |
-| 13 | [All I Want](https://music.163.com/song?id=3316476174) | 安伊涵 / 脑浆poppy | 2:58 |
-| 14 | [Electricity](https://music.163.com/song?id=33314021) | Culture Code / Michael Zhonga | 3:14 |
-| 15 | [beside you](https://music.163.com/song?id=865022011) | ok2222 / keshi | 2:48 |
+| 1 | [鹅卵石](https://music.163.com/song?id=3439278165) | LSGCsikoriot | 2:27 |
+| 2 | [原谅](https://music.163.com/song?id=3438109947) | 凌晨四点半 / krs | 2:03 |
+| 3 | [No photo of you left to survey](https://music.163.com/song?id=3433404710) | 雷米克斯 | 2:57 |
+| 4 | [U SHOULD TRY](https://music.163.com/song?id=3440221180) | APMOZART | 2:20 |
+| 5 | [钱不说谎](https://music.163.com/song?id=3440229573) | BabyBAKO / RICHNOMADIC | 2:40 |
+| 6 | [I'm a Slave 4 U](https://music.163.com/song?id=3440141975) | Britney Spears | 3:23 |
+| 7 | [痛苦地](https://music.163.com/song?id=3437030381) | XREDNOSAD | 2:28 |
+| 8 | [大小姐](https://music.163.com/song?id=3437557114) | 苏醒 | 3:12 |
+| 9 | [Warhorse](https://music.163.com/song?id=3440765692) | 2hollis | 4:00 |
+| 10 | [無我](https://music.163.com/song?id=3440230871) | BabyBAKO / JinJiBeWater_隼 / RICHNOMADIC | 3:46 |
+| 11 | [Seeds of Promise (No Choir)](https://music.163.com/song?id=28493695) | Audiomachine | 2:38 |
+| 12 | [Only Girl (In the World) (Album Version)](https://music.163.com/song?id=24300484) | Rihanna | 3:55 |
+| 13 | [Raiders Return to Busy, Busy Berk](https://music.163.com/song?id=1343455670) | John Powell | 5:26 |
+| 14 | [Liquid Girl](https://music.163.com/song?id=16475086) | Aloan | 4:16 |
+| 15 | [Words](https://music.163.com/song?id=573695126) | 仁辰 | 3:08 |
+| 16 | [Surface](https://music.163.com/song?id=526468760) | Dimrain47 | 4:12 |
+| 17 | [Avalon (弦念)](https://music.163.com/song?id=1357507655) | 仁辰 / 南有乔木 | 3:26 |
+| 18 | [心动讯号（Beat）](https://music.163.com/song?id=1903468144) | BLACKDD / CYTEAM | 2:47 |
+| 19 | [银河漫游](https://music.163.com/song?id=1892612448) | Hea2t | 2:53 |
+| 20 | [PHANTASM](https://music.163.com/song?id=2156492702) | Aquari | 2:00 |
+| 21 | [安雨](https://music.163.com/song?id=1939257133) | 张思远 | 2:30 |
 
-> 今日共新增 49 首
+> 今日共新增 41 首
 
 ---
-自动生成于 2026-09-30 01:23 · netease-daily-sync
+自动生成于 2026-10-01 01:23 · netease-daily-sync
