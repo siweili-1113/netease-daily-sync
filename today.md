@@ -1,70 +1,65 @@
-# 每日归档 2026-10-03
+# 每日归档 2026-10-04
 
-## ClaudeCode_自动加入_每日推荐 — 10 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Eyes In This Feeling](https://music.163.com/song?id=3408251123) | Eric_Enyou | 3:24 |
-| 2 | [KISS（Phonk）](https://music.163.com/song?id=2664111586) | YPD | 2:28 |
-| 3 | [WAKE UP! (Sped Up)](https://music.163.com/song?id=2618708976) | 180p | 2:07 |
-| 4 | [U R The Sweet In My Life](https://music.163.com/song?id=550813783) | SheldonLeeee | 3:50 |
-| 5 | [Elephant Survival](https://music.163.com/song?id=1302417) | Emancipator | 6:26 |
-| 6 | [You And Me (Endless Sky)](https://music.163.com/song?id=3407565486) | Liberty / Yilu7i | 1:59 |
-| 7 | [ночь(夜色)](https://music.163.com/song?id=3406757982) | sleepyyer | 2:23 |
-| 8 | [戒断感](https://music.163.com/song?id=2675689085) | 超超 | 2:05 |
-| 9 | [SUNFLOWER X AM I DREAMING](https://music.163.com/song?id=2105144391) | Vinci4ever | 4:17 |
-| 10 | [Forever](https://music.163.com/song?id=3377475111) | T-Chenxi | 4:07 |
-
-## ClaudeCode_自动加入_私人雷达 — 4 首
+## ClaudeCode_自动加入_每日推荐 — 7 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [So Sick](https://music.163.com/song?id=472973563) | Ne-Yo | 3:31 |
-| 2 | [Everybody Dies In Their Nightmares](https://music.163.com/song?id=501133800) | XXXTENTACION | 1:35 |
-| 3 | [Fatal Love](https://music.163.com/song?id=32431987) | Jori King | 3:10 |
-| 4 | [Solace Feat. Emily Vaughn](https://music.163.com/song?id=3434522219) | Vicetone / Emily Vaughn | 2:46 |
+| 1 | [缘元](https://music.163.com/song?id=3427189675) | 念念不忘 / 开心元元 | 2:53 |
+| 2 | [不得](https://music.163.com/song?id=2660897170) | 铁皮软糖 | 5:26 |
+| 3 | [【Not Free】中国风 Gunna type beat “肝肠断”](https://music.163.com/song?id=2052661289) | Mystic Beatz / Cray | 3:17 |
+| 4 | [白菜对我笑](https://music.163.com/song?id=3349336901) | MerrinZephyr | 2:02 |
+| 5 | [Trust in love](https://music.163.com/song?id=2145453519) | Pig Stinki | 3:53 |
+| 6 | [Delete](https://music.163.com/song?id=2734005890) | Even仇依文 | 3:01 |
+| 7 | [野花谷](https://music.163.com/song?id=1830382770) | 杨昊昆 | 3:24 |
 
-## ClaudeCode_自动加入_时光雷达 — 9 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [rain on my window](https://music.163.com/song?id=1411732228) | EMBRZ | 3:33 |
-| 2 | [Secret Love](https://music.163.com/song?id=28347786) | Timecop1983 | 5:52 |
-| 3 | [Wither](https://music.163.com/song?id=2141024543) | Bryce Savage | 2:53 |
-| 4 | [Undone (When We Are Born)](https://music.163.com/song?id=1859840537) | Ólafur Arnalds | 5:32 |
-| 5 | [freak(天生独一）](https://music.163.com/song?id=2109934795) | 1kY | 2:23 |
-| 6 | [离去(Sailing Away)](https://music.163.com/song?id=2612963913) | 裁云师 | 2:33 |
-| 7 | [You Might As Well](https://music.163.com/song?id=2086406846) | A1TILLDEATH | 2:45 |
-| 8 | [Дідько, я у розпачі...](https://music.163.com/song?id=1482494248) | Mistmorn | 3:02 |
-| 9 | [Candyland](https://music.163.com/song?id=30621706) | Tobu | 3:20 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 21 首
+## ClaudeCode_自动加入_私人雷达 — 6 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [小人物](https://music.163.com/song?id=3437948528) | 辉子 | 3:42 |
-| 2 | [Twin Bloom](https://music.163.com/song?id=3439426849) | Gardens | 7:04 |
-| 3 | [若即若离](https://music.163.com/song?id=3436814032) | 张方钊 | 3:23 |
-| 4 | [无力倾诉](https://music.163.com/song?id=3434322103) | 残像音阶 / 失落花园_ | 2:16 |
-| 5 | [值得纪念的垃圾](https://music.163.com/song?id=3439441347) | 田馥甄 | 4:05 |
-| 6 | [ready or noT](https://music.163.com/song?id=3439581706) | brakence | 4:02 |
-| 7 | [冷雨](https://music.163.com/song?id=3440230870) | BabyBAKO / RICHNOMADIC | 2:51 |
-| 8 | [交大绿岭又停电了](https://music.163.com/song?id=3433370241) | Candyshop / KITO / Vansdaddy | 3:24 |
-| 9 | [Sandin bashka (唯你)](https://music.163.com/song?id=3434758751) | Ferdanoo | 3:35 |
-| 10 | [Joy.](https://music.163.com/song?id=3427330208) | RAYE / Amma / Absolutely | 4:23 |
-| 11 | [为什么世界那么大](https://music.163.com/song?id=2086086915) | 一口甜 | 3:19 |
-| 12 | [Mountaintop](https://music.163.com/song?id=422132926) | Relient K | 3:38 |
-| 13 | [Disco World](https://music.163.com/song?id=32364439) | 群星 | 3:31 |
-| 14 | [【毕廷】最佳队友](https://music.163.com/song?id=1327130612) | 毕廷 | 4:16 |
-| 15 | [于落樱鸣鸟之时再相会](https://music.163.com/song?id=2154802869) | AnRain安林 | 3:31 |
-| 16 | [Millennia](https://music.163.com/song?id=1402964946) | Pixel Terror | 2:46 |
-| 17 | [我们的故事-（李舟同）](https://music.163.com/song?id=487835045) | 李广瑞 / 李舟同 / 黄毅杰 | 4:09 |
-| 18 | [ACID](https://music.163.com/song?id=2040987987) | Hardwell / Maddix / Luciana | 3:01 |
-| 19 | [The Woods](https://music.163.com/song?id=466233196) | Hollow Coves | 4:01 |
-| 20 | [Compromised](https://music.163.com/song?id=472944129) | Tim Atlas | 3:46 |
-| 21 | [Sleepless](https://music.163.com/song?id=1842154372) | Pixel Terror / Chime / Teminite | 3:50 |
+| 1 | [What I Believe](https://music.163.com/song?id=26550268) | Skillet | 3:19 |
+| 2 | [Pagoda](https://music.163.com/song?id=1325892124) | Xomu / Amidst | 5:10 |
+| 3 | [Melodic Minor（Phonk）](https://music.163.com/song?id=2721110890) | VZEUS | 2:04 |
+| 4 | [Beijing](https://music.163.com/song?id=455382413) | 接个吻，开一枪 / CLARE | 2:44 |
+| 5 | [Solar Eclipse](https://music.163.com/song?id=3443223111) | Drake / Don Toliver | 3:38 |
+| 6 | [琵琶曲](https://music.163.com/song?id=3330620554) | 郑浩Z-Hao / 冰洁 | 3:55 |
 
-> 今日共新增 44 首
+## ClaudeCode_自动加入_时光雷达 — 4 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Winter （冬）](https://music.163.com/song?id=542837927) | LJY | 2:59 |
+| 2 | [Lust](https://music.163.com/song?id=1450181334) | Ulena | 3:55 |
+| 3 | [战曲 Battle Epic Song](https://music.163.com/song?id=552433256) | 笑白Ermy | 2:19 |
+| 4 | [I Like You](https://music.163.com/song?id=2015312782) | Geoxor | 3:52 |
+
+## ClaudeCode_自动加入_宝藏雷达 — 22 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Bass Persuades](https://music.163.com/song?id=3431484313) | Miley Cyrus | 3:22 |
+| 2 | [万相由心何妨问天机](https://music.163.com/song?id=3440655476) | 鸣潮先约电台 / jixwang / 陈乐一 | 3:42 |
+| 3 | [雪色的再会 Snowy Reunion](https://music.163.com/song?id=3437729484) | HOYO-MiX | 2:01 |
+| 4 | [half moon bay](https://music.163.com/song?id=2714106223) | Ivoris | 2:38 |
+| 5 | [倒带](https://music.163.com/song?id=3431179157) | BombWayne | 2:07 |
+| 6 | [悲观人生](https://music.163.com/song?id=3434060640) | 银河小鱼 | 2:12 |
+| 7 | [月半](https://music.163.com/song?id=3431620775) | 黄龄 | 3:42 |
+| 8 | [Doom And Gloom](https://music.163.com/song?id=26609784) | The Rolling Stones | 3:58 |
+| 9 | [Suffer Baby](https://music.163.com/song?id=515452036) | LissA | 3:17 |
+| 10 | [Lovers Friends](https://music.163.com/song?id=39227387) | MÖWE / Daniel Nitt | 3:45 |
+| 11 | [Something Real](https://music.163.com/song?id=572024611) | Koobra / Joanna | 3:07 |
+| 12 | [Source Of Love](https://music.163.com/song?id=3418333) | Sofia Kallgren | 3:57 |
+| 13 | [Untouchable](https://music.163.com/song?id=1325442515) | Эндшпиль / MiyaGi / Рем Дигга | 3:33 |
+| 14 | [Aqueous Transmission](https://music.163.com/song?id=18397337) | Incubus | 7:46 |
+| 15 | [Endless](https://music.163.com/song?id=1345654681) | Marin Hoxha | 2:54 |
+| 16 | [Bad Boy (Original Mix)](https://music.163.com/song?id=415593749) | Sophie Francis | 3:54 |
+| 17 | [Light The City Up](https://music.163.com/song?id=2049013330) | Cut The Lights | 2:33 |
+| 18 | [Expansion](https://music.163.com/song?id=22242240) | Showtek | 5:17 |
+| 19 | [Secret Love](https://music.163.com/song?id=28347786) | Timecop1983 | 5:52 |
+| 20 | [Wading Through The Crowds](https://music.163.com/song?id=1312570613) | Makoto / Karina Ramage | 4:35 |
+| 21 | [Eclipse](https://music.163.com/song?id=2163990188) | AxR | 2:33 |
+| 22 | [Sleepwalking](https://music.163.com/song?id=1999796559) | The Chain Gang of 1974 | 3:38 |
+
+> 今日共新增 39 首
 
 ---
-自动生成于 2026-10-03 01:17 · netease-daily-sync
+自动生成于 2026-10-04 01:46 · netease-daily-sync
