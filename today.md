@@ -1,61 +1,78 @@
-# 每日归档 2026-10-06
+# 每日归档 2026-10-07
 
-## ClaudeCode_自动加入_每日推荐 — 6 首
+## ClaudeCode_自动加入_每日推荐 — 21 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [残月](https://music.163.com/song?id=3424464275) | MOCKER44. / 乌托邦P / 洛天依 | 3:54 |
-| 2 | [MONTAGEM ALWAYS](https://music.163.com/song?id=3436830669) | Trispect | 1:38 |
-| 3 | [Be Rescued](https://music.163.com/song?id=2129175428) | Li1zZ | 2:08 |
-| 4 | [反派萌物糕手日常](https://music.163.com/song?id=2745702182) | 凌晨一点的莱茵猫 | 2:18 |
-| 5 | [I Sleep Better With You](https://music.163.com/song?id=3435479966) | YaKio / Wehti / BLACK EGG | 2:16 |
-| 6 | [穿山虎](https://music.163.com/song?id=41462323) | 西皮士 | 3:33 |
+| 1 | [Under Bright Lights](https://music.163.com/song?id=2047912480) | TWERL / Ekko & Sidetrack / Indy Skies | 3:48 |
+| 2 | [Cloud 9](https://music.163.com/song?id=3439683509) | Tinashe | 2:25 |
+| 3 | [A Second With You](https://music.163.com/song?id=1814697723) | Hunter Sanders | 2:48 |
+| 4 | [Vicious Girl (Original Mix)](https://music.163.com/song?id=406096374) | CALVO | 4:07 |
+| 5 | [Horses](https://music.163.com/song?id=39869343) | Porsches | 4:08 |
+| 6 | [What a Night](https://music.163.com/song?id=3427370160) | Kim Petras | 2:33 |
+| 7 | [Too Far (feat. Cory Friesenhan)](https://music.163.com/song?id=1314630523) | Jasted / Foxa / Chester Young | 2:53 |
+| 8 | [Axel F](https://music.163.com/song?id=2313544) | Crazy Frog | 2:51 |
+| 9 | [Ditch](https://music.163.com/song?id=2128097740) | acloudyskye | 4:01 |
+| 10 | [Unspoken](https://music.163.com/song?id=1365711550) | Oliverse / Elle Exxe | 3:40 |
+| 11 | [i changed](https://music.163.com/song?id=3326442811) | VOSZA | 2:24 |
+| 12 | [Medusa](https://music.163.com/song?id=1823452946) | Pixel Terror / ESPER / Isaiah Brown | 4:06 |
+| 13 | [Transparent](https://music.163.com/song?id=444058648) | DJ OKAWARI | 4:37 |
+| 14 | [Addict](https://music.163.com/song?id=1442764907) | Silva Hound / Michael Kovach / Chi-Chi | 4:05 |
+| 15 | [Sunshine](https://music.163.com/song?id=2151037603) | Eric Luttrell | 4:27 |
+| 16 | [Fortress](https://music.163.com/song?id=34468946) | Furns | 5:04 |
+| 17 | [Stay Still](https://music.163.com/song?id=2143464279) | Le Youth / Forester / Lyrah | 4:33 |
+| 18 | [Hit Refresh](https://music.163.com/song?id=449818189) | jackLNDN | 5:35 |
+| 19 | [Always Like This](https://music.163.com/song?id=26322486) | HVOB | 5:25 |
+| 20 | [Beat It](https://music.163.com/song?id=1698391) | Michael Jackson | 4:18 |
+| 21 | [灰色账号](https://music.163.com/song?id=2714704165) | 所长sama | 1:38 |
+
+## ClaudeCode_自动加入_欧美私人订制 — 3 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Pay That Toll](https://music.163.com/song?id=3427383631) | OneRepublic | 2:47 |
+| 2 | [RE:Stories](https://music.163.com/song?id=2012724) | There for Tomorrow | 4:50 |
+| 3 | [for you (prod.Potsu)](https://music.163.com/song?id=489770186) | HANNIE | 1:58 |
 
 ## ClaudeCode_自动加入_私人雷达 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Never Give Up](https://music.163.com/song?id=30512348) | Vexento | 3:36 |
-| 2 | [Tears](https://music.163.com/song?id=414980062) | Clean Bandit / Louisa Johnson | 3:45 |
-| 3 | [Whatever Happens](https://music.163.com/song?id=21178386) | Michael Jackson | 4:56 |
+| 1 | [All Girls Are The Same](https://music.163.com/song?id=1848224873) | Juice WRLD | 2:45 |
+| 2 | [让思绪都随风吧](https://music.163.com/song?id=3378747421) | 供销社乐队 | 3:40 |
+| 3 | [i was only temporary 2 u](https://music.163.com/song?id=2123103892) | my head is empty | 1:36 |
 
-## ClaudeCode_自动加入_时光雷达 — 8 首
+## ClaudeCode_自动加入_时光雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Wounds](https://music.163.com/song?id=1867237309) | Papa Khan | 2:49 |
-| 2 | [Lasagna](https://music.163.com/song?id=1375724953) | Andrew Applepie | 3:07 |
-| 3 | [Waiting For Tremor (COOL BROS Edit)](https://music.163.com/song?id=34766855) | COOL BROS / Avicii / Dimitri Vegas & Like Mike | 4:08 |
-| 4 | [埠上风光 What a Delightful Scenery](https://music.163.com/song?id=2140118664) | HOYO-MiX | 1:54 |
-| 5 | [杯中明月 Moon in One's Cup](https://music.163.com/song?id=1492276426) | 陈致逸 / HOYO-MiX | 1:57 |
-| 6 | [We Burn](https://music.163.com/song?id=1850925256) | Avicii | 4:17 |
-| 7 | [Love Me](https://music.163.com/song?id=2080324987) | JMSN | 4:33 |
-| 8 | [Temple](https://music.163.com/song?id=1456677611) | Zerky / Liu | 4:55 |
+| 1 | [Collateral Damage](https://music.163.com/song?id=458711878) | LEVV | 4:24 |
+| 2 | [Teenage Dreams](https://music.163.com/song?id=2738338863) | Lazer Boomerang | 5:42 |
 
 ## ClaudeCode_自动加入_宝藏雷达 — 18 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Autobahn](https://music.163.com/song?id=3427370155) | Kim Petras | 4:18 |
-| 2 | [外交官(Waijiaoguan）](https://music.163.com/song?id=3431111225) | 揽佬SKAI ISYOURGOD / Project Pat | 3:22 |
-| 3 | [Eastside BADDIE (Acoustic Version)](https://music.163.com/song?id=3431380966) | ZAVIS | 2:32 |
-| 4 | [black33](https://music.163.com/song?id=3420804458) | Novo Amor / yvette young | 4:33 |
-| 5 | [骨中月](https://music.163.com/song?id=3439972457) | 镜予歌 / 陈亦洺 | 3:56 |
-| 6 | [COME HOME](https://music.163.com/song?id=3435630377) | JWHALC | 2:19 |
-| 7 | [Solace Feat. Emily Vaughn](https://music.163.com/song?id=3434522219) | Vicetone / Emily Vaughn | 2:46 |
-| 8 | [Mirage (Original Mix)](https://music.163.com/song?id=428095477) | Diellz | 3:41 |
-| 9 | [Sabotage](https://music.163.com/song?id=1396134825) | T.I. | 2:36 |
-| 10 | [Thunder Bluff(City Theme)](https://music.163.com/song?id=2060285) | Jason Hayes / Tracy Bush / Derek Duke | 2:37 |
-| 11 | [SunShine](https://music.163.com/song?id=1810566070) | DuragRoses / 苛逞 / loveyouparadise | 3:05 |
-| 12 | [Honey](https://music.163.com/song?id=1456501740) | Johnny Balik | 3:56 |
-| 13 | [Ocean](https://music.163.com/song?id=526472670) | Fredji / Arcade | 4:34 |
-| 14 | [Obvious](https://music.163.com/song?id=1337148985) | Ayelle | 2:40 |
-| 15 | [Legacy(Exclusive Track)](https://music.163.com/song?id=2060267) | Jason Hayes / Tracy Bush / Derek Duke | 2:26 |
-| 16 | [Pretty](https://music.163.com/song?id=1902124308) | Astrid S / Dagny | 2:55 |
-| 17 | [Circles Around The Sun](https://music.163.com/song?id=28535093) | Dispatch | 3:35 |
-| 18 | [飘曳的眠梦 The Swinging Motion of the Hulls](https://music.163.com/song?id=2756019205) | HOYO-MiX | 2:13 |
+| 1 | [Twentyfive Eight](https://music.163.com/song?id=3439683507) | Tinashe | 3:08 |
+| 2 | [Arsenal](https://music.163.com/song?id=3434501416) | Slipknot | 3:41 |
+| 3 | [Pineapple Mall](https://music.163.com/song?id=3437680441) | Corn Wave / Demxntia / mixed matches | 3:43 |
+| 4 | [幻昼 x 短发女孩 x take my hand](https://music.163.com/song?id=3434322055) | DJ小小智 | 1:41 |
+| 5 | [YALGUZ](https://music.163.com/song?id=3433644566) | xapkat xamxidin / aBLat_Beg | 2:04 |
+| 6 | [EARNËD IT](https://music.163.com/song?id=3437892308) | Yeat | 2:31 |
+| 7 | [Little Bit of Feel Good](https://music.163.com/song?id=19184821) | SomethingALaMode / Adam Joseph | 3:58 |
+| 8 | [人文之光](https://music.163.com/song?id=520398079) | 群星 | 1:58 |
+| 9 | [Poet Wind](https://music.163.com/song?id=1233817) | David Munyon | 5:11 |
+| 10 | [The Invisible Landscape (Original Mix)](https://music.163.com/song?id=27192604) | Djedjotronic | 2:58 |
+| 11 | [Razor Sharp (Vip)](https://music.163.com/song?id=28544275) | Pegboard Nerds / Tristam | 4:00 |
+| 12 | [Oh! My Mama](https://music.163.com/song?id=16408617) | Alela Diane | 3:12 |
+| 13 | [Transmission](https://music.163.com/song?id=1452372398) | Mittsies | 5:12 |
+| 14 | [Something About You (Original Mix)](https://music.163.com/song?id=28164013) | Jetlag | 6:20 |
+| 15 | [The Moment (Radio Edit)](https://music.163.com/song?id=1423643938) | Sid Cisse | 2:11 |
+| 16 | [Calm Down](https://music.163.com/song?id=1442092524) | SuiSai | 3:10 |
+| 17 | [Grown-up Christmas List](https://music.163.com/song?id=28029406) | Anthem Lights | 4:20 |
+| 18 | [You're Not the Right](https://music.163.com/song?id=1902729782) | Dyxiion / Ball VRP / Stellar | 3:35 |
 
-> 今日共新增 35 首
+> 今日共新增 47 首
 
 ---
-自动生成于 2026-10-06 02:22 · netease-daily-sync
+自动生成于 2026-10-07 01:42 · netease-daily-sync
