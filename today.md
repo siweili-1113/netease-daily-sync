@@ -1,76 +1,66 @@
-# 每日归档 2026-10-08
+# 每日归档 2026-10-09
 
-## ClaudeCode_自动加入_每日推荐 — 25 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Left, Right](https://music.163.com/song?id=3422827515) | Appleby | 2:29 |
-| 2 | [I'd Rather Sleep](https://music.163.com/song?id=29378093) | Kero Kero Bonito | 1:55 |
-| 3 | [Chipi Chipi Chapa Chapa](https://music.163.com/song?id=2113821165) | Noisy Radio | 3:45 |
-| 4 | [Upside Down](https://music.163.com/song?id=2758626893) | Black Gryph0n / Baasik | 2:38 |
-| 5 | [Pattern Recognition (feat. ODDEEO)](https://music.163.com/song?id=3440425047) | Neuro-sama / ODDEEO | 4:46 |
-| 6 | [Agudo Mágico 3](https://music.163.com/song?id=2144292913) | MC K.K / dj tg beats / Dj Aurélio | 2:54 |
-| 7 | [History](https://music.163.com/song?id=1294889061) | 88rising / Rich Brian | 3:27 |
-| 8 | [i wish](https://music.163.com/song?id=3407049833) | Rickiler | 3:52 |
-| 9 | [小团圆（China-E）](https://music.163.com/song?id=3438048886) | 徐梦圆 | 3:42 |
-| 10 | [Deadly Combination](https://music.163.com/song?id=425295882) | Miqu / 2Pac / The Notorious B.I.G. | 2:48 |
-| 11 | [Thank You](https://music.163.com/song?id=3434710986) | 王嘉尔 | 3:44 |
-| 12 | [相拥与你](https://music.163.com/song?id=2075856775) | DJ阿智 | 1:52 |
-| 13 | [infinity beyond](https://music.163.com/song?id=3413538614) | JVKE / John Michael Howell / ZVC | 2:36 |
-| 14 | [Show Me Love (with Tyla)](https://music.163.com/song?id=2694871396) | Tyla / WizTheMC / bees & honey | 2:56 |
-| 15 | [Pressure FM (is your boss being a prick at work?)](https://music.163.com/song?id=2644092141) | Jack Marlow / Phäntom Records | 3:38 |
-| 16 | [Jessfield Park (Instrumental)](https://music.163.com/song?id=1234378) | The Shanghai Restoration Project | 3:56 |
-| 17 | [Tokyo Rain](https://music.163.com/song?id=1346097717) | Marcus Warner | 5:21 |
-| 18 | [broken heart](https://music.163.com/song?id=3371881475) | FinalSay | 1:30 |
-| 19 | [最后一次花开](https://music.163.com/song?id=3443033767) | Hea2t | 2:26 |
-| 20 | [火织雲 （手碟）](https://music.163.com/song?id=2056569415) | 黄力氧 | 4:15 |
-| 21 | [Libella Swing](https://music.163.com/song?id=1401237426) | Parov Stelar | 4:05 |
-| 22 | [I Believe](https://music.163.com/song?id=1939948801) | Major Domes | 3:53 |
-| 23 | [Self Redemption（自我救赎）](https://music.163.com/song?id=3408667718) | 风雪遂人愿 | 1:38 |
-| 24 | [This Dream Of You](https://music.163.com/song?id=3436943069) | Martin Garrix | 4:46 |
-| 25 | [Cyan](https://music.163.com/song?id=522351126) | Darius | 3:10 |
-
-## ClaudeCode_自动加入_私人雷达 — 2 首
+## ClaudeCode_自动加入_每日推荐 — 6 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Is There Someone Else?](https://music.163.com/song?id=1909927738) | The Weeknd | 3:19 |
-| 2 | [Episode x Signals](https://music.163.com/song?id=2689504462) | ZsFlovexl | 3:55 |
+| 1 | [Rain](https://music.163.com/song?id=3407511468) | Remains Of the Past 遗迹 | 5:05 |
+| 2 | [Under the Meteor（在流星之下）](https://music.163.com/song?id=3393697659) | SUNSET-808. | 2:42 |
+| 3 | [missing](https://music.163.com/song?id=3440191087) | mixed matches | 2:46 |
+| 4 | [Chasing You Tonight](https://music.163.com/song?id=3413994403) | HEY HEI / Sin Wecokat | 1:55 |
+| 5 | [Don't Own](https://music.163.com/song?id=3436959995) | BLACK EGG / YaKio / Wehti | 3:05 |
+| 6 | [你是玫瑰](https://music.163.com/song?id=1438640937) | Bethybai | 2:41 |
+
+## ClaudeCode_自动加入_私人雷达 — 24 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [FALA SÉRIO（inst）](https://music.163.com/song?id=3437783847) | Vico8 / GOLD999 | 2:37 |
+| 2 | [Lion](https://music.163.com/song?id=28071895) | HVOB | 6:00 |
+| 3 | [Hands in the Fire](https://music.163.com/song?id=1306497271) | James Carter / Nevve | 2:56 |
+| 4 | [Locke](https://music.163.com/song?id=454966825) | PYLOT | 5:25 |
+| 5 | [宇宙呼吸着我的粒子](https://music.163.com/song?id=2163982920) | 庄东茹（豆芽鱼） | 2:57 |
+| 6 | [We Burn](https://music.163.com/song?id=1850925256) | Avicii | 4:17 |
+| 7 | [小小痴缠](https://music.163.com/song?id=28138039) | 薛凯琪 | 3:36 |
+| 8 | [Float](https://music.163.com/song?id=2688930656) | Jada Facer | 3:48 |
+| 9 | [Rockhill](https://music.163.com/song?id=424995192) | Beltaine | 3:22 |
+| 10 | [时间挂满山林](https://music.163.com/song?id=2113820733) | 雾也至Woo Yeah | 3:50 |
+| 11 | [Sang(扶桑）](https://music.163.com/song?id=3373909335) | Bethybai | 3:52 |
+| 12 | [MONTAGEM SOLITARIA - SUPER SLOWED](https://music.163.com/song?id=2706943891) | Ranfish222 / ItsInochi / LXST DRAGON | 2:16 |
+| 13 | [Roll Over Beethoven](https://music.163.com/song?id=27456961) | Chuck Berry | 2:22 |
+| 14 | [Dancing In My Head (Avicii's Been Cursed Mix)](https://music.163.com/song?id=26996146) | Eric Turner / Avicii | 5:32 |
+| 15 | [Habits](https://music.163.com/song?id=464035388) | Mr.Kitty / PASTEL GHOST | 4:13 |
+| 16 | [haunt u](https://music.163.com/song?id=461811935) | Lil Peep / mysticphonk | 1:57 |
+| 17 | [Turn Off The Lights](https://music.163.com/song?id=2606350400) | Max Oazo | 3:12 |
+| 18 | [Midnight Radio](https://music.163.com/song?id=1356806999) | Cacti / Josefine Fritsell | 3:41 |
+| 19 | [One (Extended Mix)](https://music.163.com/song?id=1501374116) | projectOne | 4:30 |
+| 20 | [Something to Hope For](https://music.163.com/song?id=3350079668) | Phoebe Ryan | 2:54 |
+| 21 | [Flow](https://music.163.com/song?id=1862376787) | RUQOA | 2:34 |
+| 22 | [Raining again](https://music.163.com/song?id=27553969) | Betoko | 2:58 |
+| 23 | [The In Between](https://music.163.com/song?id=563057658) | Elephante / Anjulie | 3:33 |
+| 24 | [Without You](https://music.163.com/song?id=1425212274) | Ascence | 2:52 |
 
 ## ClaudeCode_自动加入_时光雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [溯 (Reverse)](https://music.163.com/song?id=1294951288) | CORSAK胡梦周 / 马吟吟 | 3:12 |
-| 2 | [Die For You](https://music.163.com/song?id=1974630461) | VALORANT / Grabbitz | 3:32 |
+| 1 | [Sakura Rain](https://music.163.com/song?id=1489317578) | JWoods | 3:22 |
+| 2 | [Scared 2 Be Lonely](https://music.163.com/song?id=2704205873) | Lunak | 2:21 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 21 首
+## ClaudeCode_自动加入_宝藏雷达 — 8 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Cold Shoulder](https://music.163.com/song?id=3443223112) | Drake / Don Toliver / YEBBA | 3:54 |
-| 2 | [crystallized](https://music.163.com/song?id=3442104541) | brakence | 2:39 |
-| 3 | [我要权倾天下](https://music.163.com/song?id=3433375833) | 雷米克斯 | 2:25 |
-| 4 | [金钵之下（六耳猕猴）](https://music.163.com/song?id=3441874151) | 漫游会议室 | 4:15 |
-| 5 | [Last Thing You Need (from GTAVI: The Album)](https://music.163.com/song?id=3437602759) | Morgan Wallen / Grand Theft Auto VI | 3:16 |
-| 6 | [我想一个人呆一呆](https://music.163.com/song?id=3439330881) | XMASwu(吴骜) | 2:39 |
-| 7 | [Furious(GHETTO HOUSE)](https://music.163.com/song?id=3436711168) | BOY / chao | 2:18 |
-| 8 | [花非花](https://music.163.com/song?id=3440548231) | Echo艾歌 | 3:13 |
-| 9 | [Hide n Seek](https://music.163.com/song?id=3425078221) | Baby Jane | 3:05 |
-| 10 | [美丽缘份](https://music.163.com/song?id=135472) | 马浚伟 | 3:25 |
-| 11 | [少爷 Beat](https://music.163.com/song?id=2671409990) | BDnoLuv | 2:10 |
-| 12 | [Chateau](https://music.163.com/song?id=506986375) | Angus & Julia Stone | 4:33 |
-| 13 | [Historia De Amor](https://music.163.com/song?id=28949568) | Edward Maya | 3:05 |
-| 14 | [So Excited](https://music.163.com/song?id=2059794) | Avicii | 3:43 |
-| 15 | [What If I Wasn't Done Loving You?](https://music.163.com/song?id=1972532366) | Fly By Midnight | 2:55 |
-| 16 | [Long Road To Hell](https://music.163.com/song?id=28253328) | Avicii | 3:42 |
-| 17 | [Careless (Club Mix Short)](https://music.163.com/song?id=31997489) | DJane HouseKat / Pinero Nagy | 3:44 |
-| 18 | [CHINA-3](https://music.163.com/song?id=553988263) | Sand | 3:58 |
-| 19 | [Collateral Damage](https://music.163.com/song?id=458711878) | LEVV | 4:24 |
-| 20 | [ask me twice](https://music.163.com/song?id=1352776364) | NATIIVE / Effie | 2:56 |
-| 21 | [Too Real](https://music.163.com/song?id=34167173) | Flamingosis | 2:51 |
+| 1 | [Ocean](https://music.163.com/song?id=28613009) | Andreas Moe | 3:47 |
+| 2 | [Boys Don't Cry](https://music.163.com/song?id=30260277) | XOV | 3:53 |
+| 3 | [Your Name (The Ukulele Song)](https://music.163.com/song?id=39745656) | Charlie Puth | 3:06 |
+| 4 | [Never](https://music.163.com/song?id=5202461) | Nacho Sotomayor | 4:47 |
+| 5 | [สุดท้ายเหลือเพียงคำว่ารัก (จาก "ละคร ซ่อนเงารัก")](https://music.163.com/song?id=1419692235) | Alyn | 5:00 |
+| 6 | [Made For This](https://music.163.com/song?id=1354778218) | City Wolf | 3:25 |
+| 7 | [Delicate](https://music.163.com/song?id=1215679) | Damien Rice | 5:10 |
+| 8 | [Cuts (feat. Slyleaf)](https://music.163.com/song?id=1488919266) | Kazukii / Slyleaf | 2:55 |
 
-> 今日共新增 50 首
+> 今日共新增 40 首
 
 ---
-自动生成于 2026-10-08 02:09 · netease-daily-sync
+自动生成于 2026-10-09 15:04 · netease-daily-sync
