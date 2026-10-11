@@ -1,80 +1,83 @@
-# 每日归档 2026-10-10
+# 每日归档 2026-10-11
 
-## ClaudeCode_自动加入_每日推荐 — 26 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [DANZA NA SALOU](https://music.163.com/song?id=3432858183) | wulalai | 1:36 |
-| 2 | [Revenge (Minecraft Song)](https://music.163.com/song?id=29819906) | TryHardNinja | 3:42 |
-| 3 | [GASS (feat. Travis Scott)](https://music.163.com/song?id=3429847515) | Nemzzz / Travis Scott | 1:54 |
-| 4 | [琵琶曲](https://music.163.com/song?id=3436853579) | 苏也莉 / 霓虹兔 | 2:21 |
-| 5 | [Anytime](https://music.163.com/song?id=3434197399) | Nine Vicious | 2:58 |
-| 6 | [Lostinsummer (feat. Kasane Teto)](https://music.163.com/song?id=3439824235) | Yowane / Kasane Teto | 2:26 |
-| 7 | [Where The Rivers Run](https://music.163.com/song?id=3420368596) | Garrulous Taoist | 2:48 |
-| 8 | [Earthly Bliss](https://music.163.com/song?id=3421414936) | Revin | 1:35 |
-| 9 | [Gasping For Air](https://music.163.com/song?id=2665507189) | Grabbitz | 4:13 |
-| 10 | [Never Gon Home](https://music.163.com/song?id=3395867585) | Pz' | 2:00 |
-| 11 | [Empathy](https://music.163.com/song?id=17159438) | Crystal Castles | 4:09 |
-| 12 | [UR All Mine (全部都是你)](https://music.163.com/song?id=3362348424) | Tear Fanda / Yinger Liam | 2:25 |
-| 13 | [Dance With Me](https://music.163.com/song?id=3441839203) | Bruno Mars | 3:39 |
-| 14 | [Blind Spot](https://music.163.com/song?id=2145424800) | Tinna / Tom Frane | 2:07 |
-| 15 | [一诺为家](https://music.163.com/song?id=3443033060) | 铁痕电台-MSR / Miaa / CC | 3:53 |
-| 16 | [Chase You in the Memory（忆君往昔）](https://music.163.com/song?id=3435194151) | Motie Soul | 5:00 |
-| 17 | [反正你也不会听](https://music.163.com/song?id=571828086) | Chifoov | 3:03 |
-| 18 | [Dance Alone](https://music.163.com/song?id=3336111048) | Zior Park | 3:06 |
-| 19 | [【Free】云端飞行](https://music.163.com/song?id=1891146284) | Lisure | 3:00 |
-| 20 | [MEGALOBOX](https://music.163.com/song?id=862099550) | Mabanua | 2:05 |
-| 21 | [Niten Doraku](https://music.163.com/song?id=1915140173) | Sprnova | 2:38 |
-| 22 | [Just a Girl](https://music.163.com/song?id=866049813) | Cait | 2:45 |
-| 23 | [Lonely Day](https://music.163.com/song?id=546723298) | Jurrivh | 4:02 |
-| 24 | [虚构的留白](https://music.163.com/song?id=3445051845) | 在虚无中永存 / しょりん / 诗岸 | 3:16 |
-| 25 | [Could You?](https://music.163.com/song?id=479938590) | dyalla | 1:51 |
-| 26 | [Lost Touch](https://music.163.com/song?id=4256824) | Powder! Go Away | 4:49 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 4 首
+## ClaudeCode_自动加入_每日推荐 — 23 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [All I Needed](https://music.163.com/song?id=3417561363) | Nate Sib | 3:07 |
-| 2 | [So Good](https://music.163.com/song?id=3435030577) | Jhené Aiko / Kendrick Lamar | 3:57 |
-| 3 | [Already Know](https://music.163.com/song?id=1421687584) | Masetti | 2:59 |
-| 4 | [Let Me Love You](https://music.163.com/song?id=28170923) | Tapesh / KANT | 6:10 |
+| 1 | [worry](https://music.163.com/song?id=2753374072) | LONOWN / riserayss | 3:00 |
+| 2 | [Feeling](https://music.163.com/song?id=3407913545) | SHOES | 2:03 |
+| 3 | [Back To Galveston](https://music.163.com/song?id=538448486) | Patrick Baker | 4:11 |
+| 4 | [乐园游梦记](https://music.163.com/song?id=2666660478) | 三Z-STUDIO / HOYO-MiX / 于梓贝 | 2:52 |
+| 5 | [copy + paste](https://music.163.com/song?id=3437680602) | Corn Wave / mixed matches / SuperA邓艺菲 | 3:13 |
+| 6 | [Stupid Girl](https://music.163.com/song?id=37906422) | Madeline Juno | 3:49 |
+| 7 | [Last Time](https://music.163.com/song?id=1417495959) | Dibyo / Sanjoy / Shiloh Dynasty | 2:09 |
+| 8 | [Blood on the Dance Floor X Dangerous (The White Panda Mash-Up)](https://music.163.com/song?id=504425097) | Michael Jackson / The White Panda | 3:38 |
+| 9 | [复息](https://music.163.com/song?id=3445520884) | BUTON | 2:28 |
+| 10 | [DANCE TONIGHT](https://music.163.com/song?id=2666834788) | Damage | 2:18 |
+| 11 | [Choke](https://music.163.com/song?id=3444878058) | OneRepublic | 3:46 |
+| 12 | [I Will Leave a Light On (Original Mix)](https://music.163.com/song?id=2071114949) | Le Youth / Lane 8 / Jyll | 6:49 |
+| 13 | [Summer Solstice](https://music.163.com/song?id=2141490668) | Jada Facer | 3:28 |
+| 14 | [Endear](https://music.163.com/song?id=1345058134) | Couple N / Miraie | 3:16 |
+| 15 | [TOMA SIN NADA](https://music.163.com/song?id=3416896810) | sleepyyer / freezepain / LumynX | 2:03 |
+| 16 | [Gymnopedies 1](https://music.163.com/song?id=5299097) | Erik Satie | 3:01 |
+| 17 | [After All (Else Remix)](https://music.163.com/song?id=427416148) | Else / Charlotte Day Wilson | 4:14 |
+| 18 | [Summer Wave（夏日远航）](https://music.163.com/song?id=3410258268) | MIKS / MIKS | 2:52 |
+| 19 | [Sólblóm](https://music.163.com/song?id=1482575555) | BRÍET | 4:21 |
+| 20 | [Now and Never](https://music.163.com/song?id=3358339639) | TIC / Paperman | 2:13 |
+| 21 | [A Girl with Flowers](https://music.163.com/song?id=1306366922) | Lazer Boomerang | 6:32 |
+| 22 | [All You Need Is Love (BUNT. Edit)](https://music.163.com/song?id=431826012) | BUNT. / Avicii | 3:31 |
+| 23 | [Got It Now (Phonk)](https://music.163.com/song?id=2715139032) | YaKio / Wehti / VZEUS | 1:53 |
 
-## ClaudeCode_自动加入_私人雷达 — 1 首
+## ClaudeCode_自动加入_欧美私人订制 — 5 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [FF](https://music.163.com/song?id=3445653421) | Troye Sivan | 4:22 |
+| 1 | [She Freaky](https://music.163.com/song?id=1876659) | Ray J | 3:50 |
+| 2 | [Training Season](https://music.163.com/song?id=3427197353) | Dua Lipa | 3:29 |
+| 3 | [I Wanna Go To China](https://music.163.com/song?id=3409913779) | Joost / Chalky Wong | 2:19 |
+| 4 | [One More Night (ARNXT020)](https://music.163.com/song?id=1465453201) | Lost Frequencies / Easton Corbin | 2:52 |
+| 5 | [Innner City Blues (Make Me Wanna Holler)](https://music.163.com/song?id=26986756) | Marvin Gaye | 3:06 |
 
-## ClaudeCode_自动加入_时光雷达 — 4 首
+## ClaudeCode_自动加入_私人雷达 — 4 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Forever (Original Mix)](https://music.163.com/song?id=406072032) | Wavers / Christy Million | 4:39 |
-| 2 | [One (Extended Mix)](https://music.163.com/song?id=1501374116) | projectOne | 4:30 |
-| 3 | [Midnight Radio](https://music.163.com/song?id=1356806999) | Cacti / Josefine Fritsell | 3:41 |
-| 4 | [Dancing In My Head (Avicii's Been Cursed Mix)](https://music.163.com/song?id=26996146) | Eric Turner / Avicii | 5:32 |
+| 1 | [ǝɔuɐɹʇuǝ uɐ ƃuᴉʞɐɯ (combination lock & ʎpoqou)](https://music.163.com/song?id=431259949) | ʎpoqou | 3:04 |
+| 2 | [Got It Now (Phonk)](https://music.163.com/song?id=2715139032) | YaKio / Wehti / VZEUS | 1:53 |
+| 3 | [Got It 21 (Phonk)](https://music.163.com/song?id=3346869348) | YaKio / Wehti / Trispect | 2:14 |
+| 4 | [Good Luck](https://music.163.com/song?id=3342103633) | My Car / GuTs | 2:13 |
+
+## ClaudeCode_自动加入_时光雷达 — 6 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [The Few Things](https://music.163.com/song?id=1299974421) | Charlotte Lawrence / Jp Saxe | 3:31 |
+| 2 | [Would You Lie](https://music.163.com/song?id=1999533031) | SeeB / Alexander Stewart | 3:34 |
+| 3 | [ask me twice](https://music.163.com/song?id=1352776364) | NATIIVE / Effie | 2:56 |
+| 4 | [Back To Life](https://music.163.com/song?id=1382765921) | Aérotique / Glaceo | 3:28 |
+| 5 | [moonlight](https://music.163.com/song?id=2647124974) | FLYSBR | 2:06 |
+| 6 | [Worth It](https://music.163.com/song?id=1361335317) | Alan Silvestri | 4:15 |
 
 ## ClaudeCode_自动加入_宝藏雷达 — 14 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [刚刚这种氛围](https://music.163.com/song?id=3439277253) | LSGCsikoriot | 2:38 |
-| 2 | [Sex](https://music.163.com/song?id=3437840628) | 2hollis | 2:46 |
-| 3 | [翠鸟之梦](https://music.163.com/song?id=3435222249) | Youzee Music | 2:42 |
-| 4 | [兄弟连](https://music.163.com/song?id=33162469) | 中华 | 3:49 |
-| 5 | [微风（剑三恶人谷原创曲）](https://music.163.com/song?id=503892694) | 羊驼Alpaca丶 | 4:10 |
-| 6 | [Rampart](https://music.163.com/song?id=2635101880) | Waterflame | 4:54 |
-| 7 | [Send Her My Love](https://music.163.com/song?id=436487049) | Lost Frequencies | 3:38 |
-| 8 | [Chasing Light](https://music.163.com/song?id=551339067) | MEMBA / Mothica | 3:14 |
-| 9 | [Dust It Off](https://music.163.com/song?id=29984515) | The Dø | 3:42 |
-| 10 | [Drag You Down](https://music.163.com/song?id=21915697) | The Pierces | 4:14 |
-| 11 | [Anyone](https://music.163.com/song?id=1961517869) | Mike Perry / Ebba | 3:05 |
-| 12 | [Vendetta (Original Mix)](https://music.163.com/song?id=30051369) | Mark Sixma | 4:50 |
-| 13 | [Make Love To Me](https://music.163.com/song?id=5151559) | Emme St. James | 2:35 |
-| 14 | [Farewell](https://music.163.com/song?id=2100844) | Witness | 2:37 |
+| 1 | [Hero](https://music.163.com/song?id=3439799974) | 小雪 / DJ小小智 | 1:34 |
+| 2 | [这魔精是你的吗 Are They Yours](https://music.163.com/song?id=3434690023) | The 1999 | 2:36 |
+| 3 | [食髓知味](https://music.163.com/song?id=3440877520) | Bo Peep | 3:01 |
+| 4 | [杀破狼](https://music.163.com/song?id=3434661034) | 哥哥妹妹 | 3:16 |
+| 5 | [我像一个傻瓜](https://music.163.com/song?id=3441233974) | 河北吴孟达 / 曲甲 | 2:07 |
+| 6 | [落花时节又逢君](https://music.163.com/song?id=3442262623) | 鸣潮先约电台 / Minase | 2:38 |
+| 7 | [黑雪鹄的夜梦 Dream of the Black Snow Swan](https://music.163.com/song?id=3437729506) | HOYO-MiX | 2:28 |
+| 8 | [Love Triangle](https://music.163.com/song?id=3442364294) | Angèle / Caroline Polachek / SebastiAn | 3:44 |
+| 9 | [Lovin'](https://music.163.com/song?id=1309915366) | Lulleaux / Glen Faria | 3:01 |
+| 10 | [You're Free](https://music.163.com/song?id=31426995) | Two Ways | 3:18 |
+| 11 | [Down To Your Soul](https://music.163.com/song?id=1886611) | Right Away, Great Captain! | 3:14 |
+| 12 | [Eredin, King of the Hunt](https://music.163.com/song?id=32063365) | Marcin Przybyłowicz | 2:27 |
+| 13 | [Scenery](https://music.163.com/song?id=420513510) | Caught Adrift | 3:59 |
+| 14 | [Crowd of Two](https://music.163.com/song?id=3426957671) | NVGUI | 3:00 |
 
-> 今日共新增 49 首
+> 今日共新增 52 首
 
 ---
-自动生成于 2026-10-10 01:50 · netease-daily-sync
+自动生成于 2026-10-11 01:06 · netease-daily-sync
