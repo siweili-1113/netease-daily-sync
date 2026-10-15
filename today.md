@@ -1,74 +1,75 @@
-# 每日归档 2026-10-14
+# 每日归档 2026-10-15
 
-## ClaudeCode_自动加入_每日推荐 — 7 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [海屿你](https://music.163.com/song?id=1973665667) | 马也_Crabbit | 4:55 |
-| 2 | [医生](https://music.163.com/song?id=2722906698) | 亞細亞曠世奇才 / 范旭东 | 2:42 |
-| 3 | [升本后醒来](https://music.163.com/song?id=3442747167) | 上饒天選之子 | 2:52 |
-| 4 | [CAPS LOCK crown](https://music.163.com/song?id=3444296717) | DLSS | 2:53 |
-| 5 | [两难pt.2](https://music.163.com/song?id=3433437362) | 加木 | 4:19 |
-| 6 | [我们根本不是大人何必去假装成熟](https://music.163.com/song?id=3445461258) | 绵阳STAR / Ruaen66 | 1:46 |
-| 7 | [Endless Night](https://music.163.com/song?id=2062925984) | NEHCA | 3:37 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 2 首
+## ClaudeCode_自动加入_每日推荐 — 6 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Cold as Ice (The Remake)](https://music.163.com/song?id=1455470445) | Blacklite District | 3:01 |
-| 2 | [The Next Station Is Shibuya](https://music.163.com/song?id=2134783300) | Phonk Remix Guys | 1:56 |
+| 1 | [空山•雪莲](https://music.163.com/song?id=2661705838) | Bethybai | 3:57 |
+| 2 | [Way ON](https://music.163.com/song?id=3328862458) | TIC / Paperman | 2:11 |
+| 3 | [you know 5(Phonk)](https://music.163.com/song?id=3432251031) | Trispect | 2:05 |
+| 4 | [Got It 4](https://music.163.com/song?id=2708537789) | Lunak | 2:24 |
+| 5 | [EchoSnow (霜雪回响)](https://music.163.com/song?id=3443492641) | SKXLXTON A w A | 3:36 |
+| 6 | [Kasukabe(春日部）](https://music.163.com/song?id=3355308722) | Bethybai | 3:41 |
 
-## ClaudeCode_自动加入_私人雷达 — 1 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [自由的你](https://music.163.com/song?id=3436855494) | G.E.M.邓紫棋 | 4:56 |
-
-## ClaudeCode_自动加入_时光雷达 — 11 首
+## ClaudeCode_自动加入_欧美私人订制 — 7 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [City Of Lights](https://music.163.com/song?id=28761849) | Lush & Simon / XOV | 3:24 |
-| 2 | [Boys Don't Cry](https://music.163.com/song?id=30260277) | XOV | 3:53 |
-| 3 | [Wherever You Are](https://music.163.com/song?id=1367577674) | Dorie | 2:56 |
-| 4 | [Fill Me In (Duncan Gerow)](https://music.163.com/song?id=41636433) | Craig David / Penthouse Penthouse | 4:17 |
-| 5 | [Your Name (The Ukulele Song)](https://music.163.com/song?id=39745656) | Charlie Puth | 3:06 |
-| 6 | [Ocean](https://music.163.com/song?id=526472670) | Fredji / Arcade | 4:34 |
-| 7 | [Eye of The Storm](https://music.163.com/song?id=28381271) | Gareth Emery / Gavin Beach | 4:05 |
-| 8 | [Letter to the Rich (feat. Powfu)](https://music.163.com/song?id=1364758218) | Johnny Dukane / Powfu | 2:43 |
-| 9 | [DRUM GO DUM](https://music.163.com/song?id=1493925915) | K/DA / Wolftyla / Bekuh Boom | 3:20 |
-| 10 | [Lights](https://music.163.com/song?id=520459382) | Sappheiros | 3:26 |
-| 11 | [Once Upon a Time](https://music.163.com/song?id=1299570939) | Max Oazo / Moonessa | 3:26 |
+| 1 | [Rip Out Your Eyes](https://music.163.com/song?id=3429984635) | Marino | 1:50 |
+| 2 | [Whatever Happens](https://music.163.com/song?id=27536479) | Michael Jackson | 4:56 |
+| 3 | [Color Your Night](https://music.163.com/song?id=2126049290) | Chewie Melodies / Pealeaf | 2:39 |
+| 4 | [**** & Bounce](https://music.163.com/song?id=475277148) | DOPEDROP / Adryx-G | 3:05 |
+| 5 | [Solar](https://music.163.com/song?id=1954311775) | rei brown | 2:39 |
+| 6 | [Holding Out For You (feat. Schier)](https://music.163.com/song?id=546964865) | Lizzy Land / Schier | 3:06 |
+| 7 | [Roses Are Not Red](https://music.163.com/song?id=19163298) | Simone White | 4:16 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 22 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [眼泪情书](https://music.163.com/song?id=3435182936) | 陈默之 | 4:17 |
-| 2 | [决心](https://music.163.com/song?id=3439741022) | Sky Ocean | 3:45 |
-| 3 | [Norwegian Wood (This Bird Has Flown) (Second Version - Take 2)](https://music.163.com/song?id=3436352058) | The Beatles | 2:20 |
-| 4 | [Troye Meets World](https://music.163.com/song?id=3445653420) | Troye Sivan | 2:43 |
-| 5 | [Pillow Fight](https://music.163.com/song?id=3439682670) | Tinashe | 2:21 |
-| 6 | [I’d Rather Be Alone](https://music.163.com/song?id=3439683504) | Tinashe | 3:14 |
-| 7 | [至冬 Snezhnaya](https://music.163.com/song?id=3437729502) | HOYO-MiX | 4:59 |
-| 8 | [会吗](https://music.163.com/song?id=3442680622) | 林小野 | 3:59 |
-| 9 | [千纸鹤](https://music.163.com/song?id=3444190340) | P2Y / 弗洛·文尔 / 小宝福诺 | 3:08 |
-| 10 | [Bad Girl](https://music.163.com/song?id=3440552022) | 张艺兴 | 3:08 |
-| 11 | [失去你的痛](https://music.163.com/song?id=3437627885) | 头不疼 | 3:27 |
-| 12 | [The Way](https://music.163.com/song?id=484749365) | ⠀⠀⠀⠀ / Zack Hemsey | 7:06 |
-| 13 | [Reign over Me](https://music.163.com/song?id=552464103) | We Architects / Abi F Jones | 3:39 |
-| 14 | [Seek Bromance (Avicii's Vocal Edit)](https://music.163.com/song?id=26883615) | Tim Berg / Avicii | 3:20 |
-| 15 | [If I Let You Go (Radio Edit)](https://music.163.com/song?id=2080593) | Westlife | 3:43 |
-| 16 | [Youth](https://music.163.com/song?id=1347227964) | Dabin / Yoe Mase | 4:24 |
-| 17 | [Won't Run Away](https://music.163.com/song?id=1492230371) | Klaas | 2:40 |
-| 18 | [Punk Rock Flu](https://music.163.com/song?id=1487328801) | The Friday Prophets | 1:48 |
-| 19 | [Chemistry](https://music.163.com/song?id=1434269249) | Tangent | 2:45 |
-| 20 | [午后的梦（Lofi version）](https://music.163.com/song?id=1899417205) | 陈越龙 | 2:58 |
-| 21 | [δ](https://music.163.com/song?id=1393390589) | 五年之约 / GARDENIA RECORDS | 3:29 |
-| 22 | [Skity Rain](https://music.163.com/song?id=2756153186) | ITY | 3:36 |
+| 1 | [DREAM FUNK (Instrumental)](https://music.163.com/song?id=3346719732) | Lumix / Kxrsed | 1:36 |
+| 2 | [Just Friends](https://music.163.com/song?id=1397248051) | Hayden James / Boy Matthews | 3:58 |
 
-> 今日共新增 43 首
+## ClaudeCode_自动加入_时光雷达 — 14 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Concerto d'Aranjuez](https://music.163.com/song?id=1793386) | Nicolas de Angelis | 5:53 |
+| 2 | [Warfare (Original Mix)](https://music.163.com/song?id=34586064) | MAZV / TKV | 4:45 |
+| 3 | [Back and Forth](https://music.163.com/song?id=27761416) | Haywyre | 4:16 |
+| 4 | [My One and Only Love](https://music.163.com/song?id=1027371) | Art Tatum | 6:14 |
+| 5 | [Meade Lux Special](https://music.163.com/song?id=569441694) | The Big Band Boogie Woogie | 3:26 |
+| 6 | [My Ideal (Remastered)](https://music.163.com/song?id=444228345) | Art Tatum & Ben Webster | 7:13 |
+| 7 | [Inking The Plan](https://music.163.com/song?id=5045401) | Ramin Djawadi | 2:37 |
+| 8 | [Seek Bromance (Avicii's Vocal Edit)](https://music.163.com/song?id=26883615) | Tim Berg / Avicii | 3:20 |
+| 9 | [Unstoppable](https://music.163.com/song?id=1387003261) | Teminite | 5:32 |
+| 10 | [Can't Hold Us (feat. Alex G.) [Bonus Track]](https://music.163.com/song?id=27879272) | Tyler Ward | 3:19 |
+| 11 | [Avicii - ID - Our Love (SanJin Remake)](https://music.163.com/song?id=1360411961) | SanJin / Avicii | 4:25 |
+| 12 | [Sleepless](https://music.163.com/song?id=1842154372) | Pixel Terror / Chime / Teminite | 3:50 |
+| 13 | [i dont wanna go outside today](https://music.163.com/song?id=458496124) | Nohidea | 1:32 |
+| 14 | [Laced Up](https://music.163.com/song?id=1346184206) | Kip Nelson | 2:42 |
+
+## ClaudeCode_自动加入_宝藏雷达 — 15 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Shadow (Original Mix)](https://music.163.com/song?id=401249518) | Frubi | 4:36 |
+| 2 | [Goodbye XL](https://music.163.com/song?id=2024363747) | Blacklite District | 3:20 |
+| 3 | [อยากมีชีวิตเพื่อเธอ](https://music.163.com/song?id=438981948) | Aof Pongsak / Beau Sunita | 3:34 |
+| 4 | [มันดีกว่าที่คิด](https://music.163.com/song?id=1436557545) | Singto Numchok | 3:27 |
+| 5 | [对面的你（feat.乐正绫）](https://music.163.com/song?id=477305776) | 海马CA3 | 6:05 |
+| 6 | [潜移默化-第七年的自白书](https://music.163.com/song?id=1387309920) | 潜移默化 / 洛天依 | 2:16 |
+| 7 | [ลืมไปหรือเปล่า](https://music.163.com/song?id=28935321) | Primrose Chindavanich | 3:50 |
+| 8 | [Queen Vibes](https://music.163.com/song?id=1427879695) | Vedo | 2:52 |
+| 9 | [栀雨徘徊](https://music.163.com/song?id=464970881) | 乐正绫 / 星尘 | 4:28 |
+| 10 | [I Need You To Know](https://music.163.com/song?id=1461069344) | Armin van Buuren / Nicky Romero / Ifimay | 3:00 |
+| 11 | [Fuel to Fire](https://music.163.com/song?id=863675976) | Agnes Obel | 5:28 |
+| 12 | [Piece by Piece](https://music.163.com/song?id=19038195) | Katie Melua | 3:24 |
+| 13 | [Boarder](https://music.163.com/song?id=1853168586) | Cinematic Music | 2:50 |
+| 14 | [Type a Way](https://music.163.com/song?id=1345878194) | Eric Bellinger / Chris Brown / OG PARKER | 3:01 |
+| 15 | [Flow](https://music.163.com/song?id=1862376787) | RUQOA | 2:34 |
+
+> 今日共新增 44 首
 
 ---
-自动生成于 2026-10-14 01:19 · netease-daily-sync
+自动生成于 2026-10-15 00:41 · netease-daily-sync
