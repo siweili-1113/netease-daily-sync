@@ -1,68 +1,76 @@
-# 每日归档 2026-10-17
+# 每日归档 2026-10-18
 
-## ClaudeCode_自动加入_每日推荐 — 19 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Star Unkind (Lanfranchi & Farina Remix)](https://music.163.com/song?id=512640295) | 2Someone / Lanfranchi / Farina | 6:12 |
-| 2 | [Love In The Dark (Stutter House)](https://music.163.com/song?id=2681729932) | YaKio / Wehti | 3:03 |
-| 3 | [Suspicious](https://music.163.com/song?id=2067884789) | RJ Pasin | 1:39 |
-| 4 | [Rap Beat 2](https://music.163.com/song?id=447279824) | Gucci Louis | 2:17 |
-| 5 | [Wait For Me](https://music.163.com/song?id=3422658869) | Vexento | 2:55 |
-| 6 | [It's Not So Bad](https://music.163.com/song?id=3325980117) | SMYE | 2:50 |
-| 7 | [Call Make Phone (Deep Phonk)](https://music.163.com/song?id=3321720260) | Ли Цзясин | 2:09 |
-| 8 | [golden hour (Orchestral Version)](https://music.163.com/song?id=2027152634) | JVKE | 3:31 |
-| 9 | [My 22 (Inst.)](https://music.163.com/song?id=1330972472) | 逆时针向 | 3:14 |
-| 10 | [Only You](https://music.163.com/song?id=3405392163) | xoz7 | 1:39 |
-| 11 | [怪物之歌](https://music.163.com/song?id=3390198037) | 泪痕 | 4:42 |
-| 12 | [Little Mirror（小镜子）](https://music.163.com/song?id=3445511890) | 时空储蓄罐 | 2:05 |
-| 13 | [Hann er ekki þú](https://music.163.com/song?id=1482575557) | BRÍET | 4:00 |
-| 14 | [Flicker](https://music.163.com/song?id=3442551678) | FLYFLYFLY | 3:09 |
-| 15 | [Fatal Love](https://music.163.com/song?id=1932531508) | Jori King | 3:10 |
-| 16 | [Sail](https://music.163.com/song?id=3935191) | AWOLNATION | 4:19 |
-| 17 | [Something to Hope For](https://music.163.com/song?id=3364673447) | Phoebe Ryan | 2:54 |
-| 18 | [Don't Stop](https://music.163.com/song?id=1811300525) | Alex Marvel / Pash Velper | 3:04 |
-| 19 | [phone kisses](https://music.163.com/song?id=2107439032) | suhmeduh | 1:55 |
-
-## ClaudeCode_自动加入_私人雷达 — 3 首
+## ClaudeCode_自动加入_每日推荐 — 21 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [我该怎么和你告别](https://music.163.com/song?id=3360382135) | 半梦人乐队 | 3:43 |
-| 2 | [世界尽头酒馆 World's End Tavern](https://music.163.com/song?id=3360834529) | HOYO-MiX | 1:54 |
-| 3 | [Follow Me](https://music.163.com/song?id=3444720987) | Alec Benjamin | 2:51 |
+| 1 | [I Can't Handle Change](https://music.163.com/song?id=1477386754) | RoaR | 3:18 |
+| 2 | [Christmas With Me](https://music.163.com/song?id=1497739868) | Rosendale / ROY KNOX / Euphoria | 2:55 |
+| 3 | [Endless (Best of Me)](https://music.163.com/song?id=1990340382) | Afinity / Nevve | 3:40 |
+| 4 | [蔚蓝色岛屿（China-X）](https://music.163.com/song?id=3441793773) | 徐梦圆 | 3:33 |
+| 5 | [Surface](https://music.163.com/song?id=1376828800) | Chime | 3:41 |
+| 6 | [No Bad Grades](https://music.163.com/song?id=3379945681) | Young Roddo | 1:51 |
+| 7 | [Yours](https://music.163.com/song?id=2140252336) | Teminite | 4:25 |
+| 8 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [from GTAVI]](https://music.163.com/song?id=3448337966) | Justice / Tame Impala / SZA | 3:44 |
+| 9 | [We Are the World](https://music.163.com/song?id=5107144) | The Columbia River Players | 5:20 |
+| 10 | [Fly](https://music.163.com/song?id=559998040) | Cuebrick / Maliah / Newclaess | 3:03 |
+| 11 | [Edge of the World](https://music.163.com/song?id=1391314766) | DESERT STAR | 2:28 |
+| 12 | [Can You Feel Me](https://music.163.com/song?id=1300714477) | Love Beans | 3:16 |
+| 13 | [Runaway](https://music.163.com/song?id=503206114) | Halcyon / Valentina Franco | 3:16 |
+| 14 | [Wild Things](https://music.163.com/song?id=3424135556) | KASTRA / GhostDragon / Madyx | 2:56 |
+| 15 | [Walk into light](https://music.163.com/song?id=3439820129) | Jasr / 油壶 / Mking | 2:30 |
+| 16 | [dreaming about good old days pt2](https://music.163.com/song?id=1486168323) | XALER | 2:41 |
+| 17 | [SPIRIT RAVE](https://music.163.com/song?id=2148710507) | SKFM | 1:39 |
+| 18 | [Carrot Juice](https://music.163.com/song?id=1956275887) | Oneul | 1:50 |
+| 19 | [人生のメリーゴーランド (インストゥルメンタル)](https://music.163.com/song?id=581418) | 倍賞千恵子 | 3:29 |
+| 20 | [告白の夜](https://music.163.com/song?id=3386967464) | Ayasa | 4:50 |
+| 21 | [Black Sheep](https://music.163.com/song?id=425828457) | OmenXIII | 2:36 |
 
-## ClaudeCode_自动加入_时光雷达 — 6 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Secrets](https://music.163.com/song?id=1851598332) | 洛忱 / 每天都吃小當家 | 3:22 |
-| 2 | [Summer Air](https://music.163.com/song?id=1479538415) | Case | 3:49 |
-| 3 | [あいうえおと](https://music.163.com/song?id=2692098984) | Rimiri TypeC | 4:25 |
-| 4 | [惊涛落日（Official Vers.）](https://music.163.com/song?id=1433075058) | Platix_Zhang | 2:47 |
-| 5 | [Summer's Here](https://music.163.com/song?id=29207823) | Thomas Greenberg | 1:51 |
-| 6 | [Håll Om Mig](https://music.163.com/song?id=28224395) | Nanne Grönvall | 3:04 |
+| 1 | [Running Up That Hill](https://music.163.com/song?id=1959359877) | Trinix Remix | 2:31 |
+| 2 | [Unslept](https://music.163.com/song?id=2744836677) | 未來電波基地 | 2:10 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 14 首
+## ClaudeCode_自动加入_时光雷达 — 7 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [思念像一场重感冒](https://music.163.com/song?id=3445490637) | 余佳运 | 2:37 |
-| 2 | [童谣](https://music.163.com/song?id=3425550237) | 海龟先生 | 3:40 |
-| 3 | [Graduation](https://music.163.com/song?id=34586096) | Candice Accola | 3:37 |
-| 4 | [The Hymn - Dancecore Mix](https://music.163.com/song?id=28777736) | DJ Mikesh / Dickheadz | 4:30 |
-| 5 | [Drunk](https://music.163.com/song?id=1818524451) | Alexander Jean | 3:17 |
-| 6 | [Conquest of Paradise](https://music.163.com/song?id=26237339) | Vangelis | 4:48 |
-| 7 | [Hope](https://music.163.com/song?id=536699861) | Tobu | 4:48 |
-| 8 | [Unite Us](https://music.163.com/song?id=414670320) | Fringe Element | 2:45 |
-| 9 | [Fire Again](https://music.163.com/song?id=2079889358) | VALORANT / Ashnikko | 3:26 |
-| 10 | [This Is Poetry (Original Mix)](https://music.163.com/song?id=28720823) | Space Raven | 7:39 |
-| 11 | [Erotic City (feat. Deni Hines)](https://music.163.com/song?id=27227616) | Supafly | 3:20 |
-| 12 | [The Elven Prophecy](https://music.163.com/song?id=34142763) | BrunuhVille | 4:06 |
-| 13 | [Summer Never Ends (feat. Jaime Deraz)](https://music.163.com/song?id=1868783247) | The Spl2ndid / Jaime Deraz | 3:27 |
-| 14 | [Be By Me](https://music.163.com/song?id=1924489) | Robert J. P. Oberg | 1:57 |
+| 1 | [Emergency](https://music.163.com/song?id=1333417476) | 令狐笑 / SADRECORDS | 3:01 |
+| 2 | [Anything Anymore](https://music.163.com/song?id=1346055544) | LZRD / Jake Miller | 3:30 |
+| 3 | [Sagittarius](https://music.163.com/song?id=533291610) | 3mon / Shut Eye | 2:48 |
+| 4 | [Stranger](https://music.163.com/song?id=27514162) | Goldfrapp | 4:11 |
+| 5 | [cute](https://music.163.com/song?id=521780064) | BLVK | 1:53 |
+| 6 | [夏花](https://music.163.com/song?id=2717576053) | 一颗狼星 | 3:01 |
+| 7 | [Always or Never](https://music.163.com/song?id=1383196152) | Vacation Club | 3:30 |
 
-> 今日共新增 42 首
+## ClaudeCode_自动加入_宝藏雷达 — 20 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [杀死一只鸟](https://music.163.com/song?id=3443216429) | 银河小鱼 | 2:05 |
+| 2 | [渐忘症](https://music.163.com/song?id=3439172118) | 像素雨 / 银河小鱼 | 2:22 |
+| 3 | [Baby Breath](https://music.163.com/song?id=3443223064) | Quavo / Pharrell Williams / Tyler, The Creator | 3:47 |
+| 4 | [我们根本不是大人何必去假装成熟](https://music.163.com/song?id=3445461258) | 绵阳STAR / Ruaen66 | 1:46 |
+| 5 | [MEANT TO BE](https://music.163.com/song?id=3445488171) | Tiffany Day / glaive | 2:58 |
+| 6 | [年月](https://music.163.com/song?id=3447410531) | Quinn葵因 / 蒋倩如 / 崔恩尔 | 2:30 |
+| 7 | [Conclave (Full Version)](https://music.163.com/song?id=515816144) | Andreas B. | 3:27 |
+| 8 | [You've Got The Love](https://music.163.com/song?id=450222472) | Code Black | 3:38 |
+| 9 | [Don't Say Nothing](https://music.163.com/song?id=19394349) | The Heavy | 3:36 |
+| 10 | [Afraid, Unafraid](https://music.163.com/song?id=472045516) | SLUMBERJACK / Sydnee Carter | 2:59 |
+| 11 | [The Great Deception (Original Mix)](https://music.163.com/song?id=422463982) | PsoGnar | 5:30 |
+| 12 | [Beautify](https://music.163.com/song?id=1840644864) | 4URA / Jade Key / BrillLion | 2:50 |
+| 13 | [Otherside](https://music.163.com/song?id=1939129928) | Mazare / AMIDY | 3:36 |
+| 14 | [The World is Ours](https://music.163.com/song?id=2415614) | Catcall | 3:05 |
+| 15 | [Assassin](https://music.163.com/song?id=442314263) | Joey Rumble | 2:51 |
+| 16 | [rain on my window](https://music.163.com/song?id=1411732228) | EMBRZ | 3:33 |
+| 17 | [战幕将启 Conflict Undraped](https://music.163.com/song?id=2045807082) | HOYO-MiX | 1:38 |
+| 18 | [Like Fire](https://music.163.com/song?id=36668113) | Galen Crew | 4:09 |
+| 19 | [Heart On Fire](https://music.163.com/song?id=2142048974) | Blanks | 3:20 |
+| 20 | [Em Gái Mưa](https://music.163.com/song?id=514552193) | Hương Tràm | 5:23 |
+
+> 今日共新增 50 首
 
 ---
-自动生成于 2026-10-17 05:08 · netease-daily-sync
+自动生成于 2026-10-18 00:08 · netease-daily-sync
