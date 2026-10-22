@@ -1,71 +1,71 @@
-# 每日归档 2026-10-21
+# 每日归档 2026-10-22
 
-## ClaudeCode_自动加入_每日推荐 — 10 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [王子系变装](https://music.163.com/song?id=3436976392) | 圈圈菌 | 1:32 |
-| 2 | [暗恋人类日记](https://music.163.com/song?id=1962946869) | Bo Peep / 洛天依Official | 2:17 |
-| 3 | [只有我自己](https://music.163.com/song?id=3444422629) | 转世虚拟猫 / new sad | 2:28 |
-| 4 | [Stripping the Glitter](https://music.163.com/song?id=3423097555) | Garrulous Taoist | 3:00 |
-| 5 | [Lemon Lime](https://music.163.com/song?id=2159683113) | Larnihy | 2:38 |
-| 6 | [Beyond the Falling Sky](https://music.163.com/song?id=3440267638) | QN | 3:44 |
-| 7 | [You Make Me Feel](https://music.163.com/song?id=3443279698) | Project XI | 4:15 |
-| 8 | [Neon Solitude｜霓虹里的孤独](https://music.163.com/song?id=3432791395) | Wishes | 2:48 |
-| 9 | [Matchstick](https://music.163.com/song?id=3420800176) | R_EA | 2:41 |
-| 10 | [芒果花蜜 (манго нектар)](https://music.163.com/song?id=2731333842) | 星星 | 2:59 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 2 首
+## ClaudeCode_自动加入_每日推荐 — 11 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Darker Than Blood](https://music.163.com/song?id=35403505) | Steve Aoki / Linkin Park | 5:13 |
-| 2 | [Invisible (Bonus Track)](https://music.163.com/song?id=32683910) | Kid Astray | 3:54 |
+| 1 | [尘与萤](https://music.163.com/song?id=1402860124) | 依旧在雨中等你 | 4:33 |
+| 2 | [Lucky+Coffee (浴室氛围感)](https://music.163.com/song?id=3428382728) | 如風 / 秋水 | 1:39 |
+| 3 | [Summer Pills in Phonograph(留声机里的夏日药片)](https://music.163.com/song?id=3387600752) | TakesomePills | 2:11 |
+| 4 | [Lose Myself](https://music.163.com/song?id=3400165136) | Before I Cave In | 3:51 |
+| 5 | [Heart''s Home(VIP Mix)](https://music.163.com/song?id=2712706313) | ヘじヘ | 4:11 |
+| 6 | [August 20th](https://music.163.com/song?id=3426033999) | 山河 | 3:21 |
+| 7 | [【售断】"我 在 等 你" - The lyric folk pop type](https://music.163.com/song?id=1805954741) | BECU BEATZ | 3:45 |
+| 8 | [Firebird](https://music.163.com/song?id=3430311519) | NVGUI | 2:34 |
+| 9 | [Amnesia](https://music.163.com/song?id=2602741341) | Alex Lorry | 4:26 |
+| 10 | [【Free】冬季限定“Pop Punk Type Beat”](https://music.163.com/song?id=1898007346) | Lisure | 3:25 |
+| 11 | [双呼吸](https://music.163.com/song?id=3404340181) | 三月雨 | 2:05 |
 
-## ClaudeCode_自动加入_私人雷达 — 2 首
+## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Spinning over You](https://music.163.com/song?id=1483682837) | REYKO | 3:14 |
-| 2 | [纸皇冠与小木剑](https://music.163.com/song?id=3343165734) | 银河小鱼 | 2:32 |
+| 1 | [Realized](https://music.163.com/song?id=1411511810) | Dyslm / Olivia Tchangou | 3:13 |
 
-## ClaudeCode_自动加入_时光雷达 — 8 首
+## ClaudeCode_自动加入_私人雷达 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Ignite](https://music.163.com/song?id=559701010) | K-391 / Alan Walker / Julie Bergan | 3:30 |
-| 2 | [Beyond](https://music.163.com/song?id=27837374) | Hans Zimmer / Lorne Balfe | 3:42 |
-| 3 | [少年踏歌行](https://music.163.com/song?id=2727161733) | Soulloom苏洛牧 | 3:10 |
-| 4 | [Gangsta Yoshi](https://music.163.com/song?id=41644545) | F-777 | 5:22 |
-| 5 | [愉](https://music.163.com/song?id=392112) | 周成 | 4:27 |
-| 6 | [斓](https://music.163.com/song?id=464841478) | 千坂 | 3:54 |
-| 7 | [Indra](https://music.163.com/song?id=17539359) | E.S. Posthumus | 4:18 |
-| 8 | [Astronaut](https://music.163.com/song?id=487454739) | Transviolet | 3:25 |
+| 1 | [Coming Home](https://music.163.com/song?id=475072054) | Dash Berlin / Bo Bruce | 3:14 |
+| 2 | [芒果花蜜 (манго нектар)](https://music.163.com/song?id=2731333842) | 星星 | 2:59 |
+| 3 | [千年之后](https://music.163.com/song?id=3442664844) | 艾拉拉 / Luv4 | 2:14 |
+
+## ClaudeCode_自动加入_时光雷达 — 7 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Blame It On The Stars](https://music.163.com/song?id=28889259) | Andy Grammer | 3:11 |
+| 2 | [i love u. (pt. 2)](https://music.163.com/song?id=425015322) | Panthurr | 1:57 |
+| 3 | [Talk](https://music.163.com/song?id=1487273156) | Glaceo / Eliine | 2:58 |
+| 4 | [In a Few Months](https://music.163.com/song?id=2013229977) | Savannah Sgro | 2:52 |
+| 5 | [Anyone](https://music.163.com/song?id=1961517869) | Mike Perry / Ebba | 3:05 |
+| 6 | [If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)](https://music.163.com/song?id=3437356861) | VALORANT / Grabbitz / Oli Sykes | 3:46 |
+| 7 | [黄昏](https://music.163.com/song?id=190072) | 周传雄 | 5:44 |
 
 ## ClaudeCode_自动加入_宝藏雷达 — 18 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [This Dream Of You](https://music.163.com/song?id=3436943069) | Martin Garrix | 4:46 |
-| 2 | [Tomorrow Tonight](https://music.163.com/song?id=3403920987) | Chris James | 2:25 |
-| 3 | [Montagem Nada Funk](https://music.163.com/song?id=3444402860) | Trispect | 1:36 |
-| 4 | [Never Getting Away](https://music.163.com/song?id=3448864674) | Troye Sivan | 2:54 |
-| 5 | [没有意义的钢琴曲](https://music.163.com/song?id=3443195213) | 在虚无中永存 | 1:55 |
-| 6 | [如果，神明，如果](https://music.163.com/song?id=3439359247) | 不可食用C3H6 | 2:00 |
-| 7 | [Choke](https://music.163.com/song?id=3444878058) | OneRepublic | 3:46 |
-| 8 | [中国热](https://music.163.com/song?id=3445096691) | UDG Records / Hidoyard | 1:36 |
-| 9 | [MADARA](https://music.163.com/song?id=3445832306) | Ez Mil / Eminem / Neil Kaplan | 4:55 |
-| 10 | [Summer Is Over](https://music.163.com/song?id=1490659) | Jon McLaughlin | 5:03 |
-| 11 | [I Think I Love You](https://music.163.com/song?id=1496585121) | Tenacious D | 3:19 |
-| 12 | [Sunday Sunshine](https://music.163.com/song?id=1818487610) | Young Rising Sons | 4:09 |
-| 13 | [Lightenup](https://music.163.com/song?id=1316776196) | Parcels | 3:57 |
-| 14 | [In Time](https://music.163.com/song?id=419254497) | Zeraphym 六翼使徒 / STORYBOARDS | 4:14 |
-| 15 | [Campfire](https://music.163.com/song?id=471968804) | Paradox Interactive | 3:44 |
-| 16 | [TERRITORY](https://music.163.com/song?id=464035465) | The Blaze | 4:36 |
-| 17 | [I Believe In Us (Arknights Soundtrack)](https://music.163.com/song?id=1898207965) | Reigan | 3:29 |
-| 18 | [Wave](https://music.163.com/song?id=1335968714) | The Midnight | 4:31 |
+| 1 | [云](https://music.163.com/song?id=3439441800) | 田馥甄 | 3:24 |
+| 2 | [Four Elements (Decibel outdoor 2026 Friday O.S.T.)](https://music.163.com/song?id=3440967256) | Phuture Noize | 3:19 |
+| 3 | [恰逢那年你明媚](https://music.163.com/song?id=3439792273) | 陈与默 | 2:56 |
+| 4 | [Memories](https://music.163.com/song?id=3442983403) | Rell Vert | 2:42 |
+| 5 | [Control（Tiny Desk Version）](https://music.163.com/song?id=3446624168) | Tori Kelly / GHOST | 3:07 |
+| 6 | [Embarrassingly](https://music.163.com/song?id=3445653417) | Troye Sivan | 3:31 |
+| 7 | [愿未烬](https://music.163.com/song?id=3439712305) | 礼越 | 3:38 |
+| 8 | [Still Standing](https://music.163.com/song?id=3445744464) | Polo G | 1:56 |
+| 9 | [eyes on Yves](https://music.163.com/song?id=3445099130) | UDG Records / IsolYves | 2:01 |
+| 10 | [Insanity](https://music.163.com/song?id=3443879634) | Virtual Riot / Whales | 3:42 |
+| 11 | [Das Mädchen, das Unglück verkauft](https://music.163.com/song?id=1834129483) | Jinja | 4:42 |
+| 12 | [My Dark Disquiet](https://music.163.com/song?id=1306273678) | Poets of the Fall | 5:10 |
+| 13 | [Lost and Found](https://music.163.com/song?id=2919612) | Kim Taylor | 4:03 |
+| 14 | [Collider (Original Mix)](https://music.163.com/song?id=419254872) | Noisia | 4:46 |
+| 15 | [Lucky Dip (幸运抽)](https://music.163.com/song?id=3382964211) | Rico Zayd | 2:46 |
+| 16 | [Run To You](https://music.163.com/song?id=34280465) | Summer Was Fun / Meron Ryan | 3:40 |
+| 17 | [Tracks](https://music.163.com/song?id=41643742) | Roam | 3:22 |
+| 18 | [Let The Senses Clear Your Mind](https://music.163.com/song?id=1312570610) | Logistics | 4:13 |
 
 > 今日共新增 40 首
 
 ---
-自动生成于 2026-10-21 00:43 · netease-daily-sync
+自动生成于 2026-10-22 00:46 · netease-daily-sync
