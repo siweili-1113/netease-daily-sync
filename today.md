@@ -1,73 +1,68 @@
-# 每日归档 2026-10-24
+# 每日归档 2026-10-25
 
-## ClaudeCode_自动加入_每日推荐 — 6 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [隐藏相册](https://music.163.com/song?id=3413127704) | Top Barry / INDEcompany | 2:36 |
-| 2 | [GrayPixel](https://music.163.com/song?id=3352697487) | Fuzzymemory | 3:21 |
-| 3 | [FAYE](https://music.163.com/song?id=2606541499) | Aquari | 3:00 |
-| 4 | [落日之前](https://music.163.com/song?id=3365352037) | Lev | 3:23 |
-| 5 | [Rule](https://music.163.com/song?id=3440113711) | 霓虹兔 | 1:58 |
-| 6 | [Wanna Stay](https://music.163.com/song?id=3447160391) | KKI | 3:33 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 3 首
+## ClaudeCode_自动加入_每日推荐 — 12 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Wings](https://music.163.com/song?id=1817917437) | Niklas Aman | 3:14 |
-| 2 | [Night In the Draw](https://music.163.com/song?id=19565550) | Balmorhea | 4:09 |
-| 3 | [empathy](https://music.163.com/song?id=2005133954) | mixed matches | 3:07 |
+| 1 | [保留关系](https://music.163.com/song?id=3446384412) | Max李玄 | 3:11 |
+| 2 | [Ginkgo (银杏）](https://music.163.com/song?id=3442820199) | 时空储蓄罐 | 2:01 |
+| 3 | [Weight Of The World](https://music.163.com/song?id=3443138881) | 胖墩子 | 3:07 |
+| 4 | [Grey trails live on](https://music.163.com/song?id=3443989683) | Dirk / Echo | 4:32 |
+| 5 | [五！九！八！零！（5980）](https://music.163.com/song?id=3447739737) | stevelong | 3:52 |
+| 6 | [Always Been You](https://music.163.com/song?id=3443266735) | Project XI | 3:09 |
+| 7 | [Valley Ridge](https://music.163.com/song?id=3429108508) | NVGUI | 2:44 |
+| 8 | [盛夏派对 wait a sec.](https://music.163.com/song?id=1962460341) | MRZ | 3:05 |
+| 9 | [Sunrise,Sunset -band ver-](https://music.163.com/song?id=1358088603) | re:plus | 5:19 |
+| 10 | [TOMA SIN NADA Slap](https://music.163.com/song?id=3444545777) | wuli / sleepyyer | 2:41 |
+| 11 | [Eh， Eh (Else I Can Say)](https://music.163.com/song?id=3435121755) | 并非一朝一夕 | 2:26 |
+| 12 | [Glacier（冰川）](https://music.163.com/song?id=3448297511) | 时空储蓄罐 | 2:05 |
 
-## ClaudeCode_自动加入_私人雷达 — 3 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [I Feel It Coming](https://music.163.com/song?id=441491167) | The Weeknd / Daft Punk | 4:29 |
-| 2 | [Circles](https://music.163.com/song?id=3442250724) | James Blunt | 3:52 |
-| 3 | [7 Years](https://music.163.com/song?id=35848582) | Lukas Graham | 3:58 |
-
-## ClaudeCode_自动加入_时光雷达 — 13 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [幻城1-许嵩李毅杰](https://music.163.com/song?id=1958998034) | 云玩/嵩哥单曲合集 | 1:59 |
-| 2 | [【Free】$ O A K E R](https://music.163.com/song?id=1371568344) | Mei | 3:46 |
-| 3 | [Eden](https://music.163.com/song?id=529824168) | INKYZ / Drama B | 3:49 |
-| 4 | [Scream](https://music.163.com/song?id=21974814) | Usher | 3:55 |
-| 5 | [The Spectacular Quiet](https://music.163.com/song?id=30039127) | Lights & Motion | 3:51 |
-| 6 | [Hey, Soul Sister (Glee Cast Version)](https://music.163.com/song?id=18155724) | Glee Cast | 3:40 |
-| 7 | [I Don't Wanna Hurt You Baby](https://music.163.com/song?id=4014850) | Charlie Puth | 4:17 |
-| 8 | [I Need You To Know](https://music.163.com/song?id=1461069344) | Armin van Buuren / Nicky Romero / Ifimay | 3:00 |
-| 9 | [beside you](https://music.163.com/song?id=865022011) | ok2222 / keshi | 2:48 |
-| 10 | [Good Times](https://music.163.com/song?id=411754071) | Childsion | 4:16 |
-| 11 | [Fingers](https://music.163.com/song?id=5256579) | P!nk | 3:41 |
-| 12 | [What Am I](https://music.163.com/song?id=1385408573) | Why Don't We | 3:04 |
-| 13 | [Inside Out](https://music.163.com/song?id=408277812) | The Chainsmokers / Charlee | 3:53 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 17 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [焦虑的人](https://music.163.com/song?id=3439760062) | 小艾斯 | 2:03 |
-| 2 | [森林之心](https://music.163.com/song?id=3446473082) | Youzee Music | 2:31 |
-| 3 | [凡心向喜](https://music.163.com/song?id=3448795532) | 铁痕电台-MSR / z1on | 2:07 |
-| 4 | [See You In My Dreams](https://music.163.com/song?id=3442508865) | Victoria Monét / SZA | 2:38 |
-| 5 | [活在过去难道也有错吗](https://music.163.com/song?id=3444448748) | 阴雨天 / 忧郁日记本 | 2:17 |
-| 6 | [安眠曲](https://music.163.com/song?id=1839173895) | 陈锦栋Kendall | 2:24 |
-| 7 | [Holiday (DJ Antoine Vs Mad Mark 2K15 Radio Edit)](https://music.163.com/song?id=33469694) | Antoine / Akon / DJ Antoine | 3:31 |
-| 8 | [Places I Belong](https://music.163.com/song?id=2117213709) | Seven Lions / Andrew Bayer / Fiora | 3:46 |
-| 9 | [Things Will Get Better](https://music.163.com/song?id=27909971) | AGNEZ MO | 4:05 |
-| 10 | [Welcome to the Club](https://music.163.com/song?id=27043083) | Manian | 3:12 |
-| 11 | [Color](https://music.163.com/song?id=1361531333) | Grant / Juneau | 3:33 |
-| 12 | [We Will Meet Again](https://music.163.com/song?id=1950828555) | San Holo / Jai Wolf | 3:21 |
-| 13 | [Cornelia Street+You're Losing Me](https://music.163.com/song?id=2662720760) | FOOL | 4:40 |
-| 14 | [Outlaws](https://music.163.com/song?id=1398399334) | Manse / JRL / Jonny Rose | 3:37 |
-| 15 | [Easy Lover](https://music.163.com/song?id=1964236432) | Ellie Goulding / Big Sean | 3:35 |
-| 16 | [Methusela Tree](https://music.163.com/song?id=2640842) | Goldmund | 4:48 |
-| 17 | [Milk and Toast and Honey](https://music.163.com/song?id=27159993) | Roxette | 4:04 |
+| 1 | [golden hour (Holiday Version)](https://music.163.com/song?id=2014309073) | JVKE | 3:06 |
+| 2 | [Patience](https://music.163.com/song?id=1293905872) | TRA$H | 1:45 |
+
+## ClaudeCode_自动加入_时光雷达 — 9 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Shine a Little](https://music.163.com/song?id=1397152854) | Craig Reever / Mia Pfirrman | 3:09 |
+| 2 | [Shattered Skies](https://music.163.com/song?id=34723406) | Sparkle | 4:14 |
+| 3 | [Never Be Like You](https://music.163.com/song?id=445703261) | Flume | 3:54 |
+| 4 | [Chateau](https://music.163.com/song?id=506986375) | Angus & Julia Stone | 4:33 |
+| 5 | [Forgot About You](https://music.163.com/song?id=1873089341) | OneRepublic | 2:53 |
+| 6 | [Rush Over Me](https://music.163.com/song?id=434659457) | Said The Sky / ILLENIUM / Seven Lions | 4:19 |
+| 7 | [Magic](https://music.163.com/song?id=26608507) | One Direction | 3:04 |
+| 8 | [Find You](https://music.163.com/song?id=464192074) | HIDDN / Beatrich | 3:33 |
+| 9 | [10,000 Hours](https://music.163.com/song?id=1394494933) | Dan + Shay / Justin Bieber | 2:47 |
+
+## ClaudeCode_自动加入_宝藏雷达 — 19 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [HIT ME](https://music.163.com/song?id=3442640342) | 饼Sir | 2:51 |
+| 2 | [题云上快哉风](https://music.163.com/song?id=3448795530) | 铁痕电台-MSR / Salty Salt | 2:47 |
+| 3 | [Come Back To Me](https://music.163.com/song?id=3440597644) | Russ | 3:06 |
+| 4 | [Sex & Drugs](https://music.163.com/song?id=3444969437) | Temper City | 3:15 |
+| 5 | [她](https://music.163.com/song?id=3445494794) | 周震南 | 3:52 |
+| 6 | [My Favorite Part](https://music.163.com/song?id=3442473835) | Mac Miller / Ariana Grande | 3:35 |
+| 7 | [Pluto](https://music.163.com/song?id=423314153) | Jim Yosef | 3:48 |
+| 8 | [Take Me Now](https://music.163.com/song?id=2737934464) | Deep Mage / Ezra Knox / Noir Drift | 2:25 |
+| 9 | [When I'm Gone](https://music.163.com/song?id=1324511461) | Julia Bergwall | 3:12 |
+| 10 | [Woman](https://music.163.com/song?id=2031822404) | Lane 8 | 10:27 |
+| 11 | [This evening (Sped Up)](https://music.163.com/song?id=3376283728) | Brycen | 2:01 |
+| 12 | [Leaving at Midnight](https://music.163.com/song?id=1397152118) | waykap / Emmi | 3:20 |
+| 13 | [Silly](https://music.163.com/song?id=1446902117) | Heiakim | 3:01 |
+| 14 | [夏Ⅱ](https://music.163.com/song?id=863551420) | 爱喝柠檬茶的喵 | 3:03 |
+| 15 | [LOVE ME](https://music.163.com/song?id=1313052867) | Chromak / Emily Marques | 3:35 |
+| 16 | [Ready to Groove](https://music.163.com/song?id=1450445791) | WavebeatsMusic | 3:10 |
+| 17 | [Панельні будівлі](https://music.163.com/song?id=1870843515) | Mistmorn | 2:32 |
+| 18 | [Лето](https://music.163.com/song?id=2099780070) | Дела Поважнее | 3:02 |
+| 19 | [Молодість](https://music.163.com/song?id=1901929565) | SadSvit | 2:30 |
 
 > 今日共新增 42 首
 
 ---
-自动生成于 2026-10-24 00:54 · netease-daily-sync
+自动生成于 2026-10-25 10:12 · netease-daily-sync

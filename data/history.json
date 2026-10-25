@@ -2,8 +2,8 @@
   "2026-07-06": {
     "total_new": 163
   },
-  "total_archived": 7045,
-  "last_sync": "2026-10-24",
+  "total_archived": 7087,
+  "last_sync": "2026-10-25",
   "2026-07-07": {
     "total_new": 163
   },
@@ -311,6 +311,9 @@
     "total_new": 38
   },
   "2026-10-24": {
+    "total_new": 42
+  },
+  "2026-10-25": {
     "total_new": 42
   }
 }
