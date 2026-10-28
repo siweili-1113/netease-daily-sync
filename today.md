@@ -1,93 +1,80 @@
-# 每日归档 2026-10-27
+# 每日归档 2026-10-28
 
-## ClaudeCode_自动加入_每日推荐 — 20 首
+## ClaudeCode_自动加入_每日推荐 — 22 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [HOVE（FUNK）](https://music.163.com/song?id=3441291533) | 越心 | 1:52 |
-| 2 | [Can't Give Up](https://music.163.com/song?id=3337110940) | MerrinZephyr | 2:14 |
-| 3 | [Love ls Gone](https://music.163.com/song?id=1867426437) | Sceat12k | 4:24 |
-| 4 | [The Coolest Kids](https://music.163.com/song?id=3442064669) | 燈璃 | 4:00 |
-| 5 | [MEMORIZING](https://music.163.com/song?id=2733800375) | DJ DELACROIX / OXXED / Wintherduud | 1:39 |
-| 6 | [Забывай](https://music.163.com/song?id=2142766524) | АДЛИН | 2:33 |
-| 7 | [Citrus Love](https://music.163.com/song?id=2038363237) | Bao The Whale / Overspace | 4:10 |
-| 8 | [It All Starts Right Now](https://music.163.com/song?id=2698694334) | Mameyudoufu | 3:32 |
-| 9 | [靠近我](https://music.163.com/song?id=1878904634) | Gr33nart Beats | 3:10 |
-| 10 | [情绪病](https://music.163.com/song?id=3416509848) | ROJO. | 2:06 |
-| 11 | [this is what losing someone feels like](https://music.163.com/song?id=2032213032) | JVKE | 2:52 |
-| 12 | [Прощавай](https://music.163.com/song?id=1901929567) | SadSvit / Kuaskio | 2:26 |
-| 13 | [Fever Pitch×热度顶峰](https://music.163.com/song?id=3408624648) | Trispect / Kyrex | 2:08 |
-| 14 | [Wave in dream](https://music.163.com/song?id=1942310751) | MT1990 | 3:42 |
-| 15 | [All the Way Home](https://music.163.com/song?id=2166475111) | WIM | 2:47 |
-| 16 | [GGEZ](https://music.163.com/song?id=3425832887) | M.Sasuke / 概念黁 / Sugar张惠晴 | 2:32 |
-| 17 | [Better With You](https://music.163.com/song?id=2107003183) | Jeff Bernat | 3:06 |
-| 18 | [氤氲之森 Pt.2](https://music.163.com/song?id=3443430359) | CMJ | 2:50 |
-| 19 | [何处山海万象生](https://music.163.com/song?id=3448795535) | 铁痕电台-MSR / 8:48 | 2:50 |
-| 20 | [1989 ft. The Midnight](https://music.163.com/song?id=3441136195) | Nightly / The Midnight | 3:48 |
+| 1 | [Part](https://music.163.com/song?id=3420830886) | Enoch | 3:15 |
+| 2 | [1 Thing (Cherokee Remix)](https://music.163.com/song?id=28141814) | Amerie / Cherokee | 3:55 |
+| 3 | [Forgotten](https://music.163.com/song?id=1917175429) | Ollie | 2:49 |
+| 4 | [It's You](https://music.163.com/song?id=3437520894) | VALORANT / Karencici | 2:26 |
+| 5 | [It's CRINGE](https://music.163.com/song?id=3434309137) | Katie Yang | 3:13 |
+| 6 | [My Promise](https://music.163.com/song?id=3331077208) | Richz | 2:10 |
+| 7 | [Sealed My Fate (Out of Time: Part II)](https://music.163.com/song?id=2736345300) | Kalax | 5:09 |
+| 8 | [New York Dream](https://music.163.com/song?id=1938263044) | Kurama | 2:57 |
+| 9 | [Умри, если меня не любишь](https://music.163.com/song?id=1914033332) | DAKOOKA | 2:30 |
+| 10 | [Bones Shake](https://music.163.com/song?id=3447061104) | L4NE | 3:01 |
+| 11 | [take your time](https://music.163.com/song?id=3442316287) | Tris | 1:51 |
+| 12 | [Dreamcatcher](https://music.163.com/song?id=3343549892) | Luke Bergs | 2:58 |
+| 13 | [Lies (feat. Lana Del Rey)](https://music.163.com/song?id=3448488384) | Zach Bryan / Lana Del Rey | 3:40 |
+| 14 | [depiction](https://music.163.com/song?id=3431090567) | mixed matches | 3:04 |
+| 15 | [I Stay](https://music.163.com/song?id=3373112464) | LICHO | 2:54 |
+| 16 | [Snowy](https://music.163.com/song?id=39224616) | Toby Fox | 1:44 |
+| 17 | [You think I'm Crying](https://music.163.com/song?id=3425393522) | JESSE | 4:04 |
+| 18 | [新月的摇篮曲（其二）：宵晖下的笑颜 Lullaby of the New Moon (II): Lucens ut risus](https://music.163.com/song?id=2756018754) | HOYO-MiX | 2:00 |
+| 19 | [Left Alone](https://music.163.com/song?id=3437230933) | MIRBORN | 3:07 |
+| 20 | [slurpees.](https://music.163.com/song?id=3441738813) | DLSS | 2:37 |
+| 21 | [少年’PoP Guitar Type Beat](https://music.163.com/song?id=3321099656) | Lisure | 3:12 |
+| 22 | [精神创伤](https://music.163.com/song?id=3385901059) | 残像音阶 | 1:57 |
 
 ## ClaudeCode_自动加入_欧美私人订制 — 4 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Girl Crazy](https://music.163.com/song?id=1651129) | LMNT | 3:32 |
-| 2 | [Santa Monica](https://music.163.com/song?id=3405312) | Savage Garden | 3:34 |
-| 3 | [next to you](https://music.163.com/song?id=2640423642) | JVKE | 2:34 |
-| 4 | [this is what autumn feels like](https://music.163.com/song?id=2082345051) | JVKE | 3:39 |
+| 1 | [Getting Down](https://music.163.com/song?id=21973866) | The Kills | 2:57 |
+| 2 | [You Make Me A Better Man](https://music.163.com/song?id=17684533) | 5ive | 4:18 |
+| 3 | [oh to be loved](https://music.163.com/song?id=2737832613) | JVKE | 3:45 |
+| 4 | [this is what losing someone feels like](https://music.163.com/song?id=2032213032) | JVKE | 2:52 |
 
-## ClaudeCode_自动加入_私人雷达 — 4 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Wasted (Nightcore) [Bass Boosted] (feat. harmony haven)](https://music.163.com/song?id=1968316652) | murkish / Huken / harmony haven | 3:00 |
-| 2 | [K-Pop Type Beat "Puberty"](https://music.163.com/song?id=2038499612) | Scorpion | 2:53 |
-| 3 | [One Step Ahead](https://music.163.com/song?id=2146771009) | AxR | 2:36 |
-| 4 | [Money(金钱）](https://music.163.com/song?id=3438972797) | Mokou | 3:46 |
-
-## ClaudeCode_自动加入_时光雷达 — 11 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Our Eyes](https://music.163.com/song?id=31789154) | Lucy Rose | 3:12 |
-| 2 | [Amaranthine](https://music.163.com/song?id=16478901) | Amaranthe | 3:29 |
-| 3 | [The First Try](https://music.163.com/song?id=445144543) | Marble Sounds | 3:50 |
-| 4 | [This Sound](https://music.163.com/song?id=27794727) | EnV | 3:49 |
-| 5 | [Astronomy (Original Mix)](https://music.163.com/song?id=408277417) | Bryan Milton | 7:40 |
-| 6 | [Be Concerned](https://music.163.com/song?id=34557910) | twenty one pilots | 4:08 |
-| 7 | [Better Man](https://music.163.com/song?id=2052047) | Thomas Barsoe | 3:38 |
-| 8 | [Ass, Table and the Stick](https://music.163.com/song?id=17236583) | Dousk | 5:14 |
-| 9 | [Feels Like This](https://music.163.com/song?id=33710178) | Lexer | 6:03 |
-| 10 | [Sylvia Hotel](https://music.163.com/song?id=5201775) | Cheryl Wheeler | 3:20 |
-| 11 | [Barcelona](https://music.163.com/song?id=460112985) | Ed Sheeran | 3:11 |
+| 1 | [Juliet](https://music.163.com/song?id=1651133) | LMNT | 3:42 |
+| 2 | [My Heart](https://music.163.com/song?id=30474763) | Different Heaven / EH!DE | 4:26 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 23 首
+## ClaudeCode_自动加入_时光雷达 — 5 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [HOVE  FUNK!](https://music.163.com/song?id=3445958119) | Trispect / Kyrex | 2:08 |
-| 2 | [过来人](https://music.163.com/song?id=3448742535) | 喆FILM | 4:42 |
-| 3 | [Jamie](https://music.163.com/song?id=3445656360) | Remi Wolf | 5:06 |
-| 4 | [千劫起，一念生](https://music.163.com/song?id=3451599350) | 鸣潮先约电台 / 子弥 | 3:04 |
-| 5 | [毫无代价唱我自己的歌](https://music.163.com/song?id=3447435448) | 韦礼安 | 3:54 |
-| 6 | [逆境破局](https://music.163.com/song?id=3442632680) | BUTON | 2:15 |
-| 7 | [Call your name](https://music.163.com/song?id=3449259785) | 苏也莉 / 霓虹兔 / 吉泽树 | 1:53 |
-| 8 | [Hystérique](https://music.163.com/song?id=3451521359) | yeule | 3:49 |
-| 9 | [lota](https://music.163.com/song?id=430208991) | Saphir / VAGUE003 | 2:21 |
-| 10 | [溃疡](https://music.163.com/song?id=3356257140) | Sleeppuppy | 2:27 |
-| 11 | [Sparks](https://music.163.com/song?id=1479682939) | Coldplay | 3:47 |
-| 12 | [It Was Over (So We Started)](https://music.163.com/song?id=423997376) | J.Viewz | 2:32 |
-| 13 | [Chemical Romance.](https://music.163.com/song?id=1820040288) | Gallant | 3:47 |
-| 14 | [You Make Me A Better Man](https://music.163.com/song?id=17684533) | 5ive | 4:18 |
-| 15 | [Santa Monica](https://music.163.com/song?id=32548926) | Savage Garden | 3:34 |
-| 16 | [Into Your System [Shiny Mix]](https://music.163.com/song?id=2538555) | Elize | 3:11 |
-| 17 | [Ruby](https://music.163.com/song?id=34557908) | twenty one pilots | 4:30 |
-| 18 | [Third Eye Blind.](https://music.163.com/song?id=1820040980) | Gallant / Arin Ray | 3:42 |
-| 19 | [This I Promise You](https://music.163.com/song?id=21567929) | Richard Marx | 4:38 |
-| 20 | [Check for Pulse](https://music.163.com/song?id=1389422863) | Duplex Heart / Anya Gold | 3:48 |
-| 21 | [infinity beyond](https://music.163.com/song?id=3413538614) | JVKE / John Michael Howell / ZVC | 2:36 |
-| 22 | [鸣神的思虑 Thoughts of Lightning](https://music.163.com/song?id=1879108678) | 陈致逸 / HOYO-MiX | 1:54 |
-| 23 | [save your breath](https://music.163.com/song?id=1984540918) | JVKE | 2:45 |
+| 1 | [Brighter Days](https://music.163.com/song?id=1891675717) | TRA$H | 2:08 |
+| 2 | [Clearer](https://music.163.com/song?id=1384056972) | CG5 | 3:08 |
+| 3 | [MANGATA](https://music.163.com/song?id=2723078898) | GTR7 | 2:46 |
+| 4 | [The King2（music）](https://music.163.com/song?id=2747310659) | Paperman | 2:33 |
+| 5 | [Driving Home for Christmas](https://music.163.com/song?id=440310367) | Campsite Dream | 2:54 |
 
-> 今日共新增 62 首
+## ClaudeCode_自动加入_宝藏雷达 — 16 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Chaikovsky](https://music.163.com/song?id=3445230053) | 霓虹兔 | 2:08 |
+| 2 | [在痛苦彻底撕裂之前Pt.2](https://music.163.com/song?id=3443085323) | UM | 2:05 |
+| 3 | [Hand Me Your Soul](https://music.163.com/song?id=3442100701) | Devstacks | 3:04 |
+| 4 | [窄街捉迷藏](https://music.163.com/song?id=3447008112) | Y.Z.H于哲浩 | 3:22 |
+| 5 | [拜青山](https://music.163.com/song?id=3442167877) | 李常超 (Lao乾妈) / 杨旭文 | 3:45 |
+| 6 | [DANGER DANGER](https://music.163.com/song?id=3442146505) | Dom Dolla / Skepta / Solomun | 3:00 |
+| 7 | [가까이 (feat. Yoyi)](https://music.163.com/song?id=3452304701) | Sider7 / Yoyi | 1:50 |
+| 8 | [无限可能](https://music.163.com/song?id=3446824459) | 所长sama | 1:51 |
+| 9 | [Caught Up](https://music.163.com/song?id=1323317986) | ALIUS / Un-Ti | 3:28 |
+| 10 | [Regrets](https://music.163.com/song?id=29043520) | Elyonbeats | 4:39 |
+| 11 | [REDLIGHT (VIP)](https://music.163.com/song?id=1356559407) | NGHTMRE / A$AP Ferg | 3:19 |
+| 12 | [Rise and Shine](https://music.163.com/song?id=1451785149) | Teminite | 4:31 |
+| 13 | [Purpose of Life](https://music.163.com/song?id=2011275909) | LEVENZ / 7u7 | 4:00 |
+| 14 | [A Full Moon](https://music.163.com/song?id=427373299) | F-777 | 5:03 |
+| 15 | [Legends Are Made](https://music.163.com/song?id=1456416706) | Sam Tinnesz | 2:49 |
+| 16 | [call you back](https://music.163.com/song?id=1921532706) | Ivoris / Snoozegod / keeplove. | 2:41 |
+
+> 今日共新增 49 首
 
 ---
-自动生成于 2026-10-27 01:34 · netease-daily-sync
+自动生成于 2026-10-28 01:31 · netease-daily-sync
