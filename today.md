@@ -1,76 +1,60 @@
-# 每日归档 2026-11-05
+# 每日归档 2026-11-06
 
-## ClaudeCode_自动加入_每日推荐 — 8 首
+## ClaudeCode_自动加入_每日推荐 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Late Hush](https://music.163.com/song?id=3420402302) | KotoVai | 2:40 |
-| 2 | [DIVE](https://music.163.com/song?id=3446236425) | Haruki_s | 3:46 |
-| 3 | [DieInChurch](https://music.163.com/song?id=2138729764) | z4p / V4MPSVLT | 1:30 |
-| 4 | [A Beautiful Rush](https://music.163.com/song?id=3429041427) | 时空弦 | 2:55 |
-| 5 | [Loop](https://music.163.com/song?id=3435537484) | RHYM | 2:28 |
-| 6 | [Empty Mark](https://music.163.com/song?id=3424302938) | 阿信 | 2:58 |
-| 7 | [Dear Travelers of the Universe](https://music.163.com/song?id=2635249416) | Brian Cheng | 5:32 |
-| 8 | [遗憾总是贯穿人生始终](https://music.163.com/song?id=3452837932) | 供销社乐队 / 边缘 | 3:31 |
+| 1 | [贵人](https://music.163.com/song?id=1882645729) | 回春丹 | 3:02 |
+| 2 | [我将在何处游荡](https://music.163.com/song?id=3454700867) | 太一 | 3:18 |
+| 3 | [Too Much Space](https://music.163.com/song?id=3426957690) | NVGUI | 2:51 |
 
 ## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Back In The Game (Phoniks Remix)](https://music.163.com/song?id=526091093) | Phoniks / Wu-Tang Clan | 3:33 |
+| 1 | [Hope We Meet Again](https://music.163.com/song?id=28018131) | Pitbull / Chris Brown | 3:41 |
 
-## ClaudeCode_自动加入_私人雷达 — 3 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [The Bird Song](https://music.163.com/song?id=2614571488) | Noah Floersch | 3:53 |
-| 2 | [Never See Me Again](https://music.163.com/song?id=1996755298) | Goostavo | 2:35 |
-| 3 | [Montagem Nada Funk](https://music.163.com/song?id=3444402860) | Trispect | 1:36 |
-
-## ClaudeCode_自动加入_时光雷达 — 11 首
+## ClaudeCode_自动加入_私人雷达 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Row](https://music.163.com/song?id=1859715016) | Avicii | 5:02 |
-| 2 | [Sweet](https://music.163.com/song?id=26365100) | I.Y.F.F.E / Au5 / Auratic | 5:37 |
-| 3 | [Sing](https://music.163.com/song?id=30212009) | Ed Sheeran | 3:55 |
-| 4 | [Seek Bromance (Avicii's Vocal Extended Mix)](https://music.163.com/song?id=26883616) | Tim Berg / Avicii | 8:08 |
-| 5 | [Omega](https://music.163.com/song?id=1485786110) | Pixel Terror | 2:51 |
-| 6 | [Quasimodo](https://music.163.com/song?id=3767254) | Tom Varner | 4:41 |
-| 7 | [Time Machine](https://music.163.com/song?id=437802985) | Cerrone / Sam Gray | 4:51 |
-| 8 | [假摔](https://music.163.com/song?id=1842801269) | 许嵩 | 4:18 |
-| 9 | [Secret of the Sands](https://music.163.com/song?id=1464318708) | Re-Logic / Jonathan Van Den Wijngaarden | 3:38 |
-| 10 | [带着地球去流浪](https://music.163.com/song?id=1341939931) | 刘欢 | 4:30 |
-| 11 | [Sandcastles in the Sand (From "How I Met Your Mother: Season 3")](https://music.163.com/song?id=27588702) | Robin Sparkles | 3:40 |
+| 1 | [this is what autumn feels like](https://music.163.com/song?id=2082345051) | JVKE | 3:39 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 22 首
+## ClaudeCode_自动加入_时光雷达 — 8 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [爱情买卖](https://music.163.com/song?id=3452884098) | 无人区 / krs | 2:04 |
-| 2 | [She’s the Best](https://music.163.com/song?id=3445653957) | Troye Sivan | 4:14 |
-| 3 | [垓下·月下辞](https://music.163.com/song?id=3452884026) | 燚 / 听潮阁 | 3:29 |
-| 4 | [Le Boy](https://music.163.com/song?id=3445653418) | Troye Sivan | 3:30 |
-| 5 | [现实太少偶像剧](https://music.163.com/song?id=3453238432) | Dear Jane | 4:50 |
-| 6 | [一眼](https://music.163.com/song?id=3454366481) | 徐来 / 听潮阁 | 3:56 |
-| 7 | [新与天齐](https://music.163.com/song?id=3452020393) | 苏也莉 | 2:20 |
-| 8 | [What Went Wrong](https://music.163.com/song?id=3454520213) | Helluva Boss / Barrett Wilbert Weed / Bryce Pinkham | 3:18 |
-| 9 | [给你](https://music.163.com/song?id=3451994369) | 许飞 | 4:10 |
-| 10 | [分分钟需要你](https://music.163.com/song?id=3446807548) | 林忆莲 | 4:12 |
-| 11 | [Gimme Dat](https://music.163.com/song?id=3454343074) | MORTEN | 3:15 |
-| 12 | [Worth It](https://music.163.com/song?id=3448934035) | Corbin | 2:41 |
-| 13 | [Shroom Clouds](https://music.163.com/song?id=3449133359) | A$AP Rocky / reggie / Jeremih | 3:15 |
-| 14 | [生而为光](https://music.163.com/song?id=3454366484) | 赵太阳 / 六月 / 萨满（Saman） | 4:07 |
-| 15 | [MOLLY TALK](https://music.163.com/song?id=3444595395) | ISOxo / Madeon | 3:18 |
-| 16 | [The Termination of Life?](https://music.163.com/song?id=32192733) | GMO vs. Dense | 9:07 |
-| 17 | [Caldera](https://music.163.com/song?id=31010889) | Recondite | 8:53 |
-| 18 | [Everything To Me](https://music.163.com/song?id=2611317818) | Porter Robinson | 4:46 |
-| 19 | [After the Winter](https://music.163.com/song?id=26429191) | Lenka | 3:32 |
-| 20 | [Body Language (feat. Miranda Glory & Haris) [Club Radio Mix]](https://music.163.com/song?id=544517793) | Tujamo | 2:43 |
-| 21 | [Sweet Time](https://music.163.com/song?id=1839137992) | Porter Robinson | 4:11 |
-| 22 | [Aesthetic](https://music.163.com/song?id=1927389606) | Tollan Kim | 2:14 |
+| 1 | [[free beat] "又梦见你啦" | XXXTENTACION type beat](https://music.163.com/song?id=1413274208) | T.A. | 2:59 |
+| 2 | [盛京（Extended Mix）](https://music.163.com/song?id=1302879034) | EM-MUMU | 4:23 |
+| 3 | [China-N](https://music.163.com/song?id=496128297) | 仁辰 | 3:25 |
+| 4 | [What I Mean](https://music.163.com/song?id=33761724) | A. G. Cook | 4:05 |
+| 5 | [MJ](https://music.163.com/song?id=864241916) | Now, Now | 3:52 |
+| 6 | [Superdate (From "How I Met Your Mother: Season 5"/Soundtrack Version)](https://music.163.com/song?id=27588697) | Josh Radnor | 1:43 |
+| 7 | [Viva La Vida](https://music.163.com/song?id=28613094) | Simply Three | 4:05 |
+| 8 | [STFU & Hold Me](https://music.163.com/song?id=497542033) | Liz Huett | 3:46 |
 
-> 今日共新增 45 首
+## ClaudeCode_自动加入_宝藏雷达 — 16 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [途](https://music.163.com/song?id=3447018270) | 林震Linz | 2:58 |
+| 2 | [红发女孩](https://music.163.com/song?id=3450974922) | KID / Alonzone | 2:13 |
+| 3 | [Sex Star](https://music.163.com/song?id=3445653419) | Troye Sivan | 3:08 |
+| 4 | [Grant Us Eyes](https://music.163.com/song?id=3438363574) | Seven Lions / Kill The Noise / MUST DIE! | 4:06 |
+| 5 | [This one](https://music.163.com/song?id=28341946) | Bubble Toy | 3:30 |
+| 6 | [lose you](https://music.163.com/song?id=25917310) | Linda Sundblad | 3:31 |
+| 7 | [Surprisingly So](https://music.163.com/song?id=2181640) | Amy Seeley | 3:44 |
+| 8 | [We the People](https://music.163.com/song?id=3970349) | Brulé | 4:58 |
+| 9 | [Legend](https://music.163.com/song?id=36621116) | R. Armando Morabito / aya | 5:42 |
+| 10 | [Memory Lane](https://music.163.com/song?id=1321603654) | JoinedTheHerd | 4:00 |
+| 11 | [Shakin' the Devil's Hand](https://music.163.com/song?id=444599947) | Rob Tognoni | 4:43 |
+| 12 | [Our Final Hope](https://music.163.com/song?id=1942433) | Steve Jablonsky | 3:42 |
+| 13 | [Rapinmedi](https://music.163.com/song?id=1310851037) | Michael Leonard | 7:28 |
+| 14 | [Quasimodo](https://music.163.com/song?id=3767254) | Tom Varner | 4:41 |
+| 15 | [Time Machine](https://music.163.com/song?id=437802985) | Cerrone / Sam Gray | 4:51 |
+| 16 | [Plur](https://music.163.com/song?id=864647286) | Lady Faith | 3:36 |
+
+> 今日共新增 29 首
 
 ---
-自动生成于 2026-11-05 02:39 · netease-daily-sync
+自动生成于 2026-11-06 02:40 · netease-daily-sync
