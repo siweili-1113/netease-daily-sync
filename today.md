@@ -1,82 +1,109 @@
-# 每日归档 2026-11-13
+# 每日归档 2026-11-14
 
-## ClaudeCode_自动加入_每日推荐 — 24 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [AA Battery](https://music.163.com/song?id=2733531984) | Johnny Stimson / JORDANN | 3:12 |
-| 2 | [你的故乡是月球](https://music.163.com/song?id=3455152541) | 法老 / KnowKnow | 3:52 |
-| 3 | [Chinatown Blues (feat. Vocaloid Gumi)](https://music.163.com/song?id=545728377) | Karma Wears White Ties / GUMI / ODDEEO | 3:35 |
-| 4 | [State Your Name](https://music.163.com/song?id=3365092031) | Starjunk 95 | 2:42 |
-| 5 | [In Love With Myself](https://music.163.com/song?id=3448934969) | Kalman Chodakiewitz / Eli Shiffman / Petite Meller | 2:52 |
-| 6 | [spirits](https://music.163.com/song?id=3431093685) | mixed matches | 2:43 |
-| 7 | [根深](https://music.163.com/song?id=3433349092) | 莉莉周她说 Lily Chou-Chou Lied | 3:37 |
-| 8 | [Moonlight](https://music.163.com/song?id=2671106850) | Xdx prod | 3:24 |
-| 9 | [I Hate the Smell of Summer Entering My Nose](https://music.163.com/song?id=2634118045) | Huge Gap | 4:53 |
-| 10 | [Would You Mind](https://music.163.com/song?id=1969744128) | HYBS | 3:22 |
-| 11 | [Partynextdoor x Ambient type beat-Sophia](https://music.163.com/song?id=3420758023) | dandy | 2:57 |
-| 12 | [Vibe知识大赏](https://music.163.com/song?id=3446372562) | 霓虹兔 | 2:39 |
-| 13 | [日落归山海](https://music.163.com/song?id=3451102815) | 诅咒之翼·Cursewing | 2:07 |
-| 14 | [奔向名为解脱的梦](https://music.163.com/song?id=3421684955) | UM | 2:09 |
-| 15 | [坏情绪](https://music.163.com/song?id=3424503149) | 像素雨 | 2:12 |
-| 16 | [apogee](https://music.163.com/song?id=1973823084) | Skyfall Beats | 3:00 |
-| 17 | [再度和你 With You Once More](https://music.163.com/song?id=3334058890) | HOYO-MiX | 3:24 |
-| 18 | [Dear Spring](https://music.163.com/song?id=2695707685) | HOPERUI / Greyscale | 2:06 |
-| 19 | [颠覆海洋](https://music.163.com/song?id=3458276373) | 铁痕电台-MSR / Au5 / Essenger | 3:08 |
-| 20 | [Clues](https://music.163.com/song?id=2117214224) | Ashley Alisha | 3:15 |
-| 21 | [世界尽头酒馆 World's End Tavern](https://music.163.com/song?id=3360834529) | HOYO-MiX | 1:54 |
-| 22 | [nothing2prove](https://music.163.com/song?id=1439316483) | lilspirit | 1:35 |
-| 23 | [I Like Me Better](https://music.163.com/song?id=479223413) | LAUV | 3:17 |
-| 24 | [生日快乐！天蝎座的你](https://music.163.com/song?id=2624235389) | 网易云音乐 | 1:52 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 1 首
+## ClaudeCode_自动加入_每日推荐 — 27 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Lies (feat. Lana Del Rey)](https://music.163.com/song?id=3448488384) | Zach Bryan / Lana Del Rey | 3:40 |
+| 1 | [Missing My Lover](https://music.163.com/song?id=3454326233) | Vex / SHaDow（影） / MerrinZephyr | 2:40 |
+| 2 | [Self Love x No Idea Lâtin](https://music.163.com/song?id=2739848092) | 5757 / IRXD7 / BROWN RECORD | 2:45 |
+| 3 | [Kiss my soul](https://music.163.com/song?id=3459354604) | Viik潘唯奇 | 2:18 |
+| 4 | [Moth](https://music.163.com/song?id=2088789426) | Park Bird | 2:54 |
+| 5 | [Light the night](https://music.163.com/song?id=3459859021) | 小恐龙 | 2:49 |
+| 6 | [西湖水 (官方beat)](https://music.163.com/song?id=1933659335) | Udigg / CashTrippy / mac ova seas | 3:18 |
+| 7 | [Goodnight Moon](https://music.163.com/song?id=1811126205) | Boogie Belgique | 4:24 |
+| 8 | [Velune](https://music.163.com/song?id=3418408981) | santilavadenz | 4:00 |
+| 9 | [in heat. (ALEJANDRO Remix)](https://music.163.com/song?id=1888304014) | Hentai Xander / ALEJANDRO | 2:50 |
+| 10 | [Local Void](https://music.163.com/song?id=1315469626) | INZO | 3:39 |
+| 11 | [Tacet](https://music.163.com/song?id=3441054003) | MoreanP | 3:19 |
+| 12 | [星河不及你](https://music.163.com/song?id=2129898729) | AnRain安林 | 2:41 |
+| 13 | [Waste No Time](https://music.163.com/song?id=3374021575) | Jeff Bernat | 2:45 |
+| 14 | [netflix in the morning](https://music.163.com/song?id=1473274369) | Corn Wave | 1:40 |
+| 15 | [As Time Flies](https://music.163.com/song?id=2097530790) | Ty's Music | 1:37 |
+| 16 | [Snowman](https://music.163.com/song?id=1931154980) | Sia | 2:45 |
+| 17 | [Lost and Found](https://music.163.com/song?id=2093426417) | XdrianGM | 3:15 |
+| 18 | [予以明日的花束](https://music.163.com/song?id=3460245113) | 鸣潮先约电台 / Ream雨舒 / Koimoon | 4:44 |
+| 19 | [提瓦特民谣](https://music.163.com/song?id=2750140001) | 宴宁 / XY大甘蔗 / 柳知萧 | 3:37 |
+| 20 | [生死](https://music.163.com/song?id=3322097224) | Grrreta | 2:14 |
+| 21 | [Make It Lower](https://music.163.com/song?id=2656266608) | Carpetman | 4:07 |
+| 22 | [Don't Leave](https://music.163.com/song?id=2127246453) | Tom Frane / RJ Pasin | 3:01 |
+| 23 | [青春症：谢幕](https://music.163.com/song?id=3448136989) | 白居可能易 / M3mo | 2:16 |
+| 24 | [Intentions](https://music.163.com/song?id=1421443440) | Justin Bieber / Quavo | 3:32 |
+| 25 | [Willed](https://music.163.com/song?id=2642605434) | Iridiumol | 2:10 |
+| 26 | [DREAM FUNK](https://music.163.com/song?id=3333252769) | Lumix / Kxrsed | 1:36 |
+| 27 | [rifle](https://music.163.com/song?id=2692445514) | key vs. locket | 3:00 |
 
-## ClaudeCode_自动加入_私人雷达 — 1 首
+## ClaudeCode_自动加入_欧美私人订制 — 8 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Safe With Me](https://music.163.com/song?id=3432891864) | LWSIC | 4:31 |
+| 1 | [Preacher Man](https://music.163.com/song?id=545200848) | The Driver Era | 3:39 |
+| 2 | [The Reminder](https://music.163.com/song?id=1952396679) | Chris James | 2:38 |
+| 3 | [Fragile](https://music.163.com/song?id=1892267652) | Tatsuro Y | 5:28 |
+| 4 | [Hong Kong (feat. 王菲季候风)](https://music.163.com/song?id=3456047164) | The Weeknd | 3:36 |
+| 5 | [My legs My nose](https://music.163.com/song?id=3440519184) | MaCar | 2:23 |
+| 6 | [Come Back To Me](https://music.163.com/song?id=3440597644) | Russ | 3:06 |
+| 7 | [Follow Me](https://music.163.com/song?id=3444720987) | Alec Benjamin | 2:51 |
+| 8 | [running away from you](https://music.163.com/song?id=442315521) | skean | 2:18 |
 
-## ClaudeCode_自动加入_时光雷达 — 12 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [24 Caprices, Op. 1:No. 2 in B Minor](https://music.163.com/song?id=26964915) | Itzhak Perlman | 2:44 |
-| 2 | [Tale](https://music.163.com/song?id=1822422618) | Aurora Night | 3:01 |
-| 3 | [Listen Closely](https://music.163.com/song?id=1311762522) | DVBBS / SAFE | 2:50 |
-| 4 | [Think Twice](https://music.163.com/song?id=20288097) | Stéphane Pompougnac / The Jack Herren Band / Ralph Myerz | 4:38 |
-| 5 | [Bike](https://music.163.com/song?id=1302068094) | ADOY | 3:44 |
-| 6 | [Brighter Days](https://music.163.com/song?id=1821229028) | Project AER / Refeeld | 2:48 |
-| 7 | [What Took You So Long? (Acoustic)](https://music.163.com/song?id=1813992965) | Neck Deep | 3:37 |
-| 8 | [Ttm](https://music.163.com/song?id=1430230745) | mixed matches | 3:01 |
-| 9 | [Wind](https://music.163.com/song?id=1465423250) | mixed matches | 3:05 |
-| 10 | [Stay](https://music.163.com/song?id=2057988270) | Galdive | 3:38 |
-| 11 | [Higher](https://music.163.com/song?id=36051225) | Cajsa Siik | 2:58 |
-| 12 | [The Sound Of Silence](https://music.163.com/song?id=5042274) | Simon & Garfunkel | 3:05 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 13 首
+## ClaudeCode_自动加入_私人雷达 — 4 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Hold On Let Go](https://music.163.com/song?id=3448520586) | TOMORA / AURORA / Tom Rowlands | 2:54 |
-| 2 | [I Like Girls](https://music.163.com/song?id=4878174) | Coolio | 4:03 |
-| 3 | [a little more of you](https://music.163.com/song?id=2180064) | Ashley Chambliss | 4:46 |
-| 4 | [4u](https://music.163.com/song?id=31426732) | Blackbear | 2:38 |
-| 5 | [DANCING ALL NIGHT](https://music.163.com/song?id=3435595962) | WACKBOI | 3:05 |
-| 6 | [Slow Dive](https://music.163.com/song?id=486814256) | Seven Lions | 4:24 |
-| 7 | [Best 4 Me (Original Mix)](https://music.163.com/song?id=500474383) | Anton Ishutin feat. Matvey Emerson / Anton Ishutin / Matvey Emerson | 6:02 |
-| 8 | [Got Love Pt.2](https://music.163.com/song?id=3316021980) | 7ovey | 2:28 |
-| 9 | [Ask & You Shall Receive](https://music.163.com/song?id=2161957779) | Rita Ora | 3:19 |
-| 10 | [イルミネーション](https://music.163.com/song?id=2015002738) | 桶狭間ありさ | 2:33 |
-| 11 | [For Your Love](https://music.163.com/song?id=3434693538) | Agera | 2:48 |
-| 12 | [お兄ちゃんはおしまい!](https://music.163.com/song?id=2015002710) | 阿知波大輔 | 3:16 |
-| 13 | [our painted sky./wind](https://music.163.com/song?id=2098311867) | Ceru_ | 4:18 |
+| 1 | [Moth To A Flame](https://music.163.com/song?id=1911217951) | Swedish House Mafia / The Weeknd | 3:54 |
+| 2 | [负重重生](https://music.163.com/song?id=3452414046) | UM / 只是情绪交织 | 1:54 |
+| 3 | [Know Now](https://music.163.com/song?id=534539168) | Delamare / Loé | 3:21 |
+| 4 | [Flowers (feat. Chandler Blasé)](https://music.163.com/song?id=1386953512) | Dirty Palm / Conor Ross / Chandler Blasé | 3:18 |
 
-> 今日共新增 51 首
+## ClaudeCode_自动加入_时光雷达 — 17 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Temporary](https://music.163.com/song?id=2031896912) | LØREN | 3:25 |
+| 2 | [Hiding In The Blue (Instrumental)](https://music.163.com/song?id=1852003651) | TheFatRat / RIELL | 3:41 |
+| 3 | [No Beef](https://music.163.com/song?id=27823361) | Afrojack / Steve Aoki / Miss Palmer | 3:25 |
+| 4 | [Arguru 2k19](https://music.163.com/song?id=1813983264) | deadmau5 | 7:15 |
+| 5 | [With U](https://music.163.com/song?id=1451318762) | Jazzinuf / Etymology Records | 3:05 |
+| 6 | [Piano Anthem!](https://music.163.com/song?id=31165038) | Steerner | 3:41 |
+| 7 | [Home](https://music.163.com/song?id=422104487) | Cesqeaux / Kayzo | 3:07 |
+| 8 | [Run To You](https://music.163.com/song?id=34280465) | Summer Was Fun / Meron Ryan | 3:40 |
+| 9 | [Kyoto (Extended Mix)](https://music.163.com/song?id=1847761215) | Code Black | 3:21 |
+| 10 | [Siren](https://music.163.com/song?id=1318920989) | The Chainsmokers / Aazar | 2:54 |
+| 11 | [When It Ends It Starts Again](https://music.163.com/song?id=28617334) | ATB / Sean Ryan | 4:51 |
+| 12 | [GOOD FEELiNGS](https://music.163.com/song?id=2632530286) | Coldplay / Ayra Starr | 3:37 |
+| 13 | [59 Missed Calls](https://music.163.com/song?id=451703197) | David Arnold | 1:53 |
+| 14 | [The Cello Song](https://music.163.com/song?id=25910906) | The Piano Guys | 3:15 |
+| 15 | [无耻之徒](https://music.163.com/song?id=1400563127) | 王雪舟 | 1:56 |
+| 16 | [Elemental](https://music.163.com/song?id=28804232) | Rezonate | 5:48 |
+| 17 | [Shelter](https://music.163.com/song?id=475207921) | Sachi / Nika | 3:32 |
+
+## ClaudeCode_自动加入_宝藏雷达 — 22 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [这片土地](https://music.163.com/song?id=3456818735) | CigarHan / 至岁 | 3:06 |
+| 2 | [我怀疑大禹治水（治没了我的薪水）](https://music.163.com/song?id=3452574547) | 王三一 | 4:06 |
+| 3 | [Minecraft: Flurry (Original Game Soundtrack)](https://music.163.com/song?id=3452539026) | Minecraft / Hyper Potions | 2:34 |
+| 4 | [Reno My Color](https://music.163.com/song?id=3457448582) | 宋雨琦 | 3:01 |
+| 5 | [Just Might Go](https://music.163.com/song?id=3452497788) | Yung Miami / Travis Scott | 3:32 |
+| 6 | [霏儿](https://music.163.com/song?id=3453935031) | 李雨霏_晚饭 | 3:29 |
+| 7 | [Insomnia（RIIZE）](https://music.163.com/song?id=3454755530) | 大碗小面 | 3:03 |
+| 8 | [how you flex](https://music.163.com/song?id=3452416343) | Che | 2:24 |
+| 9 | [Kernel Overflow](https://music.163.com/song?id=3459345834) | 塞壬唱片-MSR / Remi Gallego | 2:38 |
+| 10 | [IDFWU (Anders Crawn Bootleg)](https://music.163.com/song?id=34916939) | Anders Crawn / Big Sean | 4:29 |
+| 11 | [TRIBECA](https://music.163.com/song?id=3354277321) | Gaws | 2:15 |
+| 12 | [Look But Don't Touch](https://music.163.com/song?id=410446858) | Empire Cast / Serayah | 3:44 |
+| 13 | [Salvation](https://music.163.com/song?id=26550264) | Skillet | 3:45 |
+| 14 | [To Have And To Hold (Previously Unreleased)](https://music.163.com/song?id=33495555) | Colin Hay | 3:29 |
+| 15 | [☆.泥骨钉](https://music.163.com/song?id=1933610598) | ✯BabyG✯ | 1:39 |
+| 16 | [How To Fight Loneliness](https://music.163.com/song?id=29449863) | Wilco | 3:53 |
+| 17 | [Feel My Love (feat. Joe Taylor) [Festival Mix]](https://music.163.com/song?id=1957794739) | Lucas & Steve / DubVision / Joe Taylor | 3:06 |
+| 18 | [Faxing Berlin (Original Mix)](https://music.163.com/song?id=503547816) | deadmau5 | 8:47 |
+| 19 | [水木清华2](https://music.163.com/song?id=2635925071) | sleepyyer | 2:15 |
+| 20 | [THE BEST TIME OF MY LIFE](https://music.163.com/song?id=3351943111) | GHOST / TheChainsmokers.NJ. | 1:35 |
+| 21 | [Modern Love](https://music.163.com/song?id=1301474568) | Kristine | 4:50 |
+| 22 | [Ocean Avenue](https://music.163.com/song?id=34602000) | Mitch Murder | 4:45 |
+
+> 今日共新增 78 首
 
 ---
-自动生成于 2026-11-13 02:44 · netease-daily-sync
+自动生成于 2026-11-14 02:34 · netease-daily-sync
