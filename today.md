@@ -1,81 +1,65 @@
-# 每日归档 2026-11-15
+# 每日归档 2026-11-16
 
-## ClaudeCode_自动加入_每日推荐 — 5 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [微醺](https://music.163.com/song?id=3459776090) | 阿怪 | 2:42 |
-| 2 | [Sugar Love](https://music.163.com/song?id=2749051705) | DEN | 3:36 |
-| 3 | [百年之后请与我在宇宙相见](https://music.163.com/song?id=2715823888) | (。ì _ í。) | 2:54 |
-| 4 | [DANZA NA SALOU×跟随心跳之声起舞](https://music.163.com/song?id=3438652715) | Hiyami / Trispect | 1:40 |
-| 5 | [Cat Run！](https://music.163.com/song?id=3441574557) | Puffyyy | 1:55 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 12 首
+## ClaudeCode_自动加入_每日推荐 — 7 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Pray For Me](https://music.163.com/song?id=534952158) | The Weeknd / Kendrick Lamar | 3:31 |
-| 2 | [Fallin' Out](https://music.163.com/song?id=1616018) | Keyshia Cole | 4:27 |
-| 3 | [A Lonely Night](https://music.163.com/song?id=442869474) | The Weeknd | 3:40 |
-| 4 | [If I Ain't Got You](https://music.163.com/song?id=16434100) | Alicia Keys | 3:51 |
-| 5 | [Wake Me Up](https://music.163.com/song?id=2670863151) | The Weeknd | 5:08 |
-| 6 | [Pull Up](https://music.163.com/song?id=1381290206) | Luh Kel | 2:03 |
-| 7 | [Fool For You](https://music.163.com/song?id=1817576399) | KASTRA | 3:27 |
-| 8 | [Still In Love](https://music.163.com/song?id=1873227504) | Jaden | 3:25 |
-| 9 | [Ooh I Like It](https://music.163.com/song?id=2700183537) | Chiko Gee | 1:56 |
-| 10 | [Whatever Happens](https://music.163.com/song?id=21177677) | Michael Jackson | 4:56 |
-| 11 | [It Girl (House) (Remix)](https://music.163.com/song?id=2116543112) | Bull Beats / manu rg | 2:43 |
-| 12 | [Shatterproof (feat. Point North)](https://music.163.com/song?id=2088392677) | William Black / Mazare / Point North | 3:22 |
+| 1 | [China-华灯初上](https://music.163.com/song?id=1363517498) | Sand | 3:00 |
+| 2 | [PICK UP](https://music.163.com/song?id=2702839376) | Gosxx | 3:38 |
+| 3 | [水之湄](https://music.163.com/song?id=863073353) | 惘闻 | 6:17 |
+| 4 | [ヽ｀、｀ヽ｀ヽ](https://music.163.com/song?id=1424537126) | Yzz / Yzz Beats | 2:48 |
+| 5 | [circles.](https://music.163.com/song?id=2037723384) | 8bite | 3:26 |
+| 6 | [Orpheus](https://music.163.com/song?id=2668686107) | 吴昊泽MUSICALBLAST | 3:38 |
+| 7 | [Eternal Longing](https://music.163.com/song?id=3446995305) | 南一 | 2:15 |
+
+## ClaudeCode_自动加入_欧美私人订制 — 1 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Crush On You](https://music.163.com/song?id=1892477872) | Finding Hope | 4:01 |
 
 ## ClaudeCode_自动加入_私人雷达 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Mr Emotional](https://music.163.com/song?id=1379814770) | Syence / LUX | 2:41 |
+| 1 | [medicine](https://music.163.com/song?id=2692445518) | key vs. locket | 3:36 |
 
-## ClaudeCode_自动加入_时光雷达 — 17 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [雨爱](https://music.163.com/song?id=1467444619) | 不是花火呀 | 3:54 |
-| 2 | [以爱为囚](https://music.163.com/song?id=1880886636) | 满舒克 | 1:58 |
-| 3 | [Arcade Mammoth](https://music.163.com/song?id=1296539163) | MOGUAI / Dimitri Vegas / Like Mike | 5:20 |
-| 4 | [Line of Fire](https://music.163.com/song?id=522074828) | Junip | 5:39 |
-| 5 | [All We Got (feat. Lizzy Land)](https://music.163.com/song?id=454711081) | SAM F / Yntendo / Lizzy Land | 2:48 |
-| 6 | [The One for Me](https://music.163.com/song?id=40188022) | Cloud 19 | 2:51 |
-| 7 | [you wouldn't know](https://music.163.com/song?id=1472209867) | Zac Crook | 3:40 |
-| 8 | [Drug Lab](https://music.163.com/song?id=1937086) | Joseph Trapanese / Mike Shinoda | 3:45 |
-| 9 | [Move For Me](https://music.163.com/song?id=28864079) | deadmau5 / Kaskade | 3:57 |
-| 10 | [The Wonky Song (X Rated Version)](https://music.163.com/song?id=484314655) | MONXX / Walter Wilde | 3:06 |
-| 11 | [ATONEMENT](https://music.163.com/song?id=2092733510) | I-YU / Kotori | 3:55 |
-| 12 | [Two Punks In Love](https://music.163.com/song?id=1311535958) | Bülow | 3:15 |
-| 13 | [Two Hands (Original Mix)](https://music.163.com/song?id=29819619) | Omnia / Jonny Rose | 5:19 |
-| 14 | [前行](https://music.163.com/song?id=2015570884) | 阿鲲 | 3:16 |
-| 15 | [I Can't Help](https://music.163.com/song?id=523041065) | Shoffy / Sarcastic Sounds | 2:01 |
-| 16 | [Reforget](https://music.163.com/song?id=35283291) | LAUV | 3:51 |
-| 17 | [RUNAWAY](https://music.163.com/song?id=2619872265) | Connor Price / Hoodie Allen | 2:19 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 15 首
+## ClaudeCode_自动加入_时光雷达 — 14 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [既见沧浪](https://music.163.com/song?id=3457453865) | 河图 / 老虎欧巴 | 3:59 |
-| 2 | [以我之见](https://music.163.com/song?id=3447491767) | 谭维维 | 4:40 |
-| 3 | [Sky Burial](https://music.163.com/song?id=3451275546) | Ecco2k | 3:28 |
-| 4 | [Lost In The Night](https://music.163.com/song?id=3454171853) | Dead Man's Bones | 5:00 |
-| 5 | [对视瞬间](https://music.163.com/song?id=3452445995) | Dx | 3:39 |
-| 6 | [我将在何处游荡](https://music.163.com/song?id=3454700867) | 太一 | 3:18 |
-| 7 | [The Bass](https://music.163.com/song?id=1355597315) | Chico Rose / Afrojack | 2:43 |
-| 8 | [Seek&Hide](https://music.163.com/song?id=1934008643) | anxelswanz | 2:32 |
-| 9 | [Morning Walk](https://music.163.com/song?id=407677402) | Wisp X | 2:46 |
-| 10 | [Shine On You](https://music.163.com/song?id=1329010610) | Gloria Tells | 3:18 |
-| 11 | [Over and Over](https://music.163.com/song?id=1352736128) | Rachael Yamagata | 5:24 |
-| 12 | [Can't Stop This Feeling (Extended Mix)](https://music.163.com/song?id=403012474) | Thomas Gold / AMERSY | 4:52 |
-| 13 | [Acrobatic](https://music.163.com/song?id=1830605725) | SIDEPIECE | 2:56 |
-| 14 | [When It Ends It Starts Again](https://music.163.com/song?id=28617334) | ATB / Sean Ryan | 4:51 |
-| 15 | [There's Only You (Above & Beyond Extended Club Mix)](https://music.163.com/song?id=1354405988) | Above & Beyond / Zoë Johnston | 7:37 |
+| 1 | [载体](https://music.163.com/song?id=2748578031) | Oliver Jiang / SHarK | 2:27 |
+| 2 | [Blink 182](https://music.163.com/song?id=1397701763) | Half an Orange | 3:04 |
+| 3 | [Flames to Fire](https://music.163.com/song?id=1915891975) | Project for Life | 4:46 |
+| 4 | [Till It's Over](https://music.163.com/song?id=28661599) | Tristam | 4:30 |
+| 5 | [AMMO](https://music.163.com/song?id=26549432) | D-Wayne | 3:33 |
+| 6 | [Intoxicated（清醒点儿）](https://music.163.com/song?id=1337943312) | Oliver Jiang / 杨欣冉 | 3:48 |
+| 7 | [Happy Times-From 1949 Show “Inspector General“](https://music.163.com/song?id=28828417) | Bob Crosby | 2:45 |
+| 8 | [We Were Set Up](https://music.163.com/song?id=27770739) | Tangerine Dream / Woody Jackson / The Alchemist | 3:31 |
+| 9 | [Try This](https://music.163.com/song?id=31365584) | Pegboard Nerds | 3:48 |
+| 10 | [Washing Machine Heart](https://music.163.com/song?id=865716302) | Mitski | 2:08 |
+| 11 | [Coming Home (Part II)](https://music.163.com/song?id=19150931) | Skylar Grey | 2:44 |
+| 12 | [Crying Shame](https://music.163.com/song?id=1397701758) | Pegboard Nerds / NERVO | 3:20 |
+| 13 | [Sex (Radio Edit)](https://music.163.com/song?id=403710388) | Cheat Codes / Kris Kross Amsterdam | 3:48 |
+| 14 | [Hold On](https://music.163.com/song?id=1384492893) | ILLENIUM / Georgia Ku | 3:55 |
 
-> 今日共新增 50 首
+## ClaudeCode_自动加入_宝藏雷达 — 11 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [LOVE ME](https://music.163.com/song?id=3454958276) | The whitE / DrakSun | 2:37 |
+| 2 | [Dash Berlin feat. Bo Bruce-Coming Home(Extended Mix)](https://music.163.com/song?id=562594153) | 炮哥 | 5:15 |
+| 3 | [A Tailpiece](https://music.163.com/song?id=17690722) | Ef | 14:02 |
+| 4 | [Something Divine](https://music.163.com/song?id=29181813) | Sam Ock | 3:23 |
+| 5 | [Simpler Christmas Times](https://music.163.com/song?id=2045034728) | Christopher James Dececio | 2:55 |
+| 6 | [Supersonic Rocket Ship](https://music.163.com/song?id=19455277) | The Kinks | 3:31 |
+| 7 | [Back Together Again](https://music.163.com/song?id=32823751) | Lakeside | 4:33 |
+| 8 | [Extreme Ways (Bourne's Ultimatum)](https://music.163.com/song?id=22490436) | Moby | 4:22 |
+| 9 | [Drown](https://music.163.com/song?id=1352331251) | Karen O / Danger Mouse | 3:26 |
+| 10 | [Real](https://music.163.com/song?id=27612188) | Gorgon City | 4:37 |
+| 11 | [Explorers](https://music.163.com/song?id=1335952981) | The Midnight | 4:16 |
+
+> 今日共新增 34 首
 
 ---
-自动生成于 2026-11-15 02:02 · netease-daily-sync
+自动生成于 2026-11-16 02:19 · netease-daily-sync
