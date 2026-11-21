@@ -1,81 +1,65 @@
-# 每日归档 2026-11-20
+# 每日归档 2026-11-21
 
-## ClaudeCode_自动加入_每日推荐 — 17 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Remember Me](https://music.163.com/song?id=34834953) | Kozoro | 3:25 |
-| 2 | [High Forever (Marlon Hoffstadt Remix)](https://music.163.com/song?id=3446161493) | Petite Meller / Marlon Hoffstadt | 3:49 |
-| 3 | [Last Christmas (Single Version)](https://music.163.com/song?id=2650073949) | Wham! | 4:25 |
-| 4 | [BACK TOYOU](https://music.163.com/song?id=2719507750) | 99 God | 2:38 |
-| 5 | [Only Me](https://music.163.com/song?id=3462082821) | Lunak | 3:25 |
-| 6 | [Birthday S*x](https://music.163.com/song?id=1876985557) | Jeremih | 3:46 |
-| 7 | [息をしよう](https://music.163.com/song?id=3428777988) | Saeran Foo | 2:27 |
-| 8 | [Time to go home](https://music.163.com/song?id=31090686) | Jacoo | 4:08 |
-| 9 | [Nothing's New](https://music.163.com/song?id=3400337908) | Rio Romeo | 3:31 |
-| 10 | [Better Apart](https://music.163.com/song?id=1354608659) | Jai Wolf / Dresage | 3:54 |
-| 11 | [Sun](https://music.163.com/song?id=33166666) | Steerner / Martell | 3:30 |
-| 12 | [困在记忆闪帧（are you lost.）](https://music.163.com/song?id=2136864841) | Pluviophile | 3:17 |
-| 13 | [Spring Subway ⛈ (开往春天的地铁)](https://music.163.com/song?id=3401070697) | Varlan | 3:10 |
-| 14 | [环山](https://music.163.com/song?id=1905603224) | 徐嘉良 | 2:11 |
-| 15 | [WA WA WA FUNK](https://music.163.com/song?id=3359342449) | Zaylo | 1:36 |
-| 16 | [She’s Gonna Break My Heart](https://music.163.com/song?id=3440752452) | Magnus Ferrell / Jenevieve | 2:46 |
-| 17 | [Rain travel in the MineCraft](https://music.163.com/song?id=513018525) | Little End | 3:08 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 4 首
+## ClaudeCode_自动加入_每日推荐 — 4 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Montagem Nada Tropica#1](https://music.163.com/song?id=3443840079) | Lenoxi | 2:32 |
-| 2 | [Unforgettable](https://music.163.com/song?id=440464202) | French Montana / Swae Lee | 3:53 |
-| 3 | [one life](https://music.163.com/song?id=3434926469) | charlieonnafriday | 3:02 |
-| 4 | [Days of Dust](https://music.163.com/song?id=1382722864) | Molly Nilsson | 3:33 |
+| 1 | [理想三旬](https://music.163.com/song?id=31445772) | 陈鸿宇 | 3:30 |
+| 2 | [千年泪](https://music.163.com/song?id=3440258034) | Echo艾歌 | 4:06 |
+| 3 | [One foot out the door](https://music.163.com/song?id=3423893317) | Shawn Yang | 2:46 |
+| 4 | [追逐水星](https://music.163.com/song?id=3448235701) | 金艺林 | 2:00 |
+
+## ClaudeCode_自动加入_欧美私人订制 — 8 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Whatever Happens](https://music.163.com/song?id=21178386) | Michael Jackson | 4:56 |
+| 2 | [Deeper In Love](https://music.163.com/song?id=1299563641) | Barely Alive / Great Good Fine OK | 3:20 |
+| 3 | [Starting Again](https://music.163.com/song?id=1442191712) | Day Wave | 3:33 |
+| 4 | [Take Me Down Tonight](https://music.163.com/song?id=485347022) | Paki & Jaro | 3:01 |
+| 5 | [Die With A Smile x Glimpse of Us](https://music.163.com/song?id=2632208512) | skyemane / Sapphink | 4:06 |
+| 6 | [People Is Different](https://music.163.com/song?id=2053293827) | Djkvido | 1:33 |
+| 7 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://music.163.com/song?id=3448337966) | Justice / Tame Impala / SZA | 3:44 |
+| 8 | [Mountain Time](https://music.163.com/song?id=477839666) | Molly Nilsson | 4:28 |
 
 ## ClaudeCode_自动加入_私人雷达 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Dreams](https://music.163.com/song?id=421423014) | Joakim Karud | 3:10 |
+| 1 | [I Love You Baby](https://music.163.com/song?id=1406266995) | Paul Anka | 3:46 |
 
-## ClaudeCode_自动加入_时光雷达 — 10 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Ask](https://music.163.com/song?id=557583266) | L3V3LS | 4:24 |
-| 2 | [Get ya flowers](https://music.163.com/song?id=29723073) | Auryn | 3:05 |
-| 3 | [Terminal Illness](https://music.163.com/song?id=419373060) | 闫东炜 | 3:40 |
-| 4 | [Changsha](https://music.163.com/song?id=466926528) | 烈雨 / JOKER | 4:02 |
-| 5 | [Beautiful Creatures](https://music.163.com/song?id=507585219) | ILLENIUM / MAX | 4:00 |
-| 6 | [蛍舞う夜に](https://music.163.com/song?id=528272077) | Ryo Nakamura / Dachs | 5:46 |
-| 7 | [Simpler Christmas Times](https://music.163.com/song?id=2045034728) | Christopher James Dececio | 2:55 |
-| 8 | [Lunamar](https://music.163.com/song?id=423118777) | Rossylo | 3:13 |
-| 9 | [This Is It](https://music.163.com/song?id=1342157440) | Oh The Larceny | 2:49 |
-| 10 | [Remedy](https://music.163.com/song?id=517647154) | Ea Kaya | 2:45 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 18 首
+## ClaudeCode_自动加入_时光雷达 — 9 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [心事便利贴](https://music.163.com/song?id=3456710295) | 残像音阶 | 2:02 |
-| 2 | [Ya Hit](https://music.163.com/song?id=3458257840) | Future / Drake / Travis Scott | 3:34 |
-| 3 | [Never Too Far / Hero (Medley)](https://music.163.com/song?id=3455315074) | Mariah Carey / Westlife | 4:11 |
-| 4 | [东南亚](https://music.163.com/song?id=3459895032) | BabySky / Goyardmurder | 2:59 |
-| 5 | [Just Might Go](https://music.163.com/song?id=3452497827) | Yung Miami / Travis Scott | 3:32 |
-| 6 | [比翼鸟](https://music.163.com/song?id=3459325389) | 礼越 | 3:55 |
-| 7 | [过](https://music.163.com/song?id=438801079) | 吕程 | 3:56 |
-| 8 | [Minoriya](https://music.163.com/song?id=1307823996) | Dmytry Kondrashov | 3:31 |
-| 9 | [Clouds](https://music.163.com/song?id=37132213) | Horsebeach | 4:26 |
-| 10 | [皮鞭](https://music.163.com/song?id=2740139595) | 郑闯 | 3:13 |
-| 11 | [小依赖](https://music.163.com/song?id=564686794) | 周煦铭 | 3:10 |
-| 12 | [谁能告诉她](https://music.163.com/song?id=550583641) | 石涌 | 3:28 |
-| 13 | [Floating Life](https://music.163.com/song?id=555130555) | 冯石叶 | 3:27 |
-| 14 | [IT ALWAYS WAS YOU](https://music.163.com/song?id=476254273) | haardtek | 2:30 |
-| 15 | [Beatroot (Dannic’s Bigroom Edit)](https://music.163.com/song?id=1419920257) | Dannic | 2:57 |
-| 16 | [Cedar Rapids](https://music.163.com/song?id=1217205) | Dan Gibson | 6:20 |
-| 17 | [Colours](https://music.163.com/song?id=1476934411) | Mat Zo / Olan | 4:28 |
-| 18 | [I'll Never Smile Again](https://music.163.com/song?id=2299973) | Beegie Adair | 4:24 |
+| 1 | [【FREE】羊了个羊（电子音，Electro）](https://music.163.com/song?id=1988373741) | 左轮真人 | 2:37 |
+| 2 | [Super Start](https://music.163.com/song?id=3861525) | Yancy | 2:54 |
+| 3 | [Stray](https://music.163.com/song?id=419374339) | 吴越 | 4:30 |
+| 4 | [It Just Don't Feel Like Xmas (Without You)](https://music.163.com/song?id=5174604) | Rihanna | 3:49 |
+| 5 | [China-River](https://music.163.com/song?id=1372763703) | 饼饼 | 3:11 |
+| 6 | [Gizmo](https://music.163.com/song?id=1380123374) | Syn Cole | 3:11 |
+| 7 | [Cool](https://music.163.com/song?id=479609145) | HOPE-T / Relay | 2:29 |
+| 8 | [Figure Out](https://music.163.com/song?id=1331505365) | Klaas | 2:38 |
+| 9 | [Only One](https://music.163.com/song?id=478203414) | FLUIR | 3:58 |
 
-> 今日共新增 50 首
+## ClaudeCode_自动加入_宝藏雷达 — 12 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Indecision](https://music.163.com/song?id=3456837980) | Rex Orange County / Daniel Caesar | 3:06 |
+| 2 | [雨中曲](https://music.163.com/song?id=3459787514) | 陈一豪Clear / 姚涤 / INDEcompany | 3:12 |
+| 3 | [hey boyyy](https://music.163.com/song?id=3456889810) | Slayyyter | 4:38 |
+| 4 | [孤岛](https://music.163.com/song?id=3454354719) | 吴姆斯 | 2:30 |
+| 5 | [小小手掌握住的幸福](https://music.163.com/song?id=3460243464) | 鸣潮先约电台 / Minase / Koimoon | 3:00 |
+| 6 | [Air Racing Challeng](https://music.163.com/song?id=487375189) | Henry Jackman | 3:10 |
+| 7 | [Late Night Hype](https://music.163.com/song?id=2352236) | Compton's Most Wanted | 4:54 |
+| 8 | [Dopamine Junkie](https://music.163.com/song?id=2035357559) | Vicetone / Ben Samama | 3:26 |
+| 9 | [Get ya flowers](https://music.163.com/song?id=29723073) | Auryn | 3:05 |
+| 10 | [Tale](https://music.163.com/song?id=1822422618) | Aurora Night | 3:01 |
+| 11 | [World of Warships OST 11](https://music.163.com/song?id=413812382) | Various Artists | 2:18 |
+| 12 | [This is How We Roll](https://music.163.com/song?id=30413763) | Fifth Harmony | 4:32 |
+
+> 今日共新增 34 首
 
 ---
-自动生成于 2026-11-20 03:37 · netease-daily-sync
+自动生成于 2026-11-21 03:20 · netease-daily-sync
