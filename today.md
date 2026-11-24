@@ -1,65 +1,45 @@
-# 每日归档 2026-11-23
+# 每日归档 2026-11-24
 
-## ClaudeCode_自动加入_每日推荐 — 4 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Here with me lofi](https://music.163.com/song?id=3441378389) | pp | 4:09 |
-| 2 | [Opening Theme](https://music.163.com/song?id=571541787) | PASIKA / Quantic Dream | 1:45 |
-| 3 | [从风中寄回的信](https://music.163.com/song?id=2152694692) | Jazzzcz | 3:51 |
-| 4 | [saturday.](https://music.163.com/song?id=2057318547) | 8bite | 3:07 |
-
-## ClaudeCode_自动加入_欧美私人订制 — 1 首
+## ClaudeCode_自动加入_每日推荐 — 5 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Bloodline](https://music.163.com/song?id=26537002) | Barbarossa | 4:38 |
+| 1 | [囍（Chinese Wedding）](https://music.163.com/song?id=1303289043) | 葛东琪 | 3:36 |
+| 2 | [Somewhere only in hidden sleep.](https://music.163.com/song?id=3334047202) | Kismet / VIKI | 2:32 |
+| 3 | [Love You（String）](https://music.163.com/song?id=2618464865) | 吴佳隆 / 包子Music社 / 宣子 | 2:48 |
+| 4 | [Rain](https://music.163.com/song?id=2747300597) | 我无记忆 | 1:53 |
+| 5 | [undertow](https://music.163.com/song?id=3447969747) | LWSIC | 3:07 |
 
-## ClaudeCode_自动加入_私人雷达 — 3 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [time machine (feat. aren park)](https://music.163.com/song?id=1379918404) | mj apanay / aren park | 3:45 |
-| 2 | [Mars](https://music.163.com/song?id=1855856092) | Veezy | 2:51 |
-| 3 | [バケモノの唄](https://music.163.com/song?id=1440693335) | Shino / 初音ミク | 4:15 |
-
-## ClaudeCode_自动加入_时光雷达 — 8 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Black Cotton Blues](https://music.163.com/song?id=27202507) | Tape Five | 3:29 |
-| 2 | [Run](https://music.163.com/song?id=2049608933) | Futuristic Polar Bears / DANÊL / Nevve | 2:37 |
-| 3 | [GLASSY SKY](https://music.163.com/song?id=30706129) | Donna Burke | 4:54 |
-| 4 | [写给我第一个喜欢的女孩的歌](https://music.163.com/song?id=3392500306) | ilem / 洛天依Official | 3:01 |
-| 5 | [光与影的对白](https://music.163.com/song?id=1963053471) | 洛天依Official | 4:08 |
-| 6 | [献给风和蝉鸣](https://music.163.com/song?id=2735786306) | WOVOP / 洛天依 / 乐正绫 | 2:39 |
-| 7 | [The Sun Will Rise](https://music.163.com/song?id=471968263) | Richard Schrieber | 3:38 |
-| 8 | [Over That](https://music.163.com/song?id=525239104) | Emily Vaughn / Yuppycult | 3:25 |
+| 1 | [This Place Is a Shelter](https://music.163.com/song?id=16139397) | Ólafur Arnalds | 2:18 |
+| 2 | [clean slate](https://music.163.com/song?id=3451233547) | girl in red | 3:10 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 18 首
+## ClaudeCode_自动加入_时光雷达 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [反光](https://music.163.com/song?id=3373690678) | CigarHan / 备乾 | 3:23 |
-| 2 | [北京的秋天](https://music.163.com/song?id=3456695878) | 化骨龙乐队 / 老狼 | 4:40 |
-| 3 | [Hurt](https://music.163.com/song?id=3460094785) | 2hollis | 2:47 |
-| 4 | [酒](https://music.163.com/song?id=3456818034) | CigarHan | 1:59 |
-| 5 | [Skin](https://music.163.com/song?id=3460092720) | 2hollis | 2:22 |
-| 6 | [ACES](https://music.163.com/song?id=3458476861) | Fall Out Boy | 3:31 |
-| 7 | [如果爱我是一种负担](https://music.163.com/song?id=3453948220) | 李毅恩Lye | 3:33 |
-| 8 | [Guts](https://music.163.com/song?id=3454886580) | LAUV | 2:52 |
-| 9 | [对不起，没关系 (Don’t Cry)](https://music.163.com/song?id=3460651172) | 银河快递 | 3:27 |
-| 10 | [狱](https://music.163.com/song?id=3457837118) | 陈默之 | 4:28 |
-| 11 | [WELCOME](https://music.163.com/song?id=3460805120) | IDK / Eminem / J Dilla | 2:42 |
-| 12 | [Old Camera](https://music.163.com/song?id=2659750351) | Sugarcoat糖衣 | 3:28 |
-| 13 | [Love Natural](https://music.163.com/song?id=26410211) | Crystal Fighters | 3:19 |
-| 14 | [Places Where We'd Lose Ourselves](https://music.163.com/song?id=28289591) | Clockvice | 3:47 |
-| 15 | [beto.](https://music.163.com/song?id=417833945) | matador | 2:21 |
-| 16 | [Sequence Three](https://music.163.com/song?id=26746505) | Gian Piero Reverberi | 1:30 |
-| 17 | [Blood Feuds, Ancient And Modern](https://music.163.com/song?id=1378048825) | Woody Jackson | 7:15 |
-| 18 | [Palaces (feat. Damon Albarn)](https://music.163.com/song?id=1941192164) | Flume / Damon Albarn | 4:51 |
+| 1 | [nagashi](https://music.163.com/song?id=1929266367) | idealism | 1:49 |
+| 2 | [Oh Klahoma](https://music.163.com/song?id=1353427274) | Jack Stauber | 3:05 |
+| 3 | [Another Way](https://music.163.com/song?id=1433426227) | Seven Lions / April Bender | 4:24 |
 
-> 今日共新增 34 首
+## ClaudeCode_自动加入_宝藏雷达 — 9 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [i2i](https://music.163.com/song?id=3460094793) | 2hollis | 1:56 |
+| 2 | [爱转弯（如果你不爱我）](https://music.163.com/song?id=3460069588) | 三官庙红白事之王 | 3:32 |
+| 3 | [Asekia](https://music.163.com/song?id=1905942209) | IELY / 余音社 | 4:11 |
+| 4 | [Leavin’ For You](https://music.163.com/song?id=1401300210) | 流飞奇Lil Fraggy | 3:54 |
+| 5 | [Last Dance](https://music.163.com/song?id=1949464338) | IELY / Xomu | 3:43 |
+| 6 | [Yesterday Yes A Day](https://music.163.com/song?id=2774395) | Jane Birkin | 2:59 |
+| 7 | [Face of Danger](https://music.163.com/song?id=27753125) | Morcheeba | 3:56 |
+| 8 | [Shore in the Rain](https://music.163.com/song?id=1484148644) | Antistar | 2:12 |
+| 9 | [From The Start](https://music.163.com/song?id=1467989130) | 流飞奇Lil Fraggy | 3:12 |
+
+> 今日共新增 19 首
 
 ---
-自动生成于 2026-11-23 02:57 · netease-daily-sync
+自动生成于 2026-11-24 06:13 · netease-daily-sync
