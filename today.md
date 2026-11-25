@@ -1,45 +1,61 @@
-# 每日归档 2026-11-24
+# 每日归档 2026-11-25
 
-## ClaudeCode_自动加入_每日推荐 — 5 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [囍（Chinese Wedding）](https://music.163.com/song?id=1303289043) | 葛东琪 | 3:36 |
-| 2 | [Somewhere only in hidden sleep.](https://music.163.com/song?id=3334047202) | Kismet / VIKI | 2:32 |
-| 3 | [Love You（String）](https://music.163.com/song?id=2618464865) | 吴佳隆 / 包子Music社 / 宣子 | 2:48 |
-| 4 | [Rain](https://music.163.com/song?id=2747300597) | 我无记忆 | 1:53 |
-| 5 | [undertow](https://music.163.com/song?id=3447969747) | LWSIC | 3:07 |
-
-## ClaudeCode_自动加入_私人雷达 — 2 首
+## ClaudeCode_自动加入_每日推荐 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [This Place Is a Shelter](https://music.163.com/song?id=16139397) | Ólafur Arnalds | 2:18 |
-| 2 | [clean slate](https://music.163.com/song?id=3451233547) | girl in red | 3:10 |
+| 1 | [By My Side](https://music.163.com/song?id=3442803490) | 亚哲大大 / PEKIDS | 3:17 |
+| 2 | [You And Me](https://music.163.com/song?id=3347661964) | freezepain | 1:31 |
 
-## ClaudeCode_自动加入_时光雷达 — 3 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [nagashi](https://music.163.com/song?id=1929266367) | idealism | 1:49 |
-| 2 | [Oh Klahoma](https://music.163.com/song?id=1353427274) | Jack Stauber | 3:05 |
-| 3 | [Another Way](https://music.163.com/song?id=1433426227) | Seven Lions / April Bender | 4:24 |
-
-## ClaudeCode_自动加入_宝藏雷达 — 9 首
+## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [i2i](https://music.163.com/song?id=3460094793) | 2hollis | 1:56 |
-| 2 | [爱转弯（如果你不爱我）](https://music.163.com/song?id=3460069588) | 三官庙红白事之王 | 3:32 |
-| 3 | [Asekia](https://music.163.com/song?id=1905942209) | IELY / 余音社 | 4:11 |
-| 4 | [Leavin’ For You](https://music.163.com/song?id=1401300210) | 流飞奇Lil Fraggy | 3:54 |
-| 5 | [Last Dance](https://music.163.com/song?id=1949464338) | IELY / Xomu | 3:43 |
-| 6 | [Yesterday Yes A Day](https://music.163.com/song?id=2774395) | Jane Birkin | 2:59 |
-| 7 | [Face of Danger](https://music.163.com/song?id=27753125) | Morcheeba | 3:56 |
-| 8 | [Shore in the Rain](https://music.163.com/song?id=1484148644) | Antistar | 2:12 |
-| 9 | [From The Start](https://music.163.com/song?id=1467989130) | 流飞奇Lil Fraggy | 3:12 |
+| 1 | [golden hour (Holiday Version)](https://music.163.com/song?id=2014309073) | JVKE | 3:06 |
 
-> 今日共新增 19 首
+## ClaudeCode_自动加入_私人雷达 — 1 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Beanie](https://music.163.com/song?id=2128726009) | Chezile | 2:12 |
+
+## ClaudeCode_自动加入_时光雷达 — 10 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Night Drive in Moscow (Original Mix)](https://music.163.com/song?id=26436550) | 5 Reasons / Patrick Baker | 4:54 |
+| 2 | [The Invisible Girl](https://music.163.com/song?id=26071310) | Parov Stelar Trio | 5:49 |
+| 3 | [Toni](https://music.163.com/song?id=26452513) | HVOB | 4:17 |
+| 4 | [Techno Samba](https://music.163.com/song?id=28424290) | R&Ber | 7:17 |
+| 5 | [Modern Love](https://music.163.com/song?id=1301474568) | Kristine | 4:50 |
+| 6 | [FIRESTARTER](https://music.163.com/song?id=3450569159) | K/DA / 英雄联盟 / i-dle | 3:07 |
+| 7 | [The Story Never Ends (Piano Version)](https://music.163.com/song?id=437802479) | LAUV | 3:49 |
+| 8 | [Words](https://music.163.com/song?id=1301572238) | Steve Void / BEAUZ | 2:41 |
+| 9 | [HUSHH](https://music.163.com/song?id=1379843871) | AViVA | 3:00 |
+| 10 | [Legends Never Die](https://music.163.com/song?id=506196018) | 英雄联盟 / Against the Current | 3:55 |
+
+## ClaudeCode_自动加入_宝藏雷达 — 16 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Blood In Your Eyes (from GTAVI: The Album)](https://music.163.com/song?id=3459514766) | Tove Lo / Grand Theft Auto VI | 2:41 |
+| 2 | [旅行的天赋](https://music.163.com/song?id=3455576192) | 告五人 | 3:42 |
+| 3 | [你死去的夏天pt.2](https://music.163.com/song?id=3459354160) | 白居可能易 / M3mo | 2:03 |
+| 4 | [I GO I GO](https://music.163.com/song?id=3457447502) | Nzwin 黄跃成 | 2:08 |
+| 5 | [丑橘](https://music.163.com/song?id=3441572405) | 夜踊Yoodori / 洛天依Official | 4:46 |
+| 6 | [Forever Memories(CN Ver.)](https://music.163.com/song?id=3463707352) | 王子健 / 拂言 | 5:38 |
+| 7 | [petal](https://music.163.com/song?id=3455478701) | Ariana Grande | 3:04 |
+| 8 | [Alpenglow](https://music.163.com/song?id=31053375) | Nightwish | 4:49 |
+| 9 | [The Crossroads of Time](https://music.163.com/song?id=32640782) | Stive Morgan | 6:48 |
+| 10 | [daydreams](https://music.163.com/song?id=1383937632) | killedmyself | 3:33 |
+| 11 | [Deep In The Mountains](https://music.163.com/song?id=3437637628) | 失落的凯文 | 3:44 |
+| 12 | [C'est La Vie](https://music.163.com/song?id=1342895148) | Siine / Frank Moody | 2:51 |
+| 13 | [In Space](https://music.163.com/song?id=32640786) | Stive Morgan | 7:27 |
+| 14 | [Old School Sound](https://music.163.com/song?id=1375253950) | Cesqeaux / Wuki | 2:53 |
+| 15 | [The One 2](https://music.163.com/song?id=1869687871) | 森林屿诗 / 泽玥Zeyué / L3V3LS | 3:36 |
+| 16 | [makebelieve](https://music.163.com/song?id=1393412184) | mixed matches / Lukrative | 3:07 |
+
+> 今日共新增 30 首
 
 ---
-自动生成于 2026-11-24 06:13 · netease-daily-sync
+自动生成于 2026-11-25 04:58 · netease-daily-sync
