@@ -1,77 +1,76 @@
-# 每日归档 2026-11-27
+# 每日归档 2026-11-28
 
-## ClaudeCode_自动加入_每日推荐 — 17 首
+## ClaudeCode_自动加入_每日推荐 — 14 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Lost It To Trying](https://music.163.com/song?id=27856088) | Son Lux | 4:42 |
-| 2 | [Cloud Letters](https://music.163.com/song?id=3312598695) | DEN | 2:42 |
-| 3 | [Drama Queen](https://music.163.com/song?id=1344165160) | milk. | 4:00 |
-| 4 | [【FREE】"仲 夏 之 日" - POP BPM115 G Major](https://music.163.com/song?id=1847028608) | BECU BEATZ | 3:24 |
-| 5 | [泡泡（对唱）](https://music.163.com/song?id=3462070137) | 老番茄 / 牛佳钰 | 2:57 |
-| 6 | [5:20AM](https://music.163.com/song?id=3462459662) | 礼崩乐不坏 / DJ冷冰冰 | 1:47 |
-| 7 | [Sweet Like Candy](https://music.163.com/song?id=3463218081) | Camila Cabello | 3:04 |
-| 8 | [day after day](https://music.163.com/song?id=3460996188) | Venoflame | 2:12 |
-| 9 | [眼睛里的海（Version2）](https://music.163.com/song?id=3457800810) | 半梦人乐队 | 3:18 |
-| 10 | [september rain](https://music.163.com/song?id=508319548) | jinsang | 2:15 |
-| 11 | [Undan Hulu](https://music.163.com/song?id=16139405) | Ólafur Arnalds | 5:08 |
-| 12 | [In The Grass](https://music.163.com/song?id=1473720505) | No Spirit | 3:03 |
-| 13 | [MEMORIZING 3](https://music.163.com/song?id=3314087126) | OXXED / DJ DELACROIX / Shyron | 1:34 |
-| 14 | [ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ](https://music.163.com/song?id=1975321965) | Bethybai | 3:52 |
-| 15 | [copy + paste](https://music.163.com/song?id=3456705931) | corn wave / mixed matches / SuperA邓艺菲 | 3:13 |
-| 16 | [OH MAH GAH!](https://music.163.com/song?id=2674306076) | SH3RWIN / viralune / Mc Lone | 1:31 |
-| 17 | [雨幕](https://music.163.com/song?id=1397105439) | 许嵩 | 4:00 |
+| 1 | [Sweet Sensation](https://music.163.com/song?id=2045567219) | Mose NMD Dj | 3:00 |
+| 2 | [Miracle](https://music.163.com/song?id=3346896857) | 陆羽 / MIRBORN | 1:47 |
+| 3 | [Don’t Chart](https://music.163.com/song?id=3463218077) | Cardi B | 2:44 |
+| 4 | [lonelyxmas](https://music.163.com/song?id=2659449974) | 游客j6jsy | 3:21 |
+| 5 | [u get me](https://music.163.com/song?id=1483952682) | Gabriela Bee | 2:54 |
+| 6 | [make up your mind](https://music.163.com/song?id=2621192594) | mj apanay | 3:25 |
+| 7 | [Sexy Magic](https://music.163.com/song?id=3463218070) | CA7RIEL & Paco Amoroso / PinkPantheress / Fred again.. | 3:15 |
+| 8 | [﻿Я хотел быть космонавтом](https://music.163.com/song?id=1826831212) | небо над головой | 2:26 |
+| 9 | [Night u lie awake.](https://music.163.com/song?id=3436790383) | Kismet / VIKI | 2:31 |
+| 10 | [Such Owls As You](https://music.163.com/song?id=31152623) | Brambles | 5:29 |
+| 11 | [The Book (feat. JVKE & ZVC)](https://music.163.com/song?id=3461988342) | John Michael Howell / JVKE / ZVC | 2:43 |
+| 12 | [Claude Opus 5.5の小曲](https://music.163.com/song?id=3451586363) | 雷米克斯 | 2:14 |
+| 13 | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & The Lizard Wizard)](https://music.163.com/song?id=3463218071) | Justice / King Gizzard & The Lizard Wizard / SZA | 3:41 |
+| 14 | [All Girls Are The Same](https://music.163.com/song?id=566254172) | Juice WRLD | 2:45 |
 
 ## ClaudeCode_自动加入_欧美私人订制 — 1 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [What About Now](https://music.163.com/song?id=522353104) | MKJ | 2:51 |
+| 1 | [catch me](https://music.163.com/song?id=1984537511) | JVKE | 2:57 |
 
-## ClaudeCode_自动加入_私人雷达 — 6 首
-
-| # | 歌名 | 歌手 | 时长 |
-|---|------|------|------|
-| 1 | [Treasure](https://music.163.com/song?id=25657233) | Bruno Mars | 2:58 |
-| 2 | [So Sick](https://music.163.com/song?id=1786869) | Ne-Yo | 3:28 |
-| 3 | [Uptown Funk](https://music.163.com/song?id=29722263) | Mark Ronson / Bruno Mars | 4:27 |
-| 4 | [Moves Like Jagger](https://music.163.com/song?id=27101701) | Maroon 5 | 3:21 |
-| 5 | [Dilemma](https://music.163.com/song?id=21273749) | Nelly / Kelly Rowland | 4:49 |
-| 6 | [大石碎胸口](https://music.163.com/song?id=386830) | 万能青年旅店 | 7:03 |
-
-## ClaudeCode_自动加入_时光雷达 — 7 首
+## ClaudeCode_自动加入_私人雷达 — 2 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [Remember Me](https://music.163.com/song?id=34834953) | Kozoro | 3:25 |
-| 2 | [Revolving Door](https://music.163.com/song?id=16336958) | Abel Korzeniowski | 4:19 |
-| 3 | [Know My Name](https://music.163.com/song?id=3444858995) | True Damage / 英雄联盟 / Sofía Reyes | 3:32 |
-| 4 | [长生树](https://music.163.com/song?id=3313555607) | 在虚无中永存 | 2:20 |
-| 5 | [GIANTS](https://music.163.com/song?id=1402845242) | True Damage / Becky G / Keke Palmer | 3:11 |
-| 6 | [Leave but Don't Go](https://music.163.com/song?id=1308058321) | Violet Days | 3:15 |
-| 7 | [You Just Got Slapped (From "How I Met Your Mother: Season 3"/Soundtrack Version)](https://music.163.com/song?id=27588704) | Jason Segel | 1:43 |
+| 1 | [Havana](https://music.163.com/song?id=494865824) | Camila Cabello / Young Thug | 3:36 |
+| 2 | [Back To You](https://music.163.com/song?id=1489903181) | Stories / 郑华文Wahman / AISUKI | 4:41 |
 
-## ClaudeCode_自动加入_宝藏雷达 — 15 首
+## ClaudeCode_自动加入_时光雷达 — 3 首
 
 | # | 歌名 | 歌手 | 时长 |
 |---|------|------|------|
-| 1 | [小蝴蝶](https://music.163.com/song?id=3462938585) | 姚晓棠 | 4:15 |
-| 2 | [十万飞花](https://music.163.com/song?id=3460454823) | 黄霄雲 | 3:41 |
-| 3 | [Party With The Boys](https://music.163.com/song?id=3460838725) | Don Toliver | 2:35 |
-| 4 | [花束编织的未来](https://music.163.com/song?id=3460243472) | 鸣潮先约电台 / Koimoon / Moon Jelly | 4:28 |
-| 5 | [一小部分](https://music.163.com/song?id=3463697313) | 游客j6jsy | 2:38 |
-| 6 | [Pusher (feat. Gesaffelstein) [From GTAVI: Original Score]](https://music.163.com/song?id=3454564944) | Justice / Gesaffelstein / Grand Theft Auto VI | 7:02 |
-| 7 | [Take Me Away](https://music.163.com/song?id=1817054112) | 猪蹄炖大虾 / Krbread / 小培lovely | 3:54 |
-| 8 | [Florida Water](https://music.163.com/song?id=547719567) | YNW Melly / J Green | 3:34 |
-| 9 | [Slow](https://music.163.com/song?id=518012117) | Saavan | 3:51 |
-| 10 | [I Am Always Gonna Love You](https://music.163.com/song?id=35310311) | Jon McLaughlin | 3:30 |
-| 11 | [Red October](https://music.163.com/song?id=18557128) | Jesse Marchant | 5:21 |
-| 12 | [Love T.K.O.](https://music.163.com/song?id=3616689) | Teddy Pendergrass | 5:02 |
-| 13 | [Undertow](https://music.163.com/song?id=1861307887) | Danny Olson / Bebi / Tyler Graves | 3:25 |
-| 14 | [Pure as Snow (Trails of the Winter Storm)](https://music.163.com/song?id=776641) | MONO | 11:37 |
-| 15 | [Ether](https://music.163.com/song?id=2077975245) | mixed matches | 2:26 |
+| 1 | [小夜灯](https://music.163.com/song?id=2755717771) | 灰澈 | 2:58 |
+| 2 | [冰の星](https://music.163.com/song?id=1343982589) | Acyanxi | 5:22 |
+| 3 | [Take Back the Night](https://music.163.com/song?id=1389794619) | CaptainSparklez | 6:30 |
 
-> 今日共新增 46 首
+## ClaudeCode_自动加入_宝藏雷达 — 25 首
+
+| # | 歌名 | 歌手 | 时长 |
+|---|------|------|------|
+| 1 | [Great Destroyer](https://music.163.com/song?id=3445920702) | Racing Mount Pleasant | 4:09 |
+| 2 | [Losta](https://music.163.com/song?id=3463699736) | 游客j6jsy | 2:08 |
+| 3 | [离别只是注定](https://music.163.com/song?id=3462935786) | moli | 1:33 |
+| 4 | [我们的盛宴](https://music.163.com/song?id=3462828124) | 盘尼西林 | 4:16 |
+| 5 | [blocking a scene you can't remember](https://music.163.com/song?id=3454208976) | PISS | 4:49 |
+| 6 | [Spit Propane](https://music.163.com/song?id=3460710639) | Offset / Gunna | 3:16 |
+| 7 | [In Love](https://music.163.com/song?id=3456739413) | Galdive / 刘恋 | 2:43 |
+| 8 | [petal](https://music.163.com/song?id=3455478890) | Ariana Grande | 3:04 |
+| 9 | [普照](https://music.163.com/song?id=3456822135) | CigarHan / 二流 | 3:09 |
+| 10 | [窗](https://music.163.com/song?id=3459793489) | 张卡斯 / 洛天依Official | 2:28 |
+| 11 | [Suitcase](https://music.163.com/song?id=1844351489) | Sia | 3:11 |
+| 12 | [芊芊](https://music.163.com/song?id=2733486654) | 福合埕在逃牛肉丸 | 3:26 |
+| 13 | [以家人之名](https://music.163.com/song?id=1470095999) | 吉他纯音乐 | 1:39 |
+| 14 | [逍遥游](https://music.163.com/song?id=550464107) | 沈谧仁 / 奇然 | 5:13 |
+| 15 | [下雨天](https://music.163.com/song?id=2050643162) | MEMORY张瑾然 / 思亦SYi / 雷佳桦 | 2:53 |
+| 16 | [Der Rechte Mann](https://music.163.com/song?id=2749695) | Irrlichter | 3:06 |
+| 17 | [Sally don't wait!](https://music.163.com/song?id=1417453468) | RollingZoos | 2:55 |
+| 18 | [Memories (Single Version)](https://music.163.com/song?id=4425095) | Within Temptation | 3:28 |
+| 19 | [织梦](https://music.163.com/song?id=2679998220) | 福合埕在逃牛肉丸 | 2:48 |
+| 20 | [细雨](https://music.163.com/song?id=1989441245) | 凤凰院零零 | 4:16 |
+| 21 | [If You Ever Change Your Mind](https://music.163.com/song?id=1917543730) | Calum Scott | 3:25 |
+| 22 | [Gold Skies](https://music.163.com/song?id=28786053) | Sander van Doorn / Martin Garrix / DVBBS | 5:29 |
+| 23 | [Smile Together](https://music.163.com/song?id=437859592) | Dúné | 3:49 |
+| 24 | [Horus](https://music.163.com/song?id=534180587) | Owl Vision | 4:14 |
+| 25 | [Love Stoned-I Think She Knows](https://music.163.com/song?id=26913559) | Justin Timberlake | 5:23 |
+
+> 今日共新增 45 首
 
 ---
-自动生成于 2026-11-27 04:23 · netease-daily-sync
+自动生成于 2026-11-28 04:03 · netease-daily-sync
